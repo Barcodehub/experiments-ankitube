@@ -1,0 +1,81 @@
+tarjeta,metodo,video,titulo_video,segmento,inicio_s,fin_s,duracion_s
+1,llm_auto,pjxBF6cZR94,NOAA Legends: Paul Trotter,2,7.6,22.4,14.8
+2,fixed_20,pjxBF6cZR94,NOAA Legends: Paul Trotter,7,120.0,140.0,20.0
+3,llm_medium5,b2SBSE4b7QE,Upper Missisquoi and Trout Partnership Wild and Scenic River,1,0.11,149.38,149.3
+4,llm_medium5,b2SBSE4b7QE,Upper Missisquoi and Trout Partnership Wild and Scenic River,5,254.46,286.46,32.0
+5,llm_short2,vkbap5IlMQI,Grand Canyons of Earth and Mars,7,51.85,63.18,11.3
+6,llm_medium5,vkbap5IlMQI,Grand Canyons of Earth and Mars,4,142.04,186.88,44.8
+7,llm_auto,pjxBF6cZR94,NOAA Legends: Paul Trotter,5,47.0,56.88,9.9
+8,llm_auto,IfRqrrBbT-Y,Artemis II Moon Mission Complete!,14,181.51,193.51,12.0
+9,llm_short2,9svk0qCO0h0,The Science of Smoke Illustrated,4,27.96,36.63,8.7
+10,fixed_20,xqdqnPhguIk,Science in Space: 25 Years of Supporting the Space Station,5,80.0,100.0,20.0
+11,llm_short2,9svk0qCO0h0,The Science of Smoke Illustrated,14,137.77,148.75,11.0
+12,llm_auto,jCPQGGc54Pg,Can Crew Members from Expedition 72  Guess Their Experiments?,10,132.3,152.43,20.1
+13,llm_medium5,0bYytWIFbJs,Wekiva River:  A National Treasure,5,219.53,290.21,70.7
+14,llm_medium5,jCPQGGc54Pg,Can Crew Members from Expedition 72  Guess Their Experiments?,6,78.08,82.24,4.2
+15,llm_auto,MVt2139voxk,"For Earth, With Love: Artemis II",7,125.33,141.7,16.4
+16,fixed_20,84id2dzpwU0,Astronauts on the Space Station Celebrate the 2026 FIFA World Cup,3,40.0,60.0,20.0
+17,llm_medium5,5OgS69ambgA,"Meet Doug Parkinson, SLS Launch Integration and Mission Operations",4,71.37,96.37,25.0
+18,llm_short2,MVt2139voxk,"For Earth, With Love: Artemis II",18,142.06,149.5,7.4
+19,llm_short2,vkbap5IlMQI,Grand Canyons of Earth and Mars,10,85.74,96.24,10.5
+20,llm_medium5,0bYytWIFbJs,Wekiva River:  A National Treasure,2,80.53,120.53,40.0
+21,llm_short2,45ZyHoOuUjw,Realizing the Dream -- The 60th Anniversary of the 1964 Civil Rights Act,3,38.01,59.71,21.7
+22,llm_short2,vkSFLadhL34,Join the Youth Conservation Corps,8,49.37,53.37,4.0
+23,llm_short2,0e1Dy33fR_Q,"Build America, Buy America General Applicability Waivers",52,399.23,415.23,16.0
+24,llm_auto,RizUtptTpLY,"Build America, Buy America Act (BABAA) Categories of Products",15,189.88,198.88,9.0
+25,llm_auto,IfRqrrBbT-Y,Artemis II Moon Mission Complete!,4,36.43,46.84,10.4
+26,fixed_20,vkSFLadhL34,Join the Youth Conservation Corps,5,80.0,100.0,20.0
+27,fixed_20,b2SBSE4b7QE,Upper Missisquoi and Trout Partnership Wild and Scenic River,2,20.0,40.0,20.0
+28,llm_medium5,4JN7Sk9cTQA,Mixed Signals From Saturn,1,0.88,39.08,38.2
+29,llm_auto,pjxBF6cZR94,NOAA Legends: Paul Trotter,10,120.96,137.15,16.2
+30,llm_short2,b2SBSE4b7QE,Upper Missisquoi and Trout Partnership Wild and Scenic River,31,356.05,360.05,4.0
+31,llm_auto,IfRqrrBbT-Y,Artemis II Moon Mission Complete!,1,4.43,15.43,11.0
+32,fixed_20,b2SBSE4b7QE,Upper Missisquoi and Trout Partnership Wild and Scenic River,8,140.0,160.0,20.0
+33,llm_medium5,9shmJOL0AFU,NOAA 50th Anniversary Spotlight: The American Blue Economy,1,16.34,59.66,43.3
+34,llm_auto,jWA3_lz2uFw,NOAA in the Pacific Islands,3,36.84,59.84,23.0
+35,llm_medium5,45ZyHoOuUjw,Realizing the Dream -- The 60th Anniversary of the 1964 Civil Rights Act,2,38.01,66.83,28.8
+36,fixed_20,5OgS69ambgA,"Meet Doug Parkinson, SLS Launch Integration and Mission Operations",7,120.0,140.0,20.0
+37,llm_auto,83DJv429PXE,NASA’s SpaceX Crew-10 Astronauts Answer Our Questions!,19,287.5,309.18,21.7
+38,llm_auto,9shmJOL0AFU,NOAA 50th Anniversary Spotlight: The American Blue Economy,3,35.46,47.46,12.0
+39,fixed_20,9shmJOL0AFU,NOAA 50th Anniversary Spotlight: The American Blue Economy,9,160.0,180.0,20.0
+40,llm_short2,pjxBF6cZR94,NOAA Legends: Paul Trotter,3,22.4,32.59,10.2
+41,llm_medium5,84id2dzpwU0,Astronauts on the Space Station Celebrate the 2026 FIFA World Cup,2,21.6,50.24,28.6
+42,llm_auto,imYAhainWUA,NASA LunaRecycle Challenge Finale Recap,1,1.97,17.49,15.5
+43,llm_short2,0e1Dy33fR_Q,"Build America, Buy America General Applicability Waivers",10,69.23,75.23,6.0
+44,fixed_20,IfRqrrBbT-Y,Artemis II Moon Mission Complete!,4,60.0,80.0,20.0
+45,llm_medium5,0e1Dy33fR_Q,"Build America, Buy America General Applicability Waivers",11,392.23,415.23,23.0
+46,fixed_20,b2SBSE4b7QE,Upper Missisquoi and Trout Partnership Wild and Scenic River,14,260.0,280.0,20.0
+47,llm_short2,5OgS69ambgA,"Meet Doug Parkinson, SLS Launch Integration and Mission Operations",18,129.37,142.37,13.0
+48,fixed_20,9svk0qCO0h0,The Science of Smoke Illustrated,9,160.0,180.0,20.0
+49,llm_medium5,jCPQGGc54Pg,Can Crew Members from Expedition 72  Guess Their Experiments?,10,124.03,145.87,21.8
+50,fixed_20,vkSFLadhL34,Join the Youth Conservation Corps,8,140.0,160.0,20.0
+51,llm_short2,WvFJTBFl52s,Protect and Restore: NOAA Stewardship in Action,15,137.64,145.28,7.6
+52,llm_medium5,MVt2139voxk,"For Earth, With Love: Artemis II",8,176.36,194.81,18.4
+53,llm_auto,MVt2139voxk,"For Earth, With Love: Artemis II",11,179.4,194.81,15.4
+54,fixed_20,IfRqrrBbT-Y,Artemis II Moon Mission Complete!,8,140.0,160.0,20.0
+55,llm_auto,MVt2139voxk,"For Earth, With Love: Artemis II",10,169.22,178.56,9.3
+56,llm_auto,IfRqrrBbT-Y,Artemis II Moon Mission Complete!,9,109.81,124.62,14.8
+57,fixed_20,4JN7Sk9cTQA,Mixed Signals From Saturn,3,40.0,60.0,20.0
+58,fixed_20,IfRqrrBbT-Y,Artemis II Moon Mission Complete!,3,40.0,60.0,20.0
+59,llm_medium5,4JN7Sk9cTQA,Mixed Signals From Saturn,3,82.1,113.2,31.1
+60,llm_short2,83DJv429PXE,NASA’s SpaceX Crew-10 Astronauts Answer Our Questions!,33,253.0,266.86,13.9
+61,fixed_20,83DJv429PXE,NASA’s SpaceX Crew-10 Astronauts Answer Our Questions!,4,60.0,80.0,20.0
+62,fixed_20,pjxBF6cZR94,NOAA Legends: Paul Trotter,3,40.0,60.0,20.0
+63,llm_auto,vkbap5IlMQI,Grand Canyons of Earth and Mars,20,243.57,257.17,13.6
+64,fixed_20,xqdqnPhguIk,Science in Space: 25 Years of Supporting the Space Station,10,180.0,200.0,20.0
+65,llm_short2,vkSFLadhL34,Join the Youth Conservation Corps,13,87.7,92.7,5.0
+66,llm_auto,83DJv429PXE,NASA’s SpaceX Crew-10 Astronauts Answer Our Questions!,17,259.66,269.34,9.7
+67,fixed_20,45ZyHoOuUjw,Realizing the Dream -- The 60th Anniversary of the 1964 Civil Rights Act,3,40.0,60.0,20.0
+68,llm_medium5,IfRqrrBbT-Y,Artemis II Moon Mission Complete!,4,78.03,132.62,54.6
+69,llm_medium5,b2SBSE4b7QE,Upper Missisquoi and Trout Partnership Wild and Scenic River,6,286.46,315.05,28.6
+70,llm_auto,9shmJOL0AFU,NOAA 50th Anniversary Spotlight: The American Blue Economy,18,191.07,204.51,13.4
+71,llm_short2,0e1Dy33fR_Q,"Build America, Buy America General Applicability Waivers",39,301.23,304.23,3.0
+72,llm_auto,9svk0qCO0h0,The Science of Smoke Illustrated,14,182.63,200.02,17.4
+73,llm_medium5,G-GD8SQ0AvU,"Artemis III Announcement Recap: Crew, Mission Details, and What’s Next",1,0.53,49.18,48.6
+74,llm_short2,4JN7Sk9cTQA,Mixed Signals From Saturn,11,122.3,136.3,14.0
+75,fixed_20,xqdqnPhguIk,Science in Space: 25 Years of Supporting the Space Station,2,20.0,40.0,20.0
+76,llm_short2,5OgS69ambgA,"Meet Doug Parkinson, SLS Launch Integration and Mission Operations",22,164.37,179.37,15.0
+77,llm_medium5,83DJv429PXE,NASA’s SpaceX Crew-10 Astronauts Answer Our Questions!,6,117.21,136.01,18.8
+78,llm_medium5,jCPQGGc54Pg,Can Crew Members from Expedition 72  Guess Their Experiments?,16,187.78,194.26,6.5
+79,llm_short2,jWA3_lz2uFw,NOAA in the Pacific Islands,15,141.68,166.68,25.0
+80,llm_short2,90Kgw_SvK4w,What It Takes,7,40.56,51.69,11.1

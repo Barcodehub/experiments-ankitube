@@ -1,0 +1,3259 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 258780,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 2550,
+    "dDurationMs": 5370,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " Grand",
+      "tOffsetMs": 870,
+      "acAsrConf": 196
+    }, {
+      "utf8": " Canyon",
+      "tOffsetMs": 1200,
+      "acAsrConf": 196
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1769,
+      "acAsrConf": 236
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1979,
+      "acAsrConf": 252
+    }, {
+      "utf8": " unique",
+      "tOffsetMs": 2010,
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2460,
+      "acAsrConf": 215
+    } ]
+  }, {
+    "tStartMs": 5240,
+    "dDurationMs": 2680,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 5250,
+    "dDurationMs": 4590,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spectacular",
+      "acAsrConf": 252
+    }, {
+      "utf8": " land",
+      "tOffsetMs": 300,
+      "acAsrConf": 246
+    }, {
+      "utf8": " form",
+      "tOffsetMs": 1109,
+      "acAsrConf": 235
+    }, {
+      "utf8": " there",
+      "tOffsetMs": 1470,
+      "acAsrConf": 236
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 2129,
+      "acAsrConf": 252
+    }, {
+      "utf8": " nothing",
+      "tOffsetMs": 2160,
+      "acAsrConf": 201
+    } ]
+  }, {
+    "tStartMs": 7910,
+    "dDurationMs": 1930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 7920,
+    "dDurationMs": 4889,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quite",
+      "acAsrConf": 207
+    }, {
+      "utf8": " like",
+      "tOffsetMs": 240,
+      "acAsrConf": 252
+    }, {
+      "utf8": " it",
+      "tOffsetMs": 270,
+      "acAsrConf": 252
+    }, {
+      "utf8": " anywhere",
+      "tOffsetMs": 510,
+      "acAsrConf": 207
+    }, {
+      "utf8": " else",
+      "tOffsetMs": 1110,
+      "acAsrConf": 200
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1170,
+      "acAsrConf": 180
+    }, {
+      "utf8": " earth",
+      "tOffsetMs": 1620,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 9830,
+    "dDurationMs": 2979,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 9840,
+    "dDurationMs": 5910,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but",
+      "acAsrConf": 202
+    }, {
+      "utf8": " if",
+      "tOffsetMs": 840,
+      "acAsrConf": 252
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 959,
+      "acAsrConf": 252
+    }, {
+      "utf8": " cast",
+      "tOffsetMs": 1109,
+      "acAsrConf": 229
+    }, {
+      "utf8": " our",
+      "tOffsetMs": 1410,
+      "acAsrConf": 252
+    }, {
+      "utf8": " gaze",
+      "tOffsetMs": 1680,
+      "acAsrConf": 252
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1949,
+      "acAsrConf": 246
+    }, {
+      "utf8": " more",
+      "tOffsetMs": 1980,
+      "acAsrConf": 206
+    }, {
+      "utf8": " distant",
+      "tOffsetMs": 2459,
+      "acAsrConf": 200
+    } ]
+  }, {
+    "tStartMs": 12799,
+    "dDurationMs": 2951,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 12809,
+    "dDurationMs": 6691,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "horizons",
+      "acAsrConf": 252
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 601,
+      "acAsrConf": 226
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 1291,
+      "acAsrConf": 252
+    }, {
+      "utf8": " find",
+      "tOffsetMs": 1470,
+      "acAsrConf": 252
+    }, {
+      "utf8": " another",
+      "tOffsetMs": 1711,
+      "acAsrConf": 225
+    }, {
+      "utf8": " similarly",
+      "tOffsetMs": 2101,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 15740,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 15750,
+    "dDurationMs": 7650,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "amazing",
+      "acAsrConf": 237
+    }, {
+      "utf8": " location",
+      "tOffsetMs": 779,
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1440,
+      "acAsrConf": 212
+    }, {
+      "utf8": " planet",
+      "tOffsetMs": 2340,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Mars",
+      "tOffsetMs": 2850,
+      "acAsrConf": 207
+    }, {
+      "utf8": " has",
+      "tOffsetMs": 3090,
+      "acAsrConf": 252
+    }, {
+      "utf8": " its",
+      "tOffsetMs": 3240,
+      "acAsrConf": 140
+    } ]
+  }, {
+    "tStartMs": 19490,
+    "dDurationMs": 3910,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 19500,
+    "dDurationMs": 6390,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "own",
+      "acAsrConf": 252
+    }, {
+      "utf8": " Grand",
+      "tOffsetMs": 240,
+      "acAsrConf": 218
+    }, {
+      "utf8": " Canyon",
+      "tOffsetMs": 660,
+      "acAsrConf": 218
+    }, {
+      "utf8": " Valles",
+      "tOffsetMs": 1230,
+      "acAsrConf": 243
+    }, {
+      "utf8": " Marineris",
+      "tOffsetMs": 2190,
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2240,
+      "acAsrConf": 147
+    }, {
+      "utf8": " it",
+      "tOffsetMs": 3240,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 23390,
+    "dDurationMs": 2500,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 23400,
+    "dDurationMs": 3660,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is",
+      "acAsrConf": 252
+    }, {
+      "utf8": " interesting",
+      "tOffsetMs": 150,
+      "acAsrConf": 237
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 570,
+      "acAsrConf": 252
+    }, {
+      "utf8": " compare",
+      "tOffsetMs": 870,
+      "acAsrConf": 224
+    }, {
+      "utf8": " Mars",
+      "tOffsetMs": 1230,
+      "acAsrConf": 170
+    }, {
+      "utf8": " Canyon",
+      "tOffsetMs": 1980,
+      "acAsrConf": 187
+    } ]
+  }, {
+    "tStartMs": 25880,
+    "dDurationMs": 1180,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 25890,
+    "dDurationMs": 3570,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with",
+      "acAsrConf": 207
+    }, {
+      "utf8": " ours",
+      "tOffsetMs": 540,
+      "acAsrConf": 248
+    } ]
+  }, {
+    "tStartMs": 27050,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 27060,
+    "dDurationMs": 4979,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " full",
+      "tOffsetMs": 570,
+      "acAsrConf": 252
+    }, {
+      "utf8": " sweep",
+      "tOffsetMs": 840,
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1260,
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1290,
+      "acAsrConf": 252
+    }, {
+      "utf8": " grandeur",
+      "tOffsetMs": 1710,
+      "acAsrConf": 218
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2280,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 29450,
+    "dDurationMs": 2589,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 29460,
+    "dDurationMs": 5790,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Earth's",
+      "acAsrConf": 203
+    }, {
+      "utf8": " Grand",
+      "tOffsetMs": 329,
+      "acAsrConf": 236
+    }, {
+      "utf8": " Canyon",
+      "tOffsetMs": 780,
+      "acAsrConf": 236
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 1350,
+      "acAsrConf": 240
+    }, {
+      "utf8": " be",
+      "tOffsetMs": 1950,
+      "acAsrConf": 252
+    }, {
+      "utf8": " seen",
+      "tOffsetMs": 2100,
+      "acAsrConf": 244
+    }, {
+      "utf8": " very",
+      "tOffsetMs": 2340,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 32029,
+    "dDurationMs": 3221,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 32039,
+    "dDurationMs": 5551,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well",
+      "acAsrConf": 218
+    }, {
+      "utf8": " by",
+      "tOffsetMs": 180,
+      "acAsrConf": 217
+    }, {
+      "utf8": " looking",
+      "tOffsetMs": 630,
+      "acAsrConf": 174
+    }, {
+      "utf8": " down",
+      "tOffsetMs": 1020,
+      "acAsrConf": 252
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 1200,
+      "acAsrConf": 205
+    }, {
+      "utf8": " space",
+      "tOffsetMs": 1561,
+      "acAsrConf": 252
+    }, {
+      "utf8": " here",
+      "tOffsetMs": 2091,
+      "acAsrConf": 201
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 3091,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 35240,
+    "dDurationMs": 2350,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 35250,
+    "dDurationMs": 4770,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see",
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 180,
+      "acAsrConf": 252
+    }, {
+      "utf8": " canyons",
+      "tOffsetMs": 329,
+      "acAsrConf": 209
+    }, {
+      "utf8": " winding",
+      "tOffsetMs": 780,
+      "acAsrConf": 252
+    }, {
+      "utf8": " paths",
+      "tOffsetMs": 1290,
+      "acAsrConf": 128
+    }, {
+      "utf8": " stretching",
+      "tOffsetMs": 1530,
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 37580,
+    "dDurationMs": 2440,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 37590,
+    "dDurationMs": 6210,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from",
+      "acAsrConf": 216
+    }, {
+      "utf8": " Lake",
+      "tOffsetMs": 210,
+      "acAsrConf": 237
+    }, {
+      "utf8": " Powell",
+      "tOffsetMs": 450,
+      "acAsrConf": 237
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 780,
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1140,
+      "acAsrConf": 252
+    }, {
+      "utf8": " east",
+      "tOffsetMs": 1260,
+      "acAsrConf": 203
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1470,
+      "acAsrConf": 214
+    }, {
+      "utf8": " Lake",
+      "tOffsetMs": 2250,
+      "acAsrConf": 245
+    } ]
+  }, {
+    "tStartMs": 40010,
+    "dDurationMs": 3790,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 40020,
+    "dDurationMs": 6510,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mead",
+      "acAsrConf": 245
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 360,
+      "acAsrConf": 242
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 660,
+      "acAsrConf": 252
+    }, {
+      "utf8": " West",
+      "tOffsetMs": 809,
+      "acAsrConf": 218
+    }, {
+      "utf8": " similarly",
+      "tOffsetMs": 1790,
+      "acAsrConf": 205
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 2790,
+      "acAsrConf": 238
+    }, {
+      "utf8": " this",
+      "tOffsetMs": 3030,
+      "acAsrConf": 252
+    }, {
+      "utf8": " view",
+      "tOffsetMs": 3540,
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 43790,
+    "dDurationMs": 2740,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 43800,
+    "dDurationMs": 5370,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from",
+      "acAsrConf": 216
+    }, {
+      "utf8": " NASA's",
+      "tOffsetMs": 300,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Viking",
+      "tOffsetMs": 750,
+      "acAsrConf": 252
+    }, {
+      "utf8": " orbiter",
+      "tOffsetMs": 1020,
+      "acAsrConf": 252
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 1710,
+      "acAsrConf": 235
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 2400,
+      "acAsrConf": 252
+    }, {
+      "utf8": " see",
+      "tOffsetMs": 2580,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 46520,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 46530,
+    "dDurationMs": 5820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Valles",
+      "acAsrConf": 252
+    }, {
+      "utf8": " Marineris",
+      "tOffsetMs": 390,
+      "acAsrConf": 252
+    }, {
+      "utf8": " reaching",
+      "tOffsetMs": 529,
+      "acAsrConf": 165
+    }, {
+      "utf8": " across",
+      "tOffsetMs": 1529,
+      "acAsrConf": 208
+    }, {
+      "utf8": " vast",
+      "tOffsetMs": 1860,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 49160,
+    "dDurationMs": 3190,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 49170,
+    "dDurationMs": 5940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stretches",
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 210,
+      "acAsrConf": 153
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 990,
+      "acAsrConf": 167
+    }, {
+      "utf8": " Martian",
+      "tOffsetMs": 1170,
+      "acAsrConf": 216
+    }, {
+      "utf8": " terrain",
+      "tOffsetMs": 1620,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Earth's",
+      "tOffsetMs": 2180,
+      "acAsrConf": 201
+    } ]
+  }, {
+    "tStartMs": 52340,
+    "dDurationMs": 2770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 52350,
+    "dDurationMs": 6530,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Grand",
+      "acAsrConf": 236
+    }, {
+      "utf8": " Canyon",
+      "tOffsetMs": 540,
+      "acAsrConf": 236
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1080,
+      "acAsrConf": 255
+    }, {
+      "utf8": " actually",
+      "tOffsetMs": 1260,
+      "acAsrConf": 252
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1799,
+      "acAsrConf": 252
+    }, {
+      "utf8": " large",
+      "tOffsetMs": 1830,
+      "acAsrConf": 230
+    }, {
+      "utf8": " network",
+      "tOffsetMs": 2220,
+      "acAsrConf": 202
+    } ]
+  }, {
+    "tStartMs": 55100,
+    "dDurationMs": 3780,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 55110,
+    "dDurationMs": 3770,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of",
+      "acAsrConf": 239
+    }, {
+      "utf8": " interconnecting",
+      "tOffsetMs": 210,
+      "acAsrConf": 209
+    }, {
+      "utf8": " canyons",
+      "tOffsetMs": 1199,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 59430,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 59440,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " same",
+      "tOffsetMs": 720,
+      "acAsrConf": 252
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 990,
+      "acAsrConf": 252
+    }, {
+      "utf8": " be",
+      "tOffsetMs": 1260,
+      "acAsrConf": 252
+    }, {
+      "utf8": " said",
+      "tOffsetMs": 1290,
+      "acAsrConf": 252
+    }, {
+      "utf8": " for",
+      "tOffsetMs": 1410,
+      "acAsrConf": 245
+    }, {
+      "utf8": " Valles",
+      "tOffsetMs": 1860,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 61830,
+    "dDurationMs": 2810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 61840,
+    "dDurationMs": 6100,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Marineris",
+      "acAsrConf": 252
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 30,
+      "acAsrConf": 136
+    }, {
+      "utf8": " Mars",
+      "tOffsetMs": 840,
+      "acAsrConf": 209
+    } ]
+  }, {
+    "tStartMs": 64630,
+    "dDurationMs": 3310,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 64640,
+    "dDurationMs": 5790,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " deep",
+      "tOffsetMs": 809,
+      "acAsrConf": 241
+    }, {
+      "utf8": " cut",
+      "tOffsetMs": 1080,
+      "acAsrConf": 241
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1470,
+      "acAsrConf": 216
+    }, {
+      "utf8": " steep",
+      "tOffsetMs": 1740,
+      "acAsrConf": 252
+    }, {
+      "utf8": " walls",
+      "tOffsetMs": 2370,
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2730,
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 3180,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 67930,
+    "dDurationMs": 2500,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 67940,
+    "dDurationMs": 5790,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Grand",
+      "acAsrConf": 239
+    }, {
+      "utf8": " Canyon",
+      "tOffsetMs": 210,
+      "acAsrConf": 200
+    }, {
+      "utf8": " exposed",
+      "tOffsetMs": 710,
+      "acAsrConf": 139
+    }, {
+      "utf8": " many",
+      "tOffsetMs": 1710,
+      "acAsrConf": 248
+    }, {
+      "utf8": " layers",
+      "tOffsetMs": 1980,
+      "acAsrConf": 223
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2340,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 70420,
+    "dDurationMs": 3310,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 70430,
+    "dDurationMs": 4460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "geological",
+      "acAsrConf": 230
+    }, {
+      "utf8": " deposits",
+      "tOffsetMs": 990,
+      "acAsrConf": 218
+    }, {
+      "utf8": " reaching",
+      "tOffsetMs": 1640,
+      "acAsrConf": 213
+    }, {
+      "utf8": " way",
+      "tOffsetMs": 2640,
+      "acAsrConf": 252
+    }, {
+      "utf8": " back",
+      "tOffsetMs": 2880,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 73720,
+    "dDurationMs": 1170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 73730,
+    "dDurationMs": 4020,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into",
+      "acAsrConf": 205
+    }, {
+      "utf8": " time",
+      "tOffsetMs": 420,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 74880,
+    "dDurationMs": 2870,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 74890,
+    "dDurationMs": 5410,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "similarly",
+      "acAsrConf": 252
+    }, {
+      "utf8": " Valles",
+      "tOffsetMs": 1000,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Marineris",
+      "tOffsetMs": 1600,
+      "acAsrConf": 252
+    }, {
+      "utf8": " displays",
+      "tOffsetMs": 1860,
+      "acAsrConf": 130
+    } ]
+  }, {
+    "tStartMs": 77740,
+    "dDurationMs": 2560,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 77750,
+    "dDurationMs": 5940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "numerous",
+      "acAsrConf": 252
+    }, {
+      "utf8": " layers",
+      "tOffsetMs": 570,
+      "acAsrConf": 252
+    }, {
+      "utf8": " including",
+      "tOffsetMs": 1070,
+      "acAsrConf": 249
+    }, {
+      "utf8": " lake",
+      "tOffsetMs": 2070,
+      "acAsrConf": 251
+    }, {
+      "utf8": " floor",
+      "tOffsetMs": 2310,
+      "acAsrConf": 219
+    } ]
+  }, {
+    "tStartMs": 80290,
+    "dDurationMs": 3400,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 80300,
+    "dDurationMs": 6790,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sedimentary",
+      "acAsrConf": 238
+    }, {
+      "utf8": " deposits",
+      "tOffsetMs": 840,
+      "acAsrConf": 252
+    }, {
+      "utf8": " laid",
+      "tOffsetMs": 1560,
+      "acAsrConf": 248
+    }, {
+      "utf8": " down",
+      "tOffsetMs": 2250,
+      "acAsrConf": 227
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 2520,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Mars's",
+      "tOffsetMs": 2910,
+      "acAsrConf": 145
+    } ]
+  }, {
+    "tStartMs": 83680,
+    "dDurationMs": 3410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 83690,
+    "dDurationMs": 6190,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distant",
+      "acAsrConf": 252
+    }, {
+      "utf8": " watery",
+      "tOffsetMs": 539,
+      "acAsrConf": 223
+    }, {
+      "utf8": " paths",
+      "tOffsetMs": 1020,
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 87080,
+    "dDurationMs": 2800,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 87090,
+    "dDurationMs": 5069,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " deep",
+      "tOffsetMs": 690,
+      "acAsrConf": 235
+    }, {
+      "utf8": " cut",
+      "tOffsetMs": 930,
+      "acAsrConf": 235
+    }, {
+      "utf8": " made",
+      "tOffsetMs": 1260,
+      "acAsrConf": 252
+    }, {
+      "utf8": " by",
+      "tOffsetMs": 1620,
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1800,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Colorado",
+      "tOffsetMs": 1860,
+      "acAsrConf": 240
+    }, {
+      "utf8": " River",
+      "tOffsetMs": 2489,
+      "acAsrConf": 240
+    } ]
+  }, {
+    "tStartMs": 89870,
+    "dDurationMs": 2289,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 89880,
+    "dDurationMs": 4949,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "has",
+      "acAsrConf": 181
+    }, {
+      "utf8": " been",
+      "tOffsetMs": 419,
+      "acAsrConf": 252
+    }, {
+      "utf8": " significantly",
+      "tOffsetMs": 470,
+      "acAsrConf": 224
+    }, {
+      "utf8": " widened",
+      "tOffsetMs": 1470,
+      "acAsrConf": 248
+    }, {
+      "utf8": " by",
+      "tOffsetMs": 1980,
+      "acAsrConf": 227
+    } ]
+  }, {
+    "tStartMs": 92149,
+    "dDurationMs": 2680,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 92159,
+    "dDurationMs": 6451,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "numerous",
+      "acAsrConf": 252
+    }, {
+      "utf8": " landslides",
+      "tOffsetMs": 541,
+      "acAsrConf": 251
+    }, {
+      "utf8": " along",
+      "tOffsetMs": 1350,
+      "acAsrConf": 200
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2221,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Grand",
+      "tOffsetMs": 2371,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 94819,
+    "dDurationMs": 3791,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 94829,
+    "dDurationMs": 5911,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Canyon",
+      "acAsrConf": 123
+    }, {
+      "utf8": " steep",
+      "tOffsetMs": 540,
+      "acAsrConf": 219
+    }, {
+      "utf8": " walls",
+      "tOffsetMs": 991,
+      "acAsrConf": 252
+    }, {
+      "utf8": " surprise",
+      "tOffsetMs": 2031,
+      "acAsrConf": 173
+    }, {
+      "utf8": " Valley",
+      "tOffsetMs": 3031,
+      "acAsrConf": 208
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 3421,
+      "acAsrConf": 233
+    } ]
+  }, {
+    "tStartMs": 98600,
+    "dDurationMs": 2140,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 98610,
+    "dDurationMs": 4679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nearly",
+      "acAsrConf": 250
+    }, {
+      "utf8": " filled",
+      "tOffsetMs": 570,
+      "acAsrConf": 229
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 1020,
+      "acAsrConf": 252
+    }, {
+      "utf8": " debris",
+      "tOffsetMs": 1259,
+      "acAsrConf": 252
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 1469,
+      "acAsrConf": 200
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1980,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 100730,
+    "dDurationMs": 2559,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 100740,
+    "dDurationMs": 5460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "largest",
+      "acAsrConf": 210
+    }, {
+      "utf8": " landslide",
+      "tOffsetMs": 449,
+      "acAsrConf": 187
+    }, {
+      "utf8": " deposit",
+      "tOffsetMs": 1019,
+      "acAsrConf": 252
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1230,
+      "acAsrConf": 165
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1830,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Grand",
+      "tOffsetMs": 2280,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 103279,
+    "dDurationMs": 2921,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 103289,
+    "dDurationMs": 7260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Canyon",
+      "acAsrConf": 252
+    }, {
+      "utf8": " containing",
+      "tOffsetMs": 681,
+      "acAsrConf": 202
+    }, {
+      "utf8": " over",
+      "tOffsetMs": 1681,
+      "acAsrConf": 252
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1860,
+      "acAsrConf": 187
+    }, {
+      "utf8": " cubic",
+      "tOffsetMs": 2010,
+      "acAsrConf": 252
+    }, {
+      "utf8": " mile",
+      "tOffsetMs": 2551,
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2881,
+      "acAsrConf": 155
+    } ]
+  }, {
+    "tStartMs": 106190,
+    "dDurationMs": 4359,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 106200,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "displaced",
+      "acAsrConf": 200
+    }, {
+      "utf8": " material",
+      "tOffsetMs": 930,
+      "acAsrConf": 252
+    }, {
+      "utf8": " nearby",
+      "tOffsetMs": 2150,
+      "acAsrConf": 231
+    }, {
+      "utf8": " Deer",
+      "tOffsetMs": 3150,
+      "acAsrConf": 208
+    }, {
+      "utf8": " Creek",
+      "tOffsetMs": 3690,
+      "acAsrConf": 244
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 4020,
+      "acAsrConf": 217
+    } ]
+  }, {
+    "tStartMs": 110539,
+    "dDurationMs": 2620,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 110549,
+    "dDurationMs": 6301,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cutting",
+      "acAsrConf": 252
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 541,
+      "acAsrConf": 252
+    }, {
+      "utf8": " new",
+      "tOffsetMs": 630,
+      "acAsrConf": 252
+    }, {
+      "utf8": " gorge",
+      "tOffsetMs": 811,
+      "acAsrConf": 194
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 1171,
+      "acAsrConf": 201
+    }, {
+      "utf8": " it",
+      "tOffsetMs": 1561,
+      "acAsrConf": 252
+    }, {
+      "utf8": " bypasses",
+      "tOffsetMs": 1890,
+      "acAsrConf": 208
+    } ]
+  }, {
+    "tStartMs": 113149,
+    "dDurationMs": 3701,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 113159,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "landslide",
+      "acAsrConf": 237
+    }, {
+      "utf8": " blockage",
+      "tOffsetMs": 661,
+      "acAsrConf": 252
+    }, {
+      "utf8": " zooming",
+      "tOffsetMs": 2091,
+      "acAsrConf": 215
+    }, {
+      "utf8": " down",
+      "tOffsetMs": 3091,
+      "acAsrConf": 252
+    }, {
+      "utf8": " toward",
+      "tOffsetMs": 3240,
+      "acAsrConf": 243
+    } ]
+  }, {
+    "tStartMs": 116840,
+    "dDurationMs": 3639,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 116850,
+    "dDurationMs": 6750,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "useless",
+      "acAsrConf": 99
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 960,
+      "acAsrConf": 220
+    }, {
+      "utf8": " Valles",
+      "tOffsetMs": 1260,
+      "acAsrConf": 242
+    }, {
+      "utf8": " Marineris",
+      "tOffsetMs": 1890,
+      "acAsrConf": 252
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 2390,
+      "acAsrConf": 165
+    }, {
+      "utf8": " see",
+      "tOffsetMs": 3390,
+      "acAsrConf": 252
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 3600,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 120469,
+    "dDurationMs": 3131,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 120479,
+    "dDurationMs": 6570,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "titanic",
+      "acAsrConf": 225
+    }, {
+      "utf8": " landslide",
+      "tOffsetMs": 750,
+      "acAsrConf": 248
+    }, {
+      "utf8": " deposit",
+      "tOffsetMs": 1441,
+      "acAsrConf": 252
+    }, {
+      "utf8": " measuring",
+      "tOffsetMs": 1971,
+      "acAsrConf": 200
+    }, {
+      "utf8": " over",
+      "tOffsetMs": 2971,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 123590,
+    "dDurationMs": 3459,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 123600,
+    "dDurationMs": 5609,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "30",
+      "acAsrConf": 200
+    }, {
+      "utf8": " miles",
+      "tOffsetMs": 449,
+      "acAsrConf": 252
+    }, {
+      "utf8": " across",
+      "tOffsetMs": 689,
+      "acAsrConf": 232
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1109,
+      "acAsrConf": 227
+    }, {
+      "utf8": " stretching",
+      "tOffsetMs": 1559,
+      "acAsrConf": 233
+    }, {
+      "utf8": " 25",
+      "tOffsetMs": 2460,
+      "acAsrConf": 242
+    }, {
+      "utf8": " miles",
+      "tOffsetMs": 3089,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 127039,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 127049,
+    "dDurationMs": 4621,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out",
+      "acAsrConf": 252
+    }, {
+      "utf8": " across",
+      "tOffsetMs": 301,
+      "acAsrConf": 218
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 811,
+      "acAsrConf": 252
+    }, {
+      "utf8": " floor",
+      "tOffsetMs": 1081,
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1350,
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1380,
+      "acAsrConf": 216
+    }, {
+      "utf8": " valley",
+      "tOffsetMs": 1621,
+      "acAsrConf": 252
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1801,
+      "acAsrConf": 201
+    } ]
+  }, {
+    "tStartMs": 129199,
+    "dDurationMs": 2471,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 129209,
+    "dDurationMs": 5340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "places",
+      "acAsrConf": 252
+    }, {
+      "utf8": " along",
+      "tOffsetMs": 631,
+      "acAsrConf": 228
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1050,
+      "acAsrConf": 145
+    }, {
+      "utf8": " north",
+      "tOffsetMs": 1201,
+      "acAsrConf": 207
+    }, {
+      "utf8": " western",
+      "tOffsetMs": 1440,
+      "acAsrConf": 203
+    }, {
+      "utf8": " edge",
+      "tOffsetMs": 1951,
+      "acAsrConf": 240
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2161,
+      "acAsrConf": 218
+    } ]
+  }, {
+    "tStartMs": 131660,
+    "dDurationMs": 2889,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 131670,
+    "dDurationMs": 5670,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the",
+      "acAsrConf": 218
+    }, {
+      "utf8": " Grand",
+      "tOffsetMs": 90,
+      "acAsrConf": 226
+    }, {
+      "utf8": " Canyon",
+      "tOffsetMs": 360,
+      "acAsrConf": 247
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 679,
+      "acAsrConf": 153
+    }, {
+      "utf8": " find",
+      "tOffsetMs": 1679,
+      "acAsrConf": 252
+    }, {
+      "utf8": " volcanic",
+      "tOffsetMs": 1980,
+      "acAsrConf": 252
+    }, {
+      "utf8": " cinder",
+      "tOffsetMs": 2610,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 134539,
+    "dDurationMs": 2801,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 134549,
+    "dDurationMs": 5611,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cones",
+      "acAsrConf": 252
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 391,
+      "acAsrConf": 215
+    }, {
+      "utf8": " which",
+      "tOffsetMs": 841,
+      "acAsrConf": 200
+    }, {
+      "utf8": " flows",
+      "tOffsetMs": 1081,
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1470,
+      "acAsrConf": 252
+    }, {
+      "utf8": " lava",
+      "tOffsetMs": 1711,
+      "acAsrConf": 252
+    }, {
+      "utf8": " cascaded",
+      "tOffsetMs": 1951,
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 137330,
+    "dDurationMs": 2830,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 137340,
+    "dDurationMs": 5850,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over",
+      "acAsrConf": 255
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 330,
+      "acAsrConf": 252
+    }, {
+      "utf8": " canyon",
+      "tOffsetMs": 450,
+      "acAsrConf": 218
+    }, {
+      "utf8": " walls",
+      "tOffsetMs": 869,
+      "acAsrConf": 252
+    }, {
+      "utf8": " into",
+      "tOffsetMs": 1140,
+      "acAsrConf": 201
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1800,
+      "acAsrConf": 141
+    }, {
+      "utf8": " gorge",
+      "tOffsetMs": 2250,
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2520,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 140150,
+    "dDurationMs": 3040,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 140160,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the",
+      "acAsrConf": 208
+    }, {
+      "utf8": " Colorado",
+      "tOffsetMs": 150,
+      "acAsrConf": 236
+    }, {
+      "utf8": " River",
+      "tOffsetMs": 689,
+      "acAsrConf": 236
+    }, {
+      "utf8": " these",
+      "tOffsetMs": 1070,
+      "acAsrConf": 207
+    }, {
+      "utf8": " flows",
+      "tOffsetMs": 2070,
+      "acAsrConf": 252
+    }, {
+      "utf8": " build",
+      "tOffsetMs": 2460,
+      "acAsrConf": 155
+    } ]
+  }, {
+    "tStartMs": 143180,
+    "dDurationMs": 2740,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 143190,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "temporary",
+      "acAsrConf": 237
+    }, {
+      "utf8": " dams",
+      "tOffsetMs": 510,
+      "acAsrConf": 212
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1049,
+      "acAsrConf": 187
+    }, {
+      "utf8": " created",
+      "tOffsetMs": 1500,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Lakes",
+      "tOffsetMs": 1950,
+      "acAsrConf": 139
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 2250,
+      "acAsrConf": 232
+    } ]
+  }, {
+    "tStartMs": 145910,
+    "dDurationMs": 3120,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 145920,
+    "dDurationMs": 6539,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "partially",
+      "acAsrConf": 236
+    }, {
+      "utf8": " filled",
+      "tOffsetMs": 660,
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 990,
+      "acAsrConf": 252
+    }, {
+      "utf8": " canyon",
+      "tOffsetMs": 1230,
+      "acAsrConf": 228
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1649,
+      "acAsrConf": 252
+    }, {
+      "utf8": " its",
+      "tOffsetMs": 1830,
+      "acAsrConf": 237
+    }, {
+      "utf8": " past",
+      "tOffsetMs": 2010,
+      "acAsrConf": 247
+    } ]
+  }, {
+    "tStartMs": 149020,
+    "dDurationMs": 3439,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 149030,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to",
+      "acAsrConf": 201
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1000,
+      "acAsrConf": 229
+    }, {
+      "utf8": " northwest",
+      "tOffsetMs": 1120,
+      "acAsrConf": 215
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1569,
+      "acAsrConf": 248
+    }, {
+      "utf8": " Valles",
+      "tOffsetMs": 1780,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Marineris",
+      "tOffsetMs": 2110,
+      "acAsrConf": 252
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 2429,
+      "acAsrConf": 153
+    } ]
+  }, {
+    "tStartMs": 152449,
+    "dDurationMs": 3100,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 152459,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "also",
+      "acAsrConf": 252
+    }, {
+      "utf8": " find",
+      "tOffsetMs": 150,
+      "acAsrConf": 252
+    }, {
+      "utf8": " volcanoes",
+      "tOffsetMs": 661,
+      "acAsrConf": 248
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1321,
+      "acAsrConf": 219
+    }, {
+      "utf8": " giant",
+      "tOffsetMs": 2011,
+      "acAsrConf": 237
+    }, {
+      "utf8": " Darcis",
+      "tOffsetMs": 2491,
+      "acAsrConf": 148
+    } ]
+  }, {
+    "tStartMs": 155539,
+    "dDurationMs": 2801,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 155549,
+    "dDurationMs": 6091,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shield",
+      "acAsrConf": 236
+    }, {
+      "utf8": " volcanoes",
+      "tOffsetMs": 631,
+      "acAsrConf": 252
+    }, {
+      "utf8": " which",
+      "tOffsetMs": 1440,
+      "acAsrConf": 249
+    }, {
+      "utf8": " played",
+      "tOffsetMs": 2160,
+      "acAsrConf": 252
+    }, {
+      "utf8": " key",
+      "tOffsetMs": 2461,
+      "acAsrConf": 252
+    }, {
+      "utf8": " roles",
+      "tOffsetMs": 2761,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 158330,
+    "dDurationMs": 3310,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 158340,
+    "dDurationMs": 5820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in",
+      "acAsrConf": 236
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 780,
+      "acAsrConf": 252
+    }, {
+      "utf8": " formation",
+      "tOffsetMs": 929,
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1290,
+      "acAsrConf": 202
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1649,
+      "acAsrConf": 252
+    }, {
+      "utf8": " canyon",
+      "tOffsetMs": 1800,
+      "acAsrConf": 236
+    }, {
+      "utf8": " these",
+      "tOffsetMs": 2300,
+      "acAsrConf": 213
+    } ]
+  }, {
+    "tStartMs": 161630,
+    "dDurationMs": 2530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 161640,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mountains",
+      "acAsrConf": 213
+    }, {
+      "utf8": " include",
+      "tOffsetMs": 510,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Olympus",
+      "tOffsetMs": 1020,
+      "acAsrConf": 222
+    }, {
+      "utf8": " Mons",
+      "tOffsetMs": 1679,
+      "acAsrConf": 227
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1980,
+      "acAsrConf": 205
+    } ]
+  }, {
+    "tStartMs": 164150,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 164160,
+    "dDurationMs": 5010,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "greatest",
+      "acAsrConf": 167
+    }, {
+      "utf8": " volcano",
+      "tOffsetMs": 810,
+      "acAsrConf": 252
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1440,
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1620,
+      "acAsrConf": 252
+    }, {
+      "utf8": " solar",
+      "tOffsetMs": 1650,
+      "acAsrConf": 252
+    }, {
+      "utf8": " system",
+      "tOffsetMs": 1770,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 166630,
+    "dDurationMs": 2540,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 166640,
+    "dDurationMs": 5830,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "standing",
+      "acAsrConf": 179
+    }, {
+      "utf8": " three",
+      "tOffsetMs": 1000,
+      "acAsrConf": 228
+    }, {
+      "utf8": " times",
+      "tOffsetMs": 1270,
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1659,
+      "acAsrConf": 252
+    }, {
+      "utf8": " height",
+      "tOffsetMs": 1990,
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2170,
+      "acAsrConf": 129
+    }, {
+      "utf8": " Mount",
+      "tOffsetMs": 2379,
+      "acAsrConf": 201
+    } ]
+  }, {
+    "tStartMs": 169160,
+    "dDurationMs": 3310,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 169170,
+    "dDurationMs": 5330,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Everest",
+      "acAsrConf": 232
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 240,
+      "acAsrConf": 160
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 720,
+      "acAsrConf": 237
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1289,
+      "acAsrConf": 251
+    }, {
+      "utf8": " base",
+      "tOffsetMs": 1379,
+      "acAsrConf": 219
+    }, {
+      "utf8": " 370",
+      "tOffsetMs": 2060,
+      "acAsrConf": 246
+    }, {
+      "utf8": " miles",
+      "tOffsetMs": 3060,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 172460,
+    "dDurationMs": 2040,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 172470,
+    "dDurationMs": 4500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "across",
+      "acAsrConf": 248
+    } ]
+  }, {
+    "tStartMs": 174490,
+    "dDurationMs": 2480,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 174500,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "flowing",
+      "acAsrConf": 252
+    }, {
+      "utf8": " water",
+      "tOffsetMs": 1000,
+      "acAsrConf": 252
+    }, {
+      "utf8": " played",
+      "tOffsetMs": 1150,
+      "acAsrConf": 252
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1600,
+      "acAsrConf": 252
+    }, {
+      "utf8": " critical",
+      "tOffsetMs": 1630,
+      "acAsrConf": 252
+    }, {
+      "utf8": " role",
+      "tOffsetMs": 1930,
+      "acAsrConf": 252
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 2230,
+      "acAsrConf": 172
+    } ]
+  }, {
+    "tStartMs": 176960,
+    "dDurationMs": 2499,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 176970,
+    "dDurationMs": 4739,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the",
+      "acAsrConf": 245
+    }, {
+      "utf8": " Grand",
+      "tOffsetMs": 419,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Canyon's",
+      "tOffsetMs": 720,
+      "acAsrConf": 252
+    }, {
+      "utf8": " formation",
+      "tOffsetMs": 1230,
+      "acAsrConf": 252
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 1889,
+      "acAsrConf": 237
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2370,
+      "acAsrConf": 203
+    } ]
+  }, {
+    "tStartMs": 179449,
+    "dDurationMs": 2260,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 179459,
+    "dDurationMs": 5791,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Colorado",
+      "acAsrConf": 246
+    }, {
+      "utf8": " River",
+      "tOffsetMs": 331,
+      "acAsrConf": 225
+    }, {
+      "utf8": " cutting",
+      "tOffsetMs": 810,
+      "acAsrConf": 219
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1321,
+      "acAsrConf": 252
+    }, {
+      "utf8": " canyons",
+      "tOffsetMs": 1441,
+      "acAsrConf": 227
+    }, {
+      "utf8": " deep",
+      "tOffsetMs": 1921,
+      "acAsrConf": 216
+    } ]
+  }, {
+    "tStartMs": 181699,
+    "dDurationMs": 3551,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 181709,
+    "dDurationMs": 7231,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gorge",
+      "acAsrConf": 228
+    }, {
+      "utf8": " flowing",
+      "tOffsetMs": 1131,
+      "acAsrConf": 243
+    }, {
+      "utf8": " water",
+      "tOffsetMs": 2131,
+      "acAsrConf": 236
+    }, {
+      "utf8": " also",
+      "tOffsetMs": 2340,
+      "acAsrConf": 169
+    }, {
+      "utf8": " played",
+      "tOffsetMs": 2911,
+      "acAsrConf": 252
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 3211,
+      "acAsrConf": 252
+    }, {
+      "utf8": " role",
+      "tOffsetMs": 3481,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 185240,
+    "dDurationMs": 3700,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 185250,
+    "dDurationMs": 6389,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in",
+      "acAsrConf": 101
+    }, {
+      "utf8": " Valles",
+      "tOffsetMs": 299,
+      "acAsrConf": 249
+    }, {
+      "utf8": " Marineris",
+      "tOffsetMs": 900,
+      "acAsrConf": 252
+    }, {
+      "utf8": " this",
+      "tOffsetMs": 1790,
+      "acAsrConf": 201
+    }, {
+      "utf8": " color-coded",
+      "tOffsetMs": 2790,
+      "acAsrConf": 165
+    } ]
+  }, {
+    "tStartMs": 188930,
+    "dDurationMs": 2709,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 188940,
+    "dDurationMs": 5490,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "height",
+      "acAsrConf": 249
+    }, {
+      "utf8": " map",
+      "tOffsetMs": 269,
+      "acAsrConf": 252
+    }, {
+      "utf8": " shows",
+      "tOffsetMs": 600,
+      "acAsrConf": 252
+    }, {
+      "utf8": " where",
+      "tOffsetMs": 1470,
+      "acAsrConf": 252
+    }, {
+      "utf8": " channels",
+      "tOffsetMs": 1710,
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2310,
+      "acAsrConf": 252
+    }, {
+      "utf8": " water",
+      "tOffsetMs": 2519,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 191629,
+    "dDurationMs": 2801,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 191639,
+    "dDurationMs": 4791,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "flowed",
+      "acAsrConf": 219
+    }, {
+      "utf8": " out",
+      "tOffsetMs": 690,
+      "acAsrConf": 134
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 930,
+      "acAsrConf": 251
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 991,
+      "acAsrConf": 182
+    }, {
+      "utf8": " canyon",
+      "tOffsetMs": 1231,
+      "acAsrConf": 235
+    }, {
+      "utf8": " into",
+      "tOffsetMs": 1500,
+      "acAsrConf": 200
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 2190,
+      "acAsrConf": 62
+    }, {
+      "utf8": " great",
+      "tOffsetMs": 2371,
+      "acAsrConf": 225
+    } ]
+  }, {
+    "tStartMs": 194420,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 194430,
+    "dDurationMs": 4729,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bay",
+      "acAsrConf": 201
+    } ]
+  }, {
+    "tStartMs": 196420,
+    "dDurationMs": 2739,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 196430,
+    "dDurationMs": 5070,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "while",
+      "acAsrConf": 252
+    }, {
+      "utf8": " they",
+      "tOffsetMs": 720,
+      "acAsrConf": 252
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 930,
+      "acAsrConf": 252
+    }, {
+      "utf8": " many",
+      "tOffsetMs": 1110,
+      "acAsrConf": 252
+    }, {
+      "utf8": " similarities",
+      "tOffsetMs": 1380,
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1979,
+      "acAsrConf": 216
+    } ]
+  }, {
+    "tStartMs": 199149,
+    "dDurationMs": 2351,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 199159,
+    "dDurationMs": 4981,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "two",
+      "acAsrConf": 252
+    }, {
+      "utf8": " canyons",
+      "tOffsetMs": 271,
+      "acAsrConf": 237
+    }, {
+      "utf8": " also",
+      "tOffsetMs": 601,
+      "acAsrConf": 241
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 1321,
+      "acAsrConf": 252
+    }, {
+      "utf8": " significant",
+      "tOffsetMs": 1530,
+      "acAsrConf": 249
+    } ]
+  }, {
+    "tStartMs": 201490,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 201500,
+    "dDurationMs": 5700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "differences",
+      "acAsrConf": 146
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 590,
+      "acAsrConf": 246
+    }, {
+      "utf8": " Grand",
+      "tOffsetMs": 1590,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Canyon",
+      "tOffsetMs": 1920,
+      "acAsrConf": 252
+    }, {
+      "utf8": " was",
+      "tOffsetMs": 2430,
+      "acAsrConf": 252
+    }, {
+      "utf8": " formed",
+      "tOffsetMs": 2579,
+      "acAsrConf": 152
+    } ]
+  }, {
+    "tStartMs": 204130,
+    "dDurationMs": 3070,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 204140,
+    "dDurationMs": 6269,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "primarily",
+      "acAsrConf": 200
+    }, {
+      "utf8": " by",
+      "tOffsetMs": 569,
+      "acAsrConf": 219
+    }, {
+      "utf8": " erosion",
+      "tOffsetMs": 1170,
+      "acAsrConf": 255
+    }, {
+      "utf8": " through",
+      "tOffsetMs": 1679,
+      "acAsrConf": 203
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2489,
+      "acAsrConf": 252
+    }, {
+      "utf8": " cutting",
+      "tOffsetMs": 2640,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 207190,
+    "dDurationMs": 3219,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 207200,
+    "dDurationMs": 4950,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "power",
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 179,
+      "acAsrConf": 219
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 539,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Colorado",
+      "tOffsetMs": 780,
+      "acAsrConf": 245
+    }, {
+      "utf8": " River",
+      "tOffsetMs": 1319,
+      "acAsrConf": 245
+    }, {
+      "utf8": " while",
+      "tOffsetMs": 1910,
+      "acAsrConf": 204
+    }, {
+      "utf8": " water",
+      "tOffsetMs": 2910,
+      "acAsrConf": 208
+    } ]
+  }, {
+    "tStartMs": 210399,
+    "dDurationMs": 1751,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 210409,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "altered",
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 571,
+      "acAsrConf": 252
+    }, {
+      "utf8": " landscape",
+      "tOffsetMs": 720,
+      "acAsrConf": 140
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1231,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Valles",
+      "tOffsetMs": 1381,
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 212140,
+    "dDurationMs": 3310,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 212150,
+    "dDurationMs": 6300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Marineris",
+      "acAsrConf": 252
+    }, {
+      "utf8": " this",
+      "tOffsetMs": 500,
+      "acAsrConf": 153
+    }, {
+      "utf8": " feature",
+      "tOffsetMs": 1500,
+      "acAsrConf": 252
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1800,
+      "acAsrConf": 252
+    }, {
+      "utf8": " far",
+      "tOffsetMs": 2160,
+      "acAsrConf": 252
+    }, {
+      "utf8": " too",
+      "tOffsetMs": 2580,
+      "acAsrConf": 252
+    }, {
+      "utf8": " big",
+      "tOffsetMs": 2910,
+      "acAsrConf": 252
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 2940,
+      "acAsrConf": 109
+    } ]
+  }, {
+    "tStartMs": 215440,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 215450,
+    "dDurationMs": 5810,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have",
+      "acAsrConf": 141
+    }, {
+      "utf8": " been",
+      "tOffsetMs": 360,
+      "acAsrConf": 252
+    }, {
+      "utf8": " cut",
+      "tOffsetMs": 599,
+      "acAsrConf": 252
+    }, {
+      "utf8": " by",
+      "tOffsetMs": 869,
+      "acAsrConf": 252
+    }, {
+      "utf8": " water",
+      "tOffsetMs": 1110,
+      "acAsrConf": 252
+    }, {
+      "utf8": " it",
+      "tOffsetMs": 1379,
+      "acAsrConf": 203
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 2369,
+      "acAsrConf": 252
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 2580,
+      "acAsrConf": 252
+    }, {
+      "utf8": " great",
+      "tOffsetMs": 2610,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 218440,
+    "dDurationMs": 2820,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 218450,
+    "dDurationMs": 5340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tectonic",
+      "acAsrConf": 252
+    }, {
+      "utf8": " fracture",
+      "tOffsetMs": 599,
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1379,
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1590,
+      "acAsrConf": 252
+    }, {
+      "utf8": " planet's",
+      "tOffsetMs": 1619,
+      "acAsrConf": 199
+    }, {
+      "utf8": " crust",
+      "tOffsetMs": 2159,
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 221250,
+    "dDurationMs": 2540,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 221260,
+    "dDurationMs": 6250,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "size",
+      "acAsrConf": 216
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1000,
+      "acAsrConf": 252
+    }, {
+      "utf8": " another",
+      "tOffsetMs": 1420,
+      "acAsrConf": 252
+    }, {
+      "utf8": " key",
+      "tOffsetMs": 1690,
+      "acAsrConf": 227
+    }, {
+      "utf8": " difference",
+      "tOffsetMs": 2020,
+      "acAsrConf": 252
+    }, {
+      "utf8": " between",
+      "tOffsetMs": 2199,
+      "acAsrConf": 200
+    } ]
+  }, {
+    "tStartMs": 223780,
+    "dDurationMs": 3730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 223790,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " two",
+      "tOffsetMs": 479,
+      "acAsrConf": 252
+    }, {
+      "utf8": " canyons",
+      "tOffsetMs": 509,
+      "acAsrConf": 252
+    }, {
+      "utf8": " Valles",
+      "tOffsetMs": 1369,
+      "acAsrConf": 209
+    }, {
+      "utf8": " Marineris",
+      "tOffsetMs": 2369,
+      "acAsrConf": 252
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 2399,
+      "acAsrConf": 147
+    }, {
+      "utf8": " far",
+      "tOffsetMs": 3210,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 227500,
+    "dDurationMs": 2769,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 227510,
+    "dDurationMs": 5309,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "larger",
+      "acAsrConf": 234
+    }, {
+      "utf8": " if",
+      "tOffsetMs": 379,
+      "acAsrConf": 213
+    }, {
+      "utf8": " it",
+      "tOffsetMs": 1379,
+      "acAsrConf": 252
+    }, {
+      "utf8": " were",
+      "tOffsetMs": 1649,
+      "acAsrConf": 252
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1770,
+      "acAsrConf": 233
+    }, {
+      "utf8": " earth",
+      "tOffsetMs": 1920,
+      "acAsrConf": 252
+    }, {
+      "utf8": " it",
+      "tOffsetMs": 2160,
+      "acAsrConf": 232
+    }, {
+      "utf8": " could",
+      "tOffsetMs": 2550,
+      "acAsrConf": 231
+    } ]
+  }, {
+    "tStartMs": 230259,
+    "dDurationMs": 2560,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 230269,
+    "dDurationMs": 5550,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stretch",
+      "acAsrConf": 252
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 330,
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 571,
+      "acAsrConf": 217
+    }, {
+      "utf8": " u.s.",
+      "tOffsetMs": 720,
+      "acAsrConf": 98
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 1050,
+      "acAsrConf": 227
+    }, {
+      "utf8": " East",
+      "tOffsetMs": 1291,
+      "acAsrConf": 235
+    }, {
+      "utf8": " Coast",
+      "tOffsetMs": 1620,
+      "acAsrConf": 252
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 2101,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 232809,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 232819,
+    "dDurationMs": 8450,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "West",
+      "acAsrConf": 70
+    }, {
+      "utf8": " Coast",
+      "tOffsetMs": 271,
+      "acAsrConf": 70
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 590,
+      "acAsrConf": 200
+    }, {
+      "utf8": " many",
+      "tOffsetMs": 1590,
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1831,
+      "acAsrConf": 249
+    }, {
+      "utf8": " its",
+      "tOffsetMs": 2010,
+      "acAsrConf": 252
+    }, {
+      "utf8": " smaller",
+      "tOffsetMs": 2101,
+      "acAsrConf": 232
+    }, {
+      "utf8": " sub",
+      "tOffsetMs": 2551,
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 235809,
+    "dDurationMs": 5460,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 235819,
+    "dDurationMs": 5450,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "canyons",
+      "acAsrConf": 252
+    }, {
+      "utf8": " still",
+      "tOffsetMs": 540,
+      "acAsrConf": 214
+    }, {
+      "utf8": " dwarfing",
+      "tOffsetMs": 1320,
+      "acAsrConf": 252
+    }, {
+      "utf8": " our",
+      "tOffsetMs": 1980,
+      "acAsrConf": 201
+    }, {
+      "utf8": " Grand",
+      "tOffsetMs": 2250,
+      "acAsrConf": 237
+    }, {
+      "utf8": " Canyon",
+      "tOffsetMs": 2881,
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 243000,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 243010,
+    "dDurationMs": 5940,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "another",
+      "acAsrConf": 252
+    }, {
+      "utf8": " difference",
+      "tOffsetMs": 990,
+      "acAsrConf": 252
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1440,
+      "acAsrConf": 252
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1619,
+      "acAsrConf": 138
+    }, {
+      "utf8": " Earth's",
+      "tOffsetMs": 2009,
+      "acAsrConf": 238
+    }, {
+      "utf8": " Grand",
+      "tOffsetMs": 2280,
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 245790,
+    "dDurationMs": 3160,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 245800,
+    "dDurationMs": 6810,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Canyon",
+      "acAsrConf": 226
+    }, {
+      "utf8": " now",
+      "tOffsetMs": 600,
+      "acAsrConf": 205
+    }, {
+      "utf8": " hosts",
+      "tOffsetMs": 990,
+      "acAsrConf": 252
+    }, {
+      "utf8": " over",
+      "tOffsetMs": 1620,
+      "acAsrConf": 201
+    }, {
+      "utf8": " 6",
+      "tOffsetMs": 1980,
+      "acAsrConf": 200
+    }, {
+      "utf8": " million",
+      "tOffsetMs": 2370,
+      "acAsrConf": 252
+    }, {
+      "utf8": " visitors",
+      "tOffsetMs": 2760,
+      "acAsrConf": 212
+    } ]
+  }, {
+    "tStartMs": 248940,
+    "dDurationMs": 3670,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 248950,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "per",
+      "acAsrConf": 141
+    }, {
+      "utf8": " year",
+      "tOffsetMs": 360,
+      "acAsrConf": 137
+    }, {
+      "utf8": " Valles",
+      "tOffsetMs": 1429,
+      "acAsrConf": 226
+    }, {
+      "utf8": " Marineris",
+      "tOffsetMs": 2429,
+      "acAsrConf": 252
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 2459,
+      "acAsrConf": 129
+    }, {
+      "utf8": " still",
+      "tOffsetMs": 3330,
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 252600,
+    "dDurationMs": 2230,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 252610,
+    "dDurationMs": 6170,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "waiting",
+      "acAsrConf": 203
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 360,
+      "acAsrConf": 252
+    }, {
+      "utf8": " receive",
+      "tOffsetMs": 390,
+      "acAsrConf": 228
+    }, {
+      "utf8": " its",
+      "tOffsetMs": 840,
+      "acAsrConf": 236
+    }, {
+      "utf8": " first",
+      "tOffsetMs": 1170,
+      "acAsrConf": 155
+    }, {
+      "utf8": " tourists",
+      "tOffsetMs": 1500,
+      "acAsrConf": 229
+    } ]
+  }, {
+    "tStartMs": 254820,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 254830,
+    "dDurationMs": 3950,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perhaps",
+      "acAsrConf": 232
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 989,
+      "acAsrConf": 252
+    }, {
+      "utf8": " will",
+      "tOffsetMs": 1170,
+      "acAsrConf": 252
+    }, {
+      "utf8": " be",
+      "tOffsetMs": 1320,
+      "acAsrConf": 216
+    }, {
+      "utf8": " one",
+      "tOffsetMs": 1469,
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1649,
+      "acAsrConf": 206
+    }, {
+      "utf8": " them",
+      "tOffsetMs": 1800,
+      "acAsrConf": 252
+    } ]
+  } ]
+}

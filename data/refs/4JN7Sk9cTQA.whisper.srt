@@ -1,0 +1,108 @@
+1
+00:00:00,880 --> 00:00:05,480
+Saturn is sending us mixed signals, mixed radio signals, that is.
+
+2
+00:00:05,480 --> 00:00:11,480
+I'm Marsha Burton, Cassini Fields and Particles Scientist at NASA's Jet Propulsion Lab.
+
+3
+00:00:12,980 --> 00:00:16,480
+Cassini has been in orbit around Saturn for more than six years,
+
+4
+00:00:16,480 --> 00:00:22,480
+and new data tell scientists that the sixth planet from the Sun is weirder than we've even imagined.
+
+5
+00:00:22,480 --> 00:00:28,980
+Ever since we arrived, Cassini has been measuring radio waves called Saturn Kilometric Radiation.
+
+6
+00:00:29,080 --> 00:00:35,080
+Cassini's radio and plasma wave instrument recently determined that the variation in radio waves
+
+7
+00:00:35,080 --> 00:00:39,080
+is different in the northern and southern hemispheres of Saturn.
+
+8
+00:00:39,080 --> 00:00:45,080
+And the northern and southern rotational variations also appear to change with its Saturnian seasons.
+
+9
+00:00:45,080 --> 00:00:50,490
+The radio wave patterns are controlled by the rotation of the planet,
+
+10
+00:00:50,490 --> 00:00:56,490
+so to Cassini, Saturn's radio waves sound a bit like bursts of a spinning air raid siren.
+
+11
+00:01:01,100 --> 00:01:06,100
+We can't normally hear these radio wave patterns, but Cassini scientists have translated the patterns
+
+12
+00:01:06,100 --> 00:01:09,100
+into the human audio range.
+
+13
+00:01:09,100 --> 00:01:14,100
+In this video, you actually hear the radio wave patterns coming from the two hemispheres
+
+14
+00:01:14,100 --> 00:01:17,100
+swap rates over the course of several years.
+
+15
+00:01:17,100 --> 00:01:22,100
+The crossover happened a few months after spring began in the northern hemisphere.
+
+16
+00:01:22,100 --> 00:01:28,100
+Scientists don't think the radio wave patterns indicate hemispheres actually rotating at different rates.
+
+17
+00:01:28,200 --> 00:01:32,200
+It has more to do with variations in high altitude winds.
+
+18
+00:01:32,200 --> 00:01:37,200
+A recent result from the Hubble Space Telescope also gives us clues.
+
+19
+00:01:37,200 --> 00:01:42,200
+Scientists found that the northern and southern auroras wobbled back and forth
+
+20
+00:01:42,200 --> 00:01:45,200
+in a pattern matching the radio wave variations.
+
+21
+00:01:45,200 --> 00:01:51,200
+The Cassini magnetometer also found that Saturn's magnetic field over the north and south poles
+
+22
+00:01:51,200 --> 00:01:53,200
+wobbled in a similar pattern.
+
+23
+00:01:53,300 --> 00:01:58,300
+These signals are connected because they're all affected by the behavior of the magnetic bubble
+
+24
+00:01:58,300 --> 00:02:02,300
+around Saturn and the Sun's influence on the whole Saturnian system.
+
+25
+00:02:02,300 --> 00:02:08,300
+For those of us watching Saturn, these findings all help explain the complicated dance between the Sun
+
+26
+00:02:08,300 --> 00:02:13,300
+and Saturn's magnetic bubble, something normally invisible to the human eye
+
+27
+00:02:13,300 --> 00:02:16,300
+and imperceptible to the human ear.
+

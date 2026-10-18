@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\experiments\analyze.py", line 163, in <module>
+    man = norm(" ".join(c[2] for c in load_json3(REFS / f"{v}.manual.en.json3")))
+                                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\experiments\analyze.py", line 95, in load_json3
+    for e in json.load(open(path))["events"]:
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+                 ^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 23, in decode
+    return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 13988: character maps to <undefined>

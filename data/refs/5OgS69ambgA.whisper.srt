@@ -1,0 +1,168 @@
+1
+00:00:00,370 --> 00:00:07,370
+My name is Doug Parkinson, and I'm the SLS Launch Integration and Mission Operations Lead.
+
+2
+00:00:07,370 --> 00:00:13,370
+My job on SLS is to manage the operations architecture on the SLS program
+
+3
+00:00:13,370 --> 00:00:20,370
+and specifically provide support in the SLS Engineering Support Center, the SESC.
+
+4
+00:00:20,370 --> 00:00:25,370
+One of the specific things that we do is support launch operations.
+
+5
+00:00:25,370 --> 00:00:30,370
+One, two, one, and lift off of Artemis I.
+
+6
+00:00:30,370 --> 00:00:37,370
+I was born in Milwaukee, Wisconsin. I lived in St. Louis for a little while, and then a small town in Tennessee.
+
+7
+00:00:37,370 --> 00:00:43,370
+And I ended up landing here in Huntsville, Alabama, going to the University of Alabama in Huntsville.
+
+8
+00:00:43,370 --> 00:00:48,370
+When I was a young man, I knew I'd be an engineer. My father was an engineer.
+
+9
+00:00:48,370 --> 00:00:50,370
+I had the engineering knack, if you will.
+
+10
+00:00:50,370 --> 00:00:55,370
+For the time in the late 90s, I was looking at doing computer technologies.
+
+11
+00:00:55,370 --> 00:00:58,370
+So computer engineering was hot at the time.
+
+12
+00:00:58,370 --> 00:01:04,370
+But when I got to school, I did feel like I was more drawn towards the automotive industry,
+
+13
+00:01:04,370 --> 00:01:07,370
+and I thought that's where I might land one day.
+
+14
+00:01:07,370 --> 00:01:11,370
+I did come across an opportunity to work at the Propulsion Research Center.
+
+15
+00:01:11,370 --> 00:01:18,370
+That intrigued me because it was a way, as an undergraduate, to put into practical use
+
+16
+00:01:18,370 --> 00:01:20,370
+what I was learning in books.
+
+17
+00:01:20,370 --> 00:01:26,370
+I got my hands dirty, and it was in cutting-edge technologies that really inspired me.
+
+18
+00:01:26,370 --> 00:01:28,370
+And that led me to NASA.
+
+19
+00:01:28,370 --> 00:01:31,370
+I've been with NASA since 1999.
+
+20
+00:01:31,370 --> 00:01:36,370
+So it's been a bit over 25 years now, and it's been quite a ride.
+
+21
+00:01:36,370 --> 00:01:41,370
+In 2012, I transitioned over to the program office.
+
+22
+00:01:41,370 --> 00:01:47,370
+And one of the things that I learned in the propulsion area with all of the engine testing
+
+23
+00:01:47,370 --> 00:01:53,370
+and, like, test operations in that translated well into my new role
+
+24
+00:01:53,370 --> 00:01:58,370
+as operations lead for stages element in the SLS program.
+
+25
+00:01:58,370 --> 00:02:01,370
+I love all aspects of the operations.
+
+26
+00:02:01,370 --> 00:02:03,370
+I like getting my hands dirty.
+
+27
+00:02:03,370 --> 00:02:07,370
+I like seeing the erector set go together with SLS.
+
+28
+00:02:07,370 --> 00:02:09,370
+We are putting vehicles together.
+
+29
+00:02:09,370 --> 00:02:12,370
+On Artemis One, I was the operations lead,
+
+30
+00:02:12,370 --> 00:02:17,370
+and I was able to establish the operations architecture for SLS,
+
+31
+00:02:17,370 --> 00:02:22,370
+which I hadn't ever done before, so that was a great new experience for me.
+
+32
+00:02:22,370 --> 00:02:27,370
+And I was right here in the SESC, the SLS Engineering Support Center,
+
+33
+00:02:27,370 --> 00:02:33,370
+and I was supporting and watching on those screens behind me the Artemis One rocket launch.
+
+34
+00:02:33,370 --> 00:02:36,370
+It means a lot to be a part of this Artemis team.
+
+35
+00:02:36,370 --> 00:02:42,370
+I'm surrounded by a wonderful set of engineers that are all around me each and every day.
+
+36
+00:02:42,370 --> 00:02:44,370
+What a blessing.
+
+37
+00:02:44,370 --> 00:02:49,370
+And the technologies that we are developing, the missions that we have,
+
+38
+00:02:49,370 --> 00:02:54,370
+the dreams that we have, it means a lot to show the next generation
+
+39
+00:02:54,370 --> 00:02:59,370
+my children, kids that I coach, all of those kids are inspired.
+
+40
+00:02:59,370 --> 00:03:00,370
+I see it every day.
+
+41
+00:03:00,370 --> 00:03:02,370
+They ask me a lot of questions.
+
+42
+00:03:02,370 --> 00:03:07,370
+They're just inspired by what we're doing and interested in seeing what may come.
+

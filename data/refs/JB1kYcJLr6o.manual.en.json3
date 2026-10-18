@@ -1,0 +1,295 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 365,
+    "dDurationMs": 2915,
+    "segs": [ {
+      "utf8": "[Overlapping voices] Wow. \nOh, there we go. Oh my Gosh."
+    } ]
+  }, {
+    "tStartMs": 3280,
+    "dDurationMs": 3564,
+    "segs": [ {
+      "utf8": "[Overlapping voices] She's posing \n... show off ... this is great."
+    } ]
+  }, {
+    "tStartMs": 7181,
+    "dDurationMs": 1961,
+    "segs": [ {
+      "utf8": "Aw, man!"
+    } ]
+  }, {
+    "tStartMs": 10868,
+    "dDurationMs": 4092,
+    "segs": [ {
+      "utf8": "NOAA has been charting the course \nin ocean science for decades."
+    } ]
+  }, {
+    "tStartMs": 14960,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "Unanswered questions about the deep \nsparked the momentum driving ocean"
+    } ]
+  }, {
+    "tStartMs": 19280,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "exploration, providing information \nthat is important to everyone."
+    } ]
+  }, {
+    "tStartMs": 24000,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Unlocking mysteries of deep sea ecosystems \ncan reveal new sources for medicine,"
+    } ]
+  }, {
+    "tStartMs": 29200,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "food and energy resources and lead \nto predictions of natural disasters."
+    } ]
+  }, {
+    "tStartMs": 34720,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "NOAA is striving to understand \nhow we are affecting"
+    } ]
+  }, {
+    "tStartMs": 38160,
+    "dDurationMs": 5680,
+    "segs": [ {
+      "utf8": "and being affected by changes \nin Earth's environment."
+    } ]
+  }, {
+    "tStartMs": 56560,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "When NOAA was established in \n1970, exploration was highlighted"
+    } ]
+  }, {
+    "tStartMs": 61280,
+    "dDurationMs": 3360,
+    "segs": [ {
+      "utf8": "as one of the primary tasks \nfor the newly minted agency,"
+    } ]
+  }, {
+    "tStartMs": 65920,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "as NOAA advanced, a vision and \nstrategy for a national program"
+    } ]
+  }, {
+    "tStartMs": 70320,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "to explore, our unknown ocean was \noutlined, setting the stage for"
+    } ]
+  }, {
+    "tStartMs": 74400,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "NOAA to continue with the delivery \nof vital ocean information"
+    } ]
+  }, {
+    "tStartMs": 78000,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "needed to strengthen the economy,"
+    } ]
+  }, {
+    "tStartMs": 80080,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "health and security of our nation."
+    } ]
+  }, {
+    "tStartMs": 82960,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "To fulfill this vision,"
+    } ]
+  }, {
+    "tStartMs": 84320,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the first federal program deliberately \nfocused on ocean exploration was established."
+    } ]
+  }, {
+    "tStartMs": 94880,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Today, from mapping our nation's seafloor"
+    } ]
+  }, {
+    "tStartMs": 97680,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "to diving deep to learn more about deep \nsea habitats and the life they support,"
+    } ]
+  }, {
+    "tStartMs": 102400,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "NOAA continues to expand our \nunderstanding of the ocean"
+    } ]
+  }, {
+    "tStartMs": 106960,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "Data collected during expeditions"
+    } ]
+  }, {
+    "tStartMs": 109040,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "to explore the deep ocean are publicly \navailable, giving resource managers"
+    } ]
+  }, {
+    "tStartMs": 113840,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "the academic community and the private sector"
+    } ]
+  }, {
+    "tStartMs": 116480,
+    "dDurationMs": 4800,
+    "segs": [ {
+      "utf8": "the information they need to identify, \nunderstand and manage ocean resources."
+    } ]
+  }, {
+    "tStartMs": 123440,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "Given the immense scope of ocean exploration,"
+    } ]
+  }, {
+    "tStartMs": 126240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "NOAA is expanding partnerships \nwith government, academia,"
+    } ]
+  }, {
+    "tStartMs": 130160,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "philanthropic groups and business \ncommunities to help us understand"
+    } ]
+  }, {
+    "tStartMs": 134480,
+    "dDurationMs": 2640,
+    "segs": [ {
+      "utf8": "even more about our Earth's uncharted depths."
+    } ]
+  }, {
+    "tStartMs": 138320,
+    "dDurationMs": 2560,
+    "segs": [ {
+      "utf8": "Next-generation tools and technologies,"
+    } ]
+  }, {
+    "tStartMs": 140880,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "including advanced telepresence \ntechniques and autonomous vehicles,"
+    } ]
+  }, {
+    "tStartMs": 144880,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "will help conduct ocean mapping \nand exploration missions"
+    } ]
+  }, {
+    "tStartMs": 148400,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "to survey an estimated 3 billion \nacres of U.S. ocean territory"
+    } ]
+  }, {
+    "tStartMs": 153440,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "and further our understanding \nof the deep ocean environment."
+    } ]
+  }, {
+    "tStartMs": 158080,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Through seafloor mapping, visual surveys,"
+    } ]
+  }, {
+    "tStartMs": 161200,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "sampling and characterization \nof the deep ocean environment,"
+    } ]
+  }, {
+    "tStartMs": 165200,
+    "dDurationMs": 2960,
+    "segs": [ {
+      "utf8": "NOAA is increasing our understanding of the ocean,"
+    } ]
+  }, {
+    "tStartMs": 168160,
+    "dDurationMs": 3200,
+    "segs": [ {
+      "utf8": "yet the deep ocean remains \nlargely unexplored and unknown."
+    } ]
+  }, {
+    "tStartMs": 172240,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Every ocean exploration mission \nthat NOAA leads or supports"
+    } ]
+  }, {
+    "tStartMs": 176160,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "helps to build a baseline of information."
+    } ]
+  }, {
+    "tStartMs": 179200,
+    "dDurationMs": 2000,
+    "segs": [ {
+      "utf8": "Over our next 50 years,"
+    } ]
+  }, {
+    "tStartMs": 181200,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "NOAA will work to reveal what \nis out there, how it helps us"
+    } ]
+  }, {
+    "tStartMs": 185120,
+    "dDurationMs": 2080,
+    "segs": [ {
+      "utf8": "and ways to manage it sustainably."
+    } ]
+  }, {
+    "tStartMs": 187200,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "[Overlapping voices] All right. I got \nto move along, unfortunately. Goodbye."
+    } ]
+  }, {
+    "tStartMs": 192560,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "[Overlapping voices] Goodbye for now. Bye."
+    } ]
+  }, {
+    "tStartMs": 194080,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "[Overlapping voices] You're \nbeautiful. Nice to meet you."
+    } ]
+  } ]
+}

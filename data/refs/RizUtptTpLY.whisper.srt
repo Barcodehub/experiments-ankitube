@@ -1,0 +1,296 @@
+1
+00:00:04,880 --> 00:00:08,880
+Welcome to the Build America Buy America Act training series.
+
+2
+00:00:08,880 --> 00:00:14,880
+Before continuing, please watch the other videos within our training series on FEMA's Buy America website
+
+3
+00:00:14,880 --> 00:00:17,880
+to ensure you have the essential background knowledge.
+
+4
+00:00:17,880 --> 00:00:23,880
+As the other training videos explain, the Build America Buy America Act mandates that federal agencies,
+
+5
+00:00:23,880 --> 00:00:29,880
+including FEMA, must ensure that all of the iron, steel, manufactured products,
+
+6
+00:00:29,880 --> 00:00:34,880
+and construction materials incorporated into the project funded by federal financial assistance
+
+7
+00:00:34,880 --> 00:00:36,880
+are made in the U.S.
+
+8
+00:00:36,880 --> 00:00:41,880
+But remember, FEMA's Disaster Financial Assistance Grants are exempt from these requirements.
+
+9
+00:00:41,880 --> 00:00:46,880
+The Build America Buy America Act applies to articles, materials,
+
+10
+00:00:46,880 --> 00:00:51,880
+and supplies that are consumed in, incorporated into, or affixed to an infrastructure project.
+
+11
+00:00:51,880 --> 00:00:56,880
+It does not apply to Section 70917C materials,
+
+12
+00:00:56,880 --> 00:01:00,880
+tools, equipment, and supplies that are brought to the construction site
+
+13
+00:01:00,880 --> 00:01:03,880
+and removed at or before the completion of the project,
+
+14
+00:01:03,880 --> 00:01:09,880
+or building equipment and furnishings, such as movable chairs, desks, or portable equipment.
+
+15
+00:01:09,880 --> 00:01:13,880
+The classification of a product is determined based on its status
+
+16
+00:01:13,880 --> 00:01:18,880
+at the time it is brought to the project site for incorporation into the project.
+
+17
+00:01:18,880 --> 00:01:24,880
+This video will discuss the categories of products subject to the Build America Buy America Act,
+
+18
+00:01:24,880 --> 00:01:29,880
+as well as one category that is exempt by law by answering these five questions.
+
+19
+00:01:29,880 --> 00:01:34,880
+What is considered an iron or steel product under the Build America Buy America Act?
+
+20
+00:01:34,880 --> 00:01:39,880
+What is considered a construction material under the Build America Buy America Act?
+
+21
+00:01:39,880 --> 00:01:44,880
+What is considered a manufactured product under the Build America Buy America Act?
+
+22
+00:01:44,880 --> 00:01:47,880
+What are Section 70917C materials?
+
+23
+00:01:47,880 --> 00:01:52,880
+Where can you find more information about the Build America Buy America Act?
+
+24
+00:01:52,880 --> 00:01:55,880
+Now, let's discuss the first question.
+
+25
+00:01:55,880 --> 00:02:00,880
+What is considered an iron or steel product under the Build America Buy America Act?
+
+26
+00:02:00,880 --> 00:02:06,880
+Iron or steel products are articles, materials, or supplies that consist wholly or predominantly
+
+27
+00:02:06,880 --> 00:02:09,880
+of iron or steel or a combination of both.
+
+28
+00:02:09,880 --> 00:02:13,880
+A product is considered iron or steel if the cost of the iron and steel content
+
+29
+00:02:13,880 --> 00:02:17,880
+exceeds 50% of the total cost of all of its components.
+
+30
+00:02:17,880 --> 00:02:21,880
+For an iron and steel product to be compliant with the Build America Buy America Act,
+
+31
+00:02:21,880 --> 00:02:25,880
+all the iron and steel used in the product must have been made in the U.S.
+
+32
+00:02:25,880 --> 00:02:29,880
+and the final product must have been manufactured in the U.S.
+
+33
+00:02:29,880 --> 00:02:33,880
+from the initial melting stage through the application of coatings.
+
+34
+00:02:33,880 --> 00:02:36,880
+A few examples of iron and steel products include
+
+35
+00:02:36,880 --> 00:02:43,880
+plant posts, wire rods, manhole covers, pipes, and structural steel, such as rebar.
+
+36
+00:02:43,880 --> 00:02:46,880
+Now, let's move on to the next question.
+
+37
+00:02:46,880 --> 00:02:51,880
+What is considered a construction material under the Build America Buy America Act?
+
+38
+00:02:51,880 --> 00:02:59,880
+Construction materials are articles, materials, or supplies that consist of one or more of the following items.
+
+39
+00:02:59,880 --> 00:03:09,880
+Nonferrous metals, plastic and polymer-based products, glass, fiber optic cable, optical fiber, lumber, engineered wood, and drywall.
+
+40
+00:03:09,880 --> 00:03:14,880
+Minor additions of articles, materials, supplies, or binding agents
+
+41
+00:03:14,880 --> 00:03:18,880
+do not change the categorization of the product as a construction material.
+
+42
+00:03:18,880 --> 00:03:20,880
+Now, let's move on to the third question.
+
+43
+00:03:20,880 --> 00:03:25,880
+What is considered a manufactured product under the Build America Buy America Act?
+
+44
+00:03:25,880 --> 00:03:33,880
+Manufactured products are articles, materials, or supplies that have been processed into a specific form and shape,
+
+45
+00:03:33,880 --> 00:03:42,880
+or combined with other articles, materials, or supplies to create a product with different properties than the individual articles, materials, or supplies.
+
+46
+00:03:42,880 --> 00:03:50,880
+If a product is not primarily iron or steel or not listed as a construction material, it is likely a manufactured product.
+
+47
+00:03:50,880 --> 00:04:02,880
+Examples of manufactured products include, but are not limited to, pumps, motors, transformers, generators, and instrumentation or control systems.
+
+48
+00:04:02,880 --> 00:04:08,880
+All manufactured products purchased with FEMA financial assistance must be produced in the US.
+
+49
+00:04:08,880 --> 00:04:15,880
+This means that the cost of the components of the manufactured product that are mined, produced, or manufactured in the US
+
+50
+00:04:15,880 --> 00:04:20,880
+must be greater than 55% of the total cost of all components that make up the product.
+
+51
+00:04:20,880 --> 00:04:25,880
+An example is a manufacturing facility in Missouri that produces generators.
+
+52
+00:04:25,880 --> 00:04:29,880
+The materials the facility uses account for 35% of the generator's cost.
+
+53
+00:04:29,880 --> 00:04:33,880
+Another 30% of the cost is incurred at a facility in Oregon,
+
+54
+00:04:33,880 --> 00:04:38,880
+and the remaining cost of the components is sourced from a facility outside the US.
+
+55
+00:04:38,880 --> 00:04:44,880
+Once complete, the generator is considered a Build America Buy America Act compliant product
+
+56
+00:04:44,880 --> 00:04:48,880
+because, in this specific case, the product was manufactured in the US
+
+57
+00:04:48,880 --> 00:04:53,880
+and over 55% of the cost of the components were produced in the US.
+
+58
+00:04:53,880 --> 00:04:56,880
+Next, we will discuss the fourth question.
+
+59
+00:04:56,880 --> 00:05:00,880
+What are Section 70917C materials?
+
+60
+00:05:00,880 --> 00:05:07,880
+Section 70917C materials, named after the corresponding section of the Build America Buy America Act,
+
+61
+00:05:07,880 --> 00:05:13,880
+refer to a list of items which are specifically exempt by law from the domestic preference requirements.
+
+62
+00:05:13,880 --> 00:05:20,880
+These include cement and cementitious materials, aggregates such as stone, sand, or gravel,
+
+63
+00:05:20,880 --> 00:05:24,880
+and aggregate binding agents or additives.
+
+64
+00:05:24,880 --> 00:05:27,880
+Now, let's discuss the last question.
+
+65
+00:05:27,880 --> 00:05:32,880
+Where can I find more information on the Build America Buy America Act?
+
+66
+00:05:32,880 --> 00:05:37,880
+You can find information on FEMA's implementation of the Build America Buy America Act
+
+67
+00:05:37,880 --> 00:05:42,880
+on our website located under the Buy America Preference tab on FEMA.gov.
+
+68
+00:05:42,880 --> 00:05:50,880
+This website includes a list of all FEMA grant programs subject to and not subject to the Build America Buy America Act.
+
+69
+00:05:50,880 --> 00:05:56,880
+You can also find more program definitions, flyers, and a helpful decision roadmap.
+
+70
+00:05:56,880 --> 00:06:06,880
+The Code of Federal Regulations website provides more information on the Build America Buy America Act policy under 2 CFR Part 184.
+
+71
+00:06:06,880 --> 00:06:12,880
+Thank you for watching this video on the Build America Buy America Act categories of products.
+
+72
+00:06:12,880 --> 00:06:17,880
+To continue learning, be sure to check out the other videos in this training series.
+
+73
+00:06:17,880 --> 00:06:22,880
+For more information, please visit FEMA's Buy America website on FEMA.gov
+
+74
+00:06:22,880 --> 00:06:32,880
+or contact us at FEMA-grants-buyamerica at FEMA.dhs.gov.
+

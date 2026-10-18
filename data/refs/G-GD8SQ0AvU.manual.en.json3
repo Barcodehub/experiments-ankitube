@@ -1,0 +1,271 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 767,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "I am so grateful to be here today\nwith all of you"
+    } ]
+  }, {
+    "tStartMs": 3870,
+    "dDurationMs": 3887,
+    "segs": [ {
+      "utf8": "as we discuss the Artemis program\nand announce the four astronauts"
+    } ]
+  }, {
+    "tStartMs": 7757,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "who will undertake this very\nexciting mission."
+    } ]
+  }, {
+    "tStartMs": 10827,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Making his first space\nflight, mission specialist"
+    } ]
+  }, {
+    "tStartMs": 13947,
+    "dDurationMs": 1551,
+    "segs": [ {
+      "utf8": "Andre Douglas."
+    } ]
+  }, {
+    "tStartMs": 15699,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "[Cheering]"
+    } ]
+  }, {
+    "tStartMs": 19419,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "Record-setting astronaut,\nmission specialist"
+    } ]
+  }, {
+    "tStartMs": 22022,
+    "dDurationMs": 1217,
+    "segs": [ {
+      "utf8": "Colonel Frank Rubio."
+    } ]
+  }, {
+    "tStartMs": 23590,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "[Cheering]"
+    } ]
+  }, {
+    "tStartMs": 26643,
+    "dDurationMs": 1518,
+    "segs": [ {
+      "utf8": "Now on to our pilot,"
+    } ]
+  }, {
+    "tStartMs": 28161,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "ESA astronaut, Luca Parmitano."
+    } ]
+  }, {
+    "tStartMs": 31414,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "[Cheering]"
+    } ]
+  }, {
+    "tStartMs": 34167,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "Now to our commander, Marine Corps\nColonel, Artemis III commander,"
+    } ]
+  }, {
+    "tStartMs": 38088,
+    "dDurationMs": 1484,
+    "segs": [ {
+      "utf8": "Randy Bresnik."
+    } ]
+  }, {
+    "tStartMs": 39572,
+    "dDurationMs": 2486,
+    "segs": [ {
+      "utf8": "[Cheering]"
+    } ]
+  }, {
+    "tStartMs": 42459,
+    "dDurationMs": 2452,
+    "segs": [ {
+      "utf8": "Artemis III backup crew member,"
+    } ]
+  }, {
+    "tStartMs": 44911,
+    "dDurationMs": 1118,
+    "segs": [ {
+      "utf8": "Bob Hines."
+    } ]
+  }, {
+    "tStartMs": 46029,
+    "dDurationMs": 2486,
+    "segs": [ {
+      "utf8": "[Cheering]"
+    } ]
+  }, {
+    "tStartMs": 48982,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "One more round of applause"
+    } ]
+  }, {
+    "tStartMs": 50083,
+    "dDurationMs": 1985,
+    "segs": [ {
+      "utf8": "for your Artemis III\nprime crew!"
+    } ]
+  }, {
+    "tStartMs": 52068,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "[Cheering]"
+    } ]
+  }, {
+    "tStartMs": 57006,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "We are certainly humbled as a crew"
+    } ]
+  }, {
+    "tStartMs": 59242,
+    "dDurationMs": 2219,
+    "segs": [ {
+      "utf8": "to be able to be your crew"
+    } ]
+  }, {
+    "tStartMs": 61461,
+    "dDurationMs": 2719,
+    "segs": [ {
+      "utf8": "that executes this Artemis III\nmission in space,"
+    } ]
+  }, {
+    "tStartMs": 64180,
+    "dDurationMs": 1318,
+    "segs": [ {
+      "utf8": "being that unifying link"
+    } ]
+  }, {
+    "tStartMs": 65498,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "between the phenomenal\nArtemis II mission "
+    } ]
+  }, {
+    "tStartMs": 67751,
+    "dDurationMs": 1284,
+    "segs": [ {
+      "utf8": "we just had two months ago."
+    } ]
+  }, {
+    "tStartMs": 69769,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "And the Artemis IV mission\nthat will follow ours."
+    } ]
+  }, {
+    "tStartMs": 72789,
+    "dDurationMs": 3854,
+    "segs": [ {
+      "utf8": "While Artemis\nII was all about Moon Joy,"
+    } ]
+  }, {
+    "tStartMs": 76643,
+    "dDurationMs": 3353,
+    "segs": [ {
+      "utf8": "Artemis III will be\nall about Earth Joy."
+    } ]
+  }, {
+    "tStartMs": 80647,
+    "dDurationMs": 2352,
+    "segs": [ {
+      "utf8": "We will study Earth's atmosphere,"
+    } ]
+  }, {
+    "tStartMs": 82999,
+    "dDurationMs": 2986,
+    "segs": [ {
+      "utf8": "the environment around Orion\nduring the mission"
+    } ]
+  }, {
+    "tStartMs": 86169,
+    "dDurationMs": 4354,
+    "segs": [ {
+      "utf8": "and the impact of space's influence\nwithin the Orion capsule."
+    } ]
+  }, {
+    "tStartMs": 90907,
+    "dDurationMs": 3120,
+    "segs": [ {
+      "utf8": "Artemis III is an incredibly exciting, complicated"
+    } ]
+  }, {
+    "tStartMs": 94210,
+    "dDurationMs": 2553,
+    "segs": [ {
+      "utf8": "and highly coordinated multi-launch\ncampaign."
+    } ]
+  }, {
+    "tStartMs": 97080,
+    "dDurationMs": 1985,
+    "segs": [ {
+      "utf8": "It's going to happen\nin a short period of time"
+    } ]
+  }, {
+    "tStartMs": 99065,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "with three of the world's\nmost powerful rockets."
+    } ]
+  }, {
+    "tStartMs": 101234,
+    "dDurationMs": 3103,
+    "segs": [ {
+      "utf8": "So to the Artemis III crew,\nwe wish you Godspeed on the journey ahead."
+    } ]
+  }, {
+    "tStartMs": 104854,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "You carry the fire of exploration\nfrom generations past,"
+    } ]
+  }, {
+    "tStartMs": 108241,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "the confidence of this agency\nand the support of this nation."
+    } ]
+  }, {
+    "tStartMs": 111511,
+    "dDurationMs": 3537,
+    "segs": [ {
+      "utf8": "The Artemis II crew,comrade,\nhands you the baton."
+    } ]
+  }, {
+    "tStartMs": 115081,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "You got the controls."
+    } ]
+  }, {
+    "tStartMs": 116549,
+    "dDurationMs": 2987,
+    "segs": [ {
+      "utf8": "[Cheering]"
+    } ]
+  } ]
+}

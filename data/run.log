@@ -1,0 +1,321 @@
+provider deepseek | whisper small cpu int8
+==> MVt2139voxk For Earth, With Love: Artemis II
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 94.7, 't_transcribe': 19.7, 'ok': True}
+==> 6o3m9Bw67Os NASA's Nancy Grace Roman Space Telescope Launches 
+[download]    1.00KiB at  995.09KiB/s (00:00:00)[download]    3.00KiB at    1.46MiB/s (00:00:00)[download]    7.00KiB at    3.41MiB/s (00:00:00)[download]   15.00KiB at    4.87MiB/s (00:00:00)[download]   30.76KiB at    9.99MiB/s (00:00:00)[download] 100% of   30.76KiB in 00:00:00 at 242.14KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 25.1, 't_transcribe': 26.7, 'ok': True}
+==> 84id2dzpwU0 Astronauts on the Space Station Celebrate the 2026
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 54.2, 't_transcribe': 18.7, 'ok': True}
+==> G-GD8SQ0AvU Artemis III Announcement Recap: Crew, Mission Deta
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    5.65KiB at  Unknown B/s (00:00:00)[download] 100% of    5.65KiB in 00:00:00 at 53.63KiB/s                                                       [download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at  Unknown B/s (00:00:00)[download]   24.53KiB at   12.28MiB/s (00:00:00)[download] 100% of   24.53KiB in 00:00:00 at 104.53KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 23.3, 't_transcribe': 20.3, 'ok': True}
+==> IfRqrrBbT-Y Artemis II Moon Mission Complete!
+[download]    1.00KiB at  910.42KiB/s (00:00:00)[download]    3.00KiB at    2.67MiB/s (00:00:00)[download]    7.00KiB at    6.22MiB/s (00:00:00)[download]    8.22KiB at    3.85MiB/s (00:00:00)[download] 100% of    8.22KiB in 00:00:00 at 72.70KiB/s                                                       [download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at    7.32MiB/s (00:00:00)[download]   31.00KiB at   15.14MiB/s (00:00:00)[download]   39.90KiB at   19.48MiB/s (00:00:00)[download] 100% of   39.90KiB in 00:00:00 at 378.81KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 58.4, 't_transcribe': 25.8, 'ok': True}
+==> 9svk0qCO0h0 The Science of Smoke Illustrated
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    3.41MiB/s (00:00:00)[download]   13.48KiB at    6.57MiB/s (00:00:00)[download] 100% of   13.48KiB in 00:00:00 at 81.19KiB/s                                                       [download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.94MiB/s (00:00:00)[download]    7.00KiB at    3.43MiB/s (00:00:00)[download]   15.00KiB at    7.35MiB/s (00:00:00)[download]   31.00KiB at    6.03MiB/s (00:00:00)[download]   45.38KiB at    7.36MiB/s (00:00:00)[download] 100% of   45.38KiB in 00:00:00 at 436.18KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 14.4, 't_transcribe': 44.3, 'ok': True}
+==> Ac36aovF8ZQ How NASA Uses Light to Detect Waste From Mines
+[download]    1.00KiB at   15.66KiB/s (00:00:04)[download]    3.00KiB at   46.99KiB/s (00:00:04)[download]    7.00KiB at   70.11KiB/s (00:00:04)[download]    9.24KiB at   91.41KiB/s (00:00:04)[download] 100% of    9.24KiB in 00:00:04 at 2.16KiB/s                                                      [download]    1.00KiB at  995.33KiB/s (00:00:00)[download]    3.00KiB at    2.92MiB/s (00:00:00)[download]    7.00KiB at    3.40MiB/s (00:00:00)[download]   15.00KiB at    7.28MiB/s (00:00:00)[download]   31.00KiB at   10.07MiB/s (00:00:00)[download]   45.15KiB at   14.67MiB/s (00:00:00)[download] 100% of   45.15KiB in 00:00:00 at 75.45KiB/s                                                       ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 112.9, 't_transcribe': 39.2, 'ok': True}
+==> QquPhtSOxas Moon Mascot Ready to Rise with Artemis II
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    3.39MiB/s (00:00:00)[download]    9.76KiB at    4.73MiB/s (00:00:00)[download] 100% of    9.76KiB in 00:00:00 at 32.11KiB/s                                                       [download]    1.00KiB at  117.09KiB/s (00:00:00)[download]    3.00KiB at  351.27KiB/s (00:00:00)[download]    7.00KiB at  734.70KiB/s (00:00:00)[download]   15.00KiB at   12.89KiB/s (00:00:01)[download]   21.93KiB at   18.83KiB/s (00:00:01)[download]   27.10KiB at   23.27KiB/s (00:00:01)[download] 100% of   27.10KiB in 00:00:01 at 18.01KiB/s                                                       ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 38.3, 't_transcribe': 26.8, 'ok': True}
+==> t04SptVlGkQ NOAA in Alaska
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.89MiB/s (00:00:00)[download]    3.20KiB at    1.56MiB/s (00:00:00)[download] 100% of    3.20KiB in 00:00:00 at 22.82KiB/s                                                       [download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    1.47MiB/s (00:00:00)[download]    4.22KiB at    2.07MiB/s (00:00:00)[download] 100% of    4.22KiB in 00:00:00 at 41.02KiB/s                                                       ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+First segmentation attempt failed validation, retrying once...
+First segmentation attempt failed validation, retrying once...
+First segmentation attempt failed validation, retrying once...
+    {'t_download': 35.3, 't_transcribe': 1.0, 'ok': True}
+==> jWA3_lz2uFw NOAA in the Pacific Islands
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   11.48KiB at  Unknown B/s (00:00:00)[download] 100% of   11.48KiB in 00:00:00 at 80.97KiB/s                                                       ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+   429 on auto captions, waiting 60s
+ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+   429 on auto captions, waiting 120s
+ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+   429 on auto captions, waiting 180s
+ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+   429 on auto captions, waiting 240s
+ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+   429 on auto captions, waiting 300s
+ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+Traceback (most recent call last):
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 4494, in _write_subtitles
+    self.dl(sub_filename, sub_copy, subtitle=True)
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3324, in dl
+    return fd.download(name, new_info, subtitle)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\downloader\common.py", line 480, in download
+    ret = self.real_download(filename, info_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\downloader\http.py", line 362, in real_download
+    establish_connection()
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\downloader\http.py", line 119, in establish_connection
+    ctx.data = self.ydl.urlopen(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 4305, in urlopen
+    return self._request_director.send(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\networking\common.py", line 117, in send
+    response = handler.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\networking\_helper.py", line 194, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\networking\common.py", line 359, in send
+    return self._send(request)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\networking\_requests.py", line 361, in _send
+    raise HTTPError(res, redirect_loop=max_redirects_exceeded)
+yt_dlp.networking.exceptions.HTTPError: HTTP Error 429: Too Many Requests
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\experiments\run_experiments.py", line 163, in main
+    rec = run_video(meta, provider)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\experiments\run_experiments.py", line 78, in run_video
+    fetch_captions(vid)
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\experiments\run_experiments.py", line 53, in fetch_captions
+    y.download(["https://www.youtube.com/watch?v=" + vid])
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3715, in download
+    self.__download_wrapper(self.extract_info)(
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3688, in wrapper
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1721, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1732, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1888, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1947, in process_ie_result
+    ie_result = self.process_video_result(ie_result, download=download)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3135, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 195, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3392, in process_info
+    sub_files = self._write_subtitles(info_dict, temp_filename)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 4501, in _write_subtitles
+    self.report_error(msg)
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1166, in report_error
+    self.trouble(f'{self._format_err("ERROR:", self.Styles.ERROR)} {message}', *args, **kwargs)
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1104, in trouble
+    raise DownloadError(message, exc_info)
+yt_dlp.utils.DownloadError: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+    {'ok': False, 'error': "DownloadError: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
+==> JB1kYcJLr6o NOAA Ocean Exploration: Going Deep in Search of Di
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]    7.15KiB at  Unknown B/s (00:00:00)[download] 100% of    7.15KiB in 00:00:00 at 67.26KiB/s                                                       [download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  875.77KiB/s (00:00:00)[download]   15.00KiB at    1.63MiB/s (00:00:00)[download]   31.00KiB at    2.33MiB/s (00:00:00)[download]   44.52KiB at    3.11MiB/s (00:00:00)[download] 100% of   44.52KiB in 00:00:00 at 323.81KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 108.2, 't_transcribe': 40.9, 'ok': True}
+==> WvFJTBFl52s Protect and Restore: NOAA Stewardship in Action
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 26.2, 't_transcribe': 27.8, 'ok': True}
+==> pjxBF6cZR94 NOAA Legends: Paul Trotter
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.90MiB/s (00:00:00)[download]    7.00KiB at    6.76MiB/s (00:00:00)[download]    7.30KiB at    7.05MiB/s (00:00:00)[download] 100% of    7.30KiB in 00:00:00 at 60.35KiB/s                                                       [download]    1.00KiB at  999.60KiB/s (00:00:00)[download]    3.00KiB at    2.93MiB/s (00:00:00)[download]    7.00KiB at    3.42MiB/s (00:00:00)[download]   15.00KiB at    3.66MiB/s (00:00:00)[download]   31.00KiB at    7.56MiB/s (00:00:00)[download]   46.31KiB at    5.66MiB/s (00:00:00)[download] 100% of   46.31KiB in 00:00:00 at 464.07KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 317.1, 't_transcribe': 37.5, 'ok': True}
+==> 9shmJOL0AFU NOAA 50th Anniversary Spotlight: The American Blue
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.90MiB/s (00:00:00)[download]    7.00KiB at    6.77MiB/s (00:00:00)[download]   14.28KiB at    1.39MiB/s (00:00:00)[download] 100% of   14.28KiB in 00:00:00 at 119.09KiB/s                                                        [download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at    1.83MiB/s (00:00:00)[download]   31.00KiB at    3.78MiB/s (00:00:00)[download]   63.00KiB at    2.93MiB/s (00:00:00)[download]   65.72KiB at    2.57MiB/s (00:00:00)[download] 100% of   65.72KiB in 00:00:00 at 558.58KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 288.9, 't_transcribe': 40.9, 'ok': True}
+==> 45ZyHoOuUjw Realizing the Dream -- The 60th Anniversary of the
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    3.63KiB at    1.77MiB/s (00:00:00)[download] 100% of    3.63KiB in 00:00:00 at 15.47KiB/s                                                       [download]    1.00KiB at  979.98KiB/s (00:00:00)[download]    3.00KiB at    2.87MiB/s (00:00:00)[download]    7.00KiB at    3.37MiB/s (00:00:00)[download]   15.00KiB at    7.22MiB/s (00:00:00)[download]   31.00KiB at   14.91MiB/s (00:00:00)[download]   32.70KiB at   15.73MiB/s (00:00:00)[download] 100% of   32.70KiB in 00:00:00 at 354.81KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 17.0, 't_transcribe': 18.2, 'ok': True}
+==> vkSFLadhL34 Join the Youth Conservation Corps
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.92MiB/s (00:00:00)[download]    7.00KiB at    6.81MiB/s (00:00:00)[download]    9.52KiB at    3.10MiB/s (00:00:00)[download] 100% of    9.52KiB in 00:00:00 at 84.34KiB/s                                                       [download]    1.00KiB at  528.98KiB/s (00:00:00)[download]    3.00KiB at    1.55MiB/s (00:00:00)[download]    7.00KiB at  310.58KiB/s (00:00:00)[download]   15.00KiB at  665.53KiB/s (00:00:00)[download]   31.00KiB at    1.34MiB/s (00:00:00)[download]   51.19KiB at    1.88MiB/s (00:00:00)[download] 100% of   51.19KiB in 00:00:00 at 369.44KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 23.3, 't_transcribe': 33.4, 'ok': True}
+==> 0bYytWIFbJs Wekiva River:  A National Treasure
+[download]    1.00KiB at  990.62KiB/s (00:00:00)[download]    3.00KiB at    1.46MiB/s (00:00:00)[download]    7.00KiB at    3.40MiB/s (00:00:00)[download]    8.98KiB at    2.91MiB/s (00:00:00)[download] 100% of    8.98KiB in 00:00:00 at 82.85KiB/s                                                       [download]    1.00KiB at  998.88KiB/s (00:00:00)[download]    3.00KiB at    2.93MiB/s (00:00:00)[download]    7.00KiB at    6.83MiB/s (00:00:00)[download]   15.00KiB at    7.30MiB/s (00:00:00)[download]   31.00KiB at  850.18KiB/s (00:00:00)[download]   63.00KiB at    1.60MiB/s (00:00:00)[download]   63.28KiB at    1.60MiB/s (00:00:00)[download] 100% of   63.28KiB in 00:00:00 at 213.83KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 30.4, 't_transcribe': 39.0, 'ok': True}
+==> b2SBSE4b7QE Upper Missisquoi and Trout Partnership Wild and Sc
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at    1.12MiB/s (00:00:00)[download]   20.63KiB at    1.54MiB/s (00:00:00)[download] 100% of   20.63KiB in 00:00:00 at 161.66KiB/s                                                        [download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.90MiB/s (00:00:00)[download]    7.00KiB at    6.76MiB/s (00:00:00)[download]   15.00KiB at   14.49MiB/s (00:00:00)[download]   31.00KiB at    5.87MiB/s (00:00:00)[download]   63.00KiB at    4.35MiB/s (00:00:00)[download]  109.52KiB at    5.88MiB/s (00:00:00)[download] 100% of  109.52KiB in 00:00:00 at 748.11KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 36.1, 't_transcribe': 60.5, 'ok': True}
+==> XjBF2qEm6S4 Who Are We?
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    2.48KiB at    2.39MiB/s (00:00:00)[download] 100% of    2.48KiB in 00:00:00 at 26.28KiB/s                                                       [download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    6.79MiB/s (00:00:00)[download]   13.79KiB at   13.38MiB/s (00:00:00)[download] 100% of   13.79KiB in 00:00:00 at 119.59KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 14.7, 't_transcribe': 5.0, 'ok': True}
+==> imYAhainWUA NASA LunaRecycle Challenge Finale Recap
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]    7.18KiB at    3.50MiB/s (00:00:00)[download] 100% of    7.18KiB in 00:00:00 at 73.04KiB/s                                                       ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+   429 on auto captions, waiting 60s
+ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+   429 on auto captions, waiting 120s
+ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+   429 on auto captions, waiting 180s
+[download]    1.00KiB at  927.33KiB/s (00:00:00)[download]    3.00KiB at    2.72MiB/s (00:00:00)[download]    7.00KiB at    6.34MiB/s (00:00:00)[download]   15.00KiB at    7.06MiB/s (00:00:00)[download]   31.00KiB at    9.31MiB/s (00:00:00)[download]   55.84KiB at   16.78MiB/s (00:00:00)[download] 100% of   55.84KiB in 00:00:00 at 423.85KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 15.0, 't_transcribe': 34.1, 'ok': True}
+==> 83DJv429PXE NASA’s SpaceX Crew-10 Astronauts Answer Our Questi
+[download]    1.00KiB at  931.45KiB/s (00:00:00)[download]    3.00KiB at    2.73MiB/s (00:00:00)[download]    7.00KiB at    6.37MiB/s (00:00:00)[download]   10.08KiB at    4.72MiB/s (00:00:00)[download] 100% of   10.08KiB in 00:00:00 at 73.90KiB/s                                                       ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+   429 on auto captions, waiting 60s
+ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+   429 on auto captions, waiting 120s
+ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+   429 on auto captions, waiting 180s
+ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+   429 on auto captions, waiting 240s
+ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+   429 on auto captions, waiting 300s
+ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+Traceback (most recent call last):
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 4494, in _write_subtitles
+    self.dl(sub_filename, sub_copy, subtitle=True)
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3324, in dl
+    return fd.download(name, new_info, subtitle)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\downloader\common.py", line 480, in download
+    ret = self.real_download(filename, info_dict)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\downloader\http.py", line 362, in real_download
+    establish_connection()
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\downloader\http.py", line 119, in establish_connection
+    ctx.data = self.ydl.urlopen(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 4305, in urlopen
+    return self._request_director.send(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\networking\common.py", line 117, in send
+    response = handler.send(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\networking\_helper.py", line 194, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\networking\common.py", line 359, in send
+    return self._send(request)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\networking\_requests.py", line 361, in _send
+    raise HTTPError(res, redirect_loop=max_redirects_exceeded)
+yt_dlp.networking.exceptions.HTTPError: HTTP Error 429: Too Many Requests
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\experiments\run_experiments.py", line 163, in main
+    rec = run_video(meta, provider)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\experiments\run_experiments.py", line 78, in run_video
+    fetch_captions(vid)
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\experiments\run_experiments.py", line 53, in fetch_captions
+    y.download(["https://www.youtube.com/watch?v=" + vid])
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3715, in download
+    self.__download_wrapper(self.extract_info)(
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3688, in wrapper
+    res = func(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1721, in extract_info
+    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1732, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1888, in __extract_info
+    return self.process_ie_result(ie_result, download, extra_info)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1947, in process_ie_result
+    ie_result = self.process_video_result(ie_result, download=download)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3135, in process_video_result
+    self.process_info(new_info)
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 195, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 3392, in process_info
+    sub_files = self._write_subtitles(info_dict, temp_filename)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 4501, in _write_subtitles
+    self.report_error(msg)
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1166, in report_error
+    self.trouble(f'{self._format_err("ERROR:", self.Styles.ERROR)} {message}', *args, **kwargs)
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\yt_dlp\YoutubeDL.py", line 1104, in trouble
+    raise DownloadError(message, exc_info)
+yt_dlp.utils.DownloadError: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests
+    {'ok': False, 'error': "DownloadError: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"}
+==> 5OgS69ambgA Meet Doug Parkinson, SLS Launch Integration and Mi
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.91MiB/s (00:00:00)[download]    7.00KiB at    3.40MiB/s (00:00:00)[download]    7.59KiB at    3.68MiB/s (00:00:00)[download] 100% of    7.59KiB in 00:00:00 at 73.25KiB/s                                                       [download]    1.00KiB at  619.18KiB/s (00:00:00)[download]    3.00KiB at    1.81MiB/s (00:00:00)[download]    7.00KiB at    4.23MiB/s (00:00:00)[download]   15.00KiB at    5.59MiB/s (00:00:00)[download]   31.00KiB at   11.55MiB/s (00:00:00)[download]   43.52KiB at    8.44MiB/s (00:00:00)[download] 100% of   43.52KiB in 00:00:00 at 299.12KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 27.4, 't_transcribe': 34.9, 'ok': True}
+==> xqdqnPhguIk Science in Space: 25 Years of Supporting the Space
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]    7.58KiB at  Unknown B/s (00:00:00)[download] 100% of    7.58KiB in 00:00:00 at 66.39KiB/s                                                       [download]    1.00KiB at  994.15KiB/s (00:00:00)[download]    3.00KiB at    1.47MiB/s (00:00:00)[download]    7.00KiB at  646.34KiB/s (00:00:00)[download]   15.00KiB at    1.35MiB/s (00:00:00)[download]   31.00KiB at    2.80MiB/s (00:00:00)[download]   51.06KiB at    4.09MiB/s (00:00:00)[download] 100% of   51.06KiB in 00:00:00 at 387.68KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 16.7, 't_transcribe': 35.6, 'ok': True}
+==> m4PvBfGx1-s Break the Ice Winner Tests Tech in NASA Thermal Va
+[download]    1.00KiB at  994.15KiB/s (00:00:00)[download]    3.00KiB at    2.91MiB/s (00:00:00)[download]    7.00KiB at    6.80MiB/s (00:00:00)[download]   10.46KiB at    5.10MiB/s (00:00:00)[download] 100% of   10.46KiB in 00:00:00 at 72.86KiB/s                                                       [download]    1.00KiB at  991.09KiB/s (00:00:00)[download]    3.00KiB at  230.77KiB/s (00:00:00)[download]    7.00KiB at  538.47KiB/s (00:00:00)[download]   15.00KiB at  960.48KiB/s (00:00:00)[download]   31.00KiB at    1.94MiB/s (00:00:00)[download]   41.25KiB at    2.41MiB/s (00:00:00)[download] 100% of   41.25KiB in 00:00:00 at 343.78KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 17.2, 't_transcribe': 24.5, 'ok': True}
+==> jCPQGGc54Pg Can Crew Members from Expedition 72  Guess Their E
+[download]    1.00KiB at  926.92KiB/s (00:00:00)[download]    3.00KiB at    2.72MiB/s (00:00:00)[download]    7.00KiB at    6.34MiB/s (00:00:00)[download]    7.51KiB at    3.53MiB/s (00:00:00)[download] 100% of    7.51KiB in 00:00:00 at 65.54KiB/s                                                       [download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    6.83MiB/s (00:00:00)[download]   15.00KiB at    1.83MiB/s (00:00:00)[download]   31.00KiB at    2.33MiB/s (00:00:00)[download]   63.00KiB at    3.08MiB/s (00:00:00)[download]   66.01KiB at    3.22MiB/s (00:00:00)[download] 100% of   66.01KiB in 00:00:00 at 523.50KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 14.6, 't_transcribe': 44.0, 'ok': True}
+==> vkbap5IlMQI Grand Canyons of Earth and Mars
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   10.06KiB at  Unknown B/s (00:00:00)[download] 100% of   10.06KiB in 00:00:00 at 54.64KiB/s                                                       [download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.83MiB/s (00:00:00)[download]    7.00KiB at    6.60MiB/s (00:00:00)[download]   15.00KiB at    4.09MiB/s (00:00:00)[download]   31.00KiB at    2.86MiB/s (00:00:00)[download]   59.96KiB at    4.65MiB/s (00:00:00)[download] 100% of   59.96KiB in 00:00:00 at 595.39KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 23.1, 't_transcribe': 39.1, 'ok': True}
+==> 4JN7Sk9cTQA Mixed Signals From Saturn
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at    2.82MiB/s (00:00:00)[download]    5.30KiB at    4.98MiB/s (00:00:00)[download] 100% of    5.30KiB in 00:00:00 at 53.77KiB/s                                                       [download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at  Unknown B/s (00:00:00)[download]   31.00KiB at  Unknown B/s (00:00:00)[download]   37.77KiB at   19.04MiB/s (00:00:00)[download] 100% of   37.77KiB in 00:00:00 at 190.24KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 10.6, 't_transcribe': 21.0, 'ok': True}
+==> RizUtptTpLY Build America, Buy America Act (BABAA) Categories 
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at    7.85MiB/s (00:00:00)[download]   15.66KiB at    8.20MiB/s (00:00:00)[download] 100% of   15.66KiB in 00:00:00 at 119.19KiB/s                                                        [download]    1.00KiB at  999.83KiB/s (00:00:00)[download]    3.00KiB at    2.93MiB/s (00:00:00)[download]    7.00KiB at    6.83MiB/s (00:00:00)[download]   15.00KiB at    7.32MiB/s (00:00:00)[download]   31.00KiB at    6.06MiB/s (00:00:00)[download]   63.00KiB at    8.77MiB/s (00:00:00)[download]   88.39KiB at    9.56MiB/s (00:00:00)[download] 100% of   88.39KiB in 00:00:00 at 509.88KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 11.5, 't_transcribe': 70.1, 'ok': True}
+==> 0e1Dy33fR_Q Build America, Buy America General Applicability W
+[download]    1.00KiB at  994.38KiB/s (00:00:00)[download]    3.00KiB at    2.91MiB/s (00:00:00)[download]    7.00KiB at  944.18KiB/s (00:00:00)[download]   15.00KiB at  561.61KiB/s (00:00:00)[download]   15.83KiB at  468.81KiB/s (00:00:00)[download] 100% of   15.83KiB in 00:00:00 at 85.97KiB/s                                                       [download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  Unknown B/s (00:00:00)[download]   15.00KiB at  719.05KiB/s (00:00:00)[download]   31.00KiB at    1.45MiB/s (00:00:00)[download]   63.00KiB at    2.69MiB/s (00:00:00)[download]  110.61KiB at    3.74MiB/s (00:00:00)[download] 100% of  110.61KiB in 00:00:00 at 577.00KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+Traceback (most recent call last):
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\backend\app\services\transcriber.py", line 73, in transcribe_to_srt
+    return _transcribe(
+           ^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\backend\app\services\transcriber.py", line 111, in _transcribe
+    for index, segment in enumerate(segments, start=1):
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\faster_whisper\transcribe.py", line 1851, in restore_speech_timestamps
+    for segment in segments:
+                   ^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\faster_whisper\transcribe.py", line 1213, in generate_segments
+    ) = self.generate_with_fallback(encoder_output, prompt, tokenizer, options)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\AppData\Local\Programs\Python\Python312\Lib\site-packages\faster_whisper\transcribe.py", line 1446, in generate_with_fallback
+    result = self.model.generate(
+             ^^^^^^^^^^^^^^^^^^^^
+RuntimeError: mkl_malloc: failed to allocate memory
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\experiments\run_experiments.py", line 163, in main
+    rec = run_video(meta, provider)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\experiments\run_experiments.py", line 89, in run_video
+    _, t_tr = timed(transcribe_to_srt, src.video_path, srt, "en")
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\experiments\run_experiments.py", line 67, in timed
+    r = fn(*a, **k)
+        ^^^^^^^^^^^
+  File "C:\Users\BRAYAN\Desktop\anki-youtube-generator\backend\app\services\transcriber.py", line 95, in transcribe_to_srt
+    raise TranscriptionError(f"faster-whisper transcription failed: {exc}") from exc
+app.core.exceptions.TranscriptionError: faster-whisper transcription failed: mkl_malloc: failed to allocate memory
+    {'ok': False, 'error': 'TranscriptionError: faster-whisper transcription failed: mkl_malloc: failed to allocate memory'}

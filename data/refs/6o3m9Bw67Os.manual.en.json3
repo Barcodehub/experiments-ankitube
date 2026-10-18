@@ -1,0 +1,481 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "Good morning and welcome to"
+    } ]
+  }, {
+    "tStartMs": 1267,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "Kennedy Space Center in Florida,"
+    } ]
+  }, {
+    "tStartMs": 2836,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "where we will soon"
+    } ]
+  }, {
+    "tStartMs": 3753,
+    "dDurationMs": 1018,
+    "segs": [ {
+      "utf8": "launch NASA's"
+    } ]
+  }, {
+    "tStartMs": 4771,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "Nancy Grace Roman Space Telescope."
+    } ]
+  }, {
+    "tStartMs": 7707,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "This journey started"
+    } ]
+  }, {
+    "tStartMs": 8675,
+    "dDurationMs": 1885,
+    "segs": [ {
+      "utf8": "more than 20 years ago,"
+    } ]
+  }, {
+    "tStartMs": 10560,
+    "dDurationMs": 1518,
+    "segs": [ {
+      "utf8": "when we just had Roman"
+    } ]
+  }, {
+    "tStartMs": 12078,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "as pencil and paper sketches,"
+    } ]
+  }, {
+    "tStartMs": 13997,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "and now it stands"
+    } ]
+  }, {
+    "tStartMs": 15598,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "waiting on the launch"
+    } ]
+  }, {
+    "tStartMs": 16399,
+    "dDurationMs": 951,
+    "segs": [ {
+      "utf8": "pad, ready"
+    } ]
+  }, {
+    "tStartMs": 17350,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "to go to space"
+    } ]
+  }, {
+    "tStartMs": 18351,
+    "dDurationMs": 2286,
+    "segs": [ {
+      "utf8": "and reveal the secrets of the universe."
+    } ]
+  }, {
+    "tStartMs": 20637,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "I'm beyond excited for the NASA"
+    } ]
+  }, {
+    "tStartMs": 22272,
+    "dDurationMs": 884,
+    "segs": [ {
+      "utf8": "Goddard Space Flight"
+    } ]
+  }, {
+    "tStartMs": 23156,
+    "dDurationMs": 1118,
+    "segs": [ {
+      "utf8": "team, the NASA"
+    } ]
+  }, {
+    "tStartMs": 24274,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "JPL team,"
+    } ]
+  }, {
+    "tStartMs": 25191,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "literally the"
+    } ]
+  }, {
+    "tStartMs": 25792,
+    "dDurationMs": 1685,
+    "segs": [ {
+      "utf8": "thousands that have come together"
+    } ]
+  }, {
+    "tStartMs": 27477,
+    "dDurationMs": 1685,
+    "segs": [ {
+      "utf8": "to deliver NASA's great"
+    } ]
+  }, {
+    "tStartMs": 29162,
+    "dDurationMs": 1151,
+    "segs": [ {
+      "utf8": "exploration asset"
+    } ]
+  }, {
+    "tStartMs": 30313,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "right now"
+    } ]
+  }, {
+    "tStartMs": 31281,
+    "dDurationMs": 751,
+    "segs": [ {
+      "utf8": "under budget"
+    } ]
+  }, {
+    "tStartMs": 32032,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "and actually ahead of schedule."
+    } ]
+  }, {
+    "tStartMs": 34117,
+    "dDurationMs": 951,
+    "segs": [ {
+      "utf8": "T-minus ten."
+    } ]
+  }, {
+    "tStartMs": 35068,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "Roman was designed"
+    } ]
+  }, {
+    "tStartMs": 36069,
+    "dDurationMs": 1318,
+    "segs": [ {
+      "utf8": "to address key questions"
+    } ]
+  }, {
+    "tStartMs": 37387,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "that people have asked"
+    } ]
+  }, {
+    "tStartMs": 38188,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "for a very long time."
+    } ]
+  }, {
+    "tStartMs": 39322,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "One of them is about exoplanets"
+    } ]
+  }, {
+    "tStartMs": 41591,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "and whether there are planets"
+    } ]
+  }, {
+    "tStartMs": 43159,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "out there and solar systems out there"
+    } ]
+  }, {
+    "tStartMs": 44994,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "like our own."
+    } ]
+  }, {
+    "tStartMs": 46229,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "The other is about the biggest questions"
+    } ]
+  }, {
+    "tStartMs": 48398,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "on the grandest scales,"
+    } ]
+  }, {
+    "tStartMs": 49399,
+    "dDurationMs": 1351,
+    "segs": [ {
+      "utf8": "the fabric of the universe,"
+    } ]
+  }, {
+    "tStartMs": 50750,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "how the universe that we see around us"
+    } ]
+  }, {
+    "tStartMs": 53069,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "came to be... Pushed and pulled"
+    } ]
+  }, {
+    "tStartMs": 55188,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "by the competing forces"
+    } ]
+  }, {
+    "tStartMs": 56523,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "of dark matter and dark energy."
+    } ]
+  }, {
+    "tStartMs": 58992,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "These are mysteries"
+    } ]
+  }, {
+    "tStartMs": 59959,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "that Roman was designed to settle."
+    } ]
+  }, {
+    "tStartMs": 61728,
+    "dDurationMs": 2219,
+    "segs": [ {
+      "utf8": "Three. Two. One."
+    } ]
+  }, {
+    "tStartMs": 63947,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "Ignition and liftoff!"
+    } ]
+  }, {
+    "tStartMs": 66683,
+    "dDurationMs": 1952,
+    "segs": [ {
+      "utf8": "Go Falcon Heavy and go"
+    } ]
+  }, {
+    "tStartMs": 68635,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "Roman Space Telescope!"
+    } ]
+  }, {
+    "tStartMs": 75642,
+    "dDurationMs": 1318,
+    "segs": [ {
+      "utf8": "We're going to open Roman's eyes,"
+    } ]
+  }, {
+    "tStartMs": 76960,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "we're going to see the sky"
+    } ]
+  }, {
+    "tStartMs": 78628,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "in a new way with Roman"
+    } ]
+  }, {
+    "tStartMs": 80029,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "for the first time."
+    } ]
+  }, {
+    "tStartMs": 80947,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "And we're just going to get blown away."
+    } ]
+  }, {
+    "tStartMs": 83917,
+    "dDurationMs": 1351,
+    "segs": [ {
+      "utf8": "When we send Roman out there"
+    } ]
+  }, {
+    "tStartMs": 85268,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "a million miles away."
+    } ]
+  }, {
+    "tStartMs": 86269,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "It will take about three months"
+    } ]
+  }, {
+    "tStartMs": 88037,
+    "dDurationMs": 1152,
+    "segs": [ {
+      "utf8": "to get out to that point, during"
+    } ]
+  }, {
+    "tStartMs": 89189,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "which time we are turning on"
+    } ]
+  }, {
+    "tStartMs": 90440,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "the instruments,"
+    } ]
+  }, {
+    "tStartMs": 91274,
+    "dDurationMs": 1118,
+    "segs": [ {
+      "utf8": "aligning the telescope,"
+    } ]
+  }, {
+    "tStartMs": 92392,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "calibrating everything"
+    } ]
+  }, {
+    "tStartMs": 93593,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "so that we are ready to begin"
+    } ]
+  }, {
+    "tStartMs": 95395,
+    "dDurationMs": 1318,
+    "segs": [ {
+      "utf8": "efficient observations"
+    } ]
+  }, {
+    "tStartMs": 96713,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "as soon as we're there."
+    } ]
+  }, {
+    "tStartMs": 97881,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "What new things will we discover that"
+    } ]
+  }, {
+    "tStartMs": 100200,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "we don't even conceive of at the moment?"
+    } ]
+  }, {
+    "tStartMs": 102235,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "What questions will Roman answer that"
+    } ]
+  }, {
+    "tStartMs": 104320,
+    "dDurationMs": 1952,
+    "segs": [ {
+      "utf8": "we don't even know how to formulate yet?"
+    } ]
+  }, {
+    "tStartMs": 106272,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "That's what's going to"
+    } ]
+  }, {
+    "tStartMs": 107073,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "make this mission"
+    } ]
+  }, {
+    "tStartMs": 107707,
+    "dDurationMs": 1852,
+    "segs": [ {
+      "utf8": "transformative and a civilization"
+    } ]
+  }, {
+    "tStartMs": 109559,
+    "dDurationMs": 1552,
+    "segs": [ {
+      "utf8": "scale experiment."
+    } ]
+  }, {
+    "tStartMs": 111111,
+    "dDurationMs": 3486,
+    "segs": [ {
+      "utf8": "We built this in order to provide"
+    } ]
+  }, {
+    "tStartMs": 114597,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "emotionally impactful"
+    } ]
+  }, {
+    "tStartMs": 116599,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "and scientifically impactful imagery"
+    } ]
+  }, {
+    "tStartMs": 118918,
+    "dDurationMs": 1151,
+    "segs": [ {
+      "utf8": "for all of humanity,"
+    } ]
+  }, {
+    "tStartMs": 120069,
+    "dDurationMs": 2119,
+    "segs": [ {
+      "utf8": "and I feel like we have managed"
+    } ]
+  }, {
+    "tStartMs": 122188,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "to achieve that today."
+    } ]
+  }, {
+    "tStartMs": 124958,
+    "dDurationMs": 1651,
+    "segs": [ {
+      "utf8": "[ NASA MEATBALL!!! ]"
+    } ]
+  } ]
+}

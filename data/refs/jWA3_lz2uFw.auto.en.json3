@@ -1,0 +1,2638 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 254000,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 5560,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Aloha."
+    }, {
+      "utf8": " Welcome",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " Hawaiian",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " Islands.",
+      "tOffsetMs": 2080
+    } ]
+  }, {
+    "tStartMs": 8510,
+    "dDurationMs": 2690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 8520,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "NOAA"
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " dynamic",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " agency",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 2000
+    }, {
+      "utf8": " many",
+      "tOffsetMs": 2240
+    } ]
+  }, {
+    "tStartMs": 11190,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 11200,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "offices,"
+    }, {
+      "utf8": " assets,",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " staff",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " throughout",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 13670,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 13680,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " Hawaiian",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " Islands.",
+      "tOffsetMs": 600
+    } ]
+  }, {
+    "tStartMs": 15870,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 15880,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "NOAA"
+    }, {
+      "utf8": " shares",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " traditions",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " knowledge",
+      "tOffsetMs": 1960
+    } ]
+  }, {
+    "tStartMs": 18350,
+    "dDurationMs": 2610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 18360,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of"
+    }, {
+      "utf8": " our",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " ocean",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " connection",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1800
+    }, {
+      "utf8": " inspires",
+      "tOffsetMs": 1920
+    } ]
+  }, {
+    "tStartMs": 20950,
+    "dDurationMs": 2570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 20960,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stewardship."
+    }, {
+      "utf8": " We",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " collect",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " upper",
+      "tOffsetMs": 1800
+    }, {
+      "utf8": " air",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 23510,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 23520,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "observations"
+    } ]
+  }, {
+    "tStartMs": 28350,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 28360,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " issue",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " timely",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " accurate",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " weather,",
+      "tOffsetMs": 1960
+    } ]
+  }, {
+    "tStartMs": 30870,
+    "dDurationMs": 2690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 30880,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "water,"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " climate",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " data",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " forecasts,",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " plus",
+      "tOffsetMs": 2360
+    } ]
+  }, {
+    "tStartMs": 33550,
+    "dDurationMs": 2130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 33560,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "warnings"
+    }, {
+      "utf8": " for",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " protection",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " life",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1960
+    } ]
+  }, {
+    "tStartMs": 35670,
+    "dDurationMs": 2050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 35680,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "property."
+    } ]
+  }, {
+    "tStartMs": 37710,
+    "dDurationMs": 2090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 37720,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We"
+    }, {
+      "utf8": " help",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " communities",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " adapt",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1840
+    }, {
+      "utf8": " be",
+      "tOffsetMs": 1960
+    } ]
+  }, {
+    "tStartMs": 39790,
+    "dDurationMs": 2890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 39800,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resilient"
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " our",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " coast",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " changes,",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " promote",
+      "tOffsetMs": 2480
+    } ]
+  }, {
+    "tStartMs": 42670,
+    "dDurationMs": 1930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 42680,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "safe"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " sustainable",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " communities",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " for",
+      "tOffsetMs": 1760
+    } ]
+  }, {
+    "tStartMs": 44590,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 44600,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generations"
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " come,",
+      "tOffsetMs": 880
+    } ]
+  }, {
+    "tStartMs": 46910,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 46920,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " investigate",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " prevent",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " adverse",
+      "tOffsetMs": 1480
+    } ]
+  }, {
+    "tStartMs": 48910,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 48920,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "impacts"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " marine",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " debris.",
+      "tOffsetMs": 960
+    } ]
+  }, {
+    "tStartMs": 51070,
+    "dDurationMs": 3090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 51080,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We"
+    }, {
+      "utf8": " define,",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " maintain,",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " provide",
+      "tOffsetMs": 1840
+    }, {
+      "utf8": " access",
+      "tOffsetMs": 2280
+    } ]
+  }, {
+    "tStartMs": 54150,
+    "dDurationMs": 2370,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 54160,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to"
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " consistent",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " coordinate",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " system",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 2240
+    } ]
+  }, {
+    "tStartMs": 56510,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 56520,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meet"
+    }, {
+      "utf8": " our",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " nation's",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " economic,",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " social,",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2080
+    } ]
+  }, {
+    "tStartMs": 58750,
+    "dDurationMs": 2850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 58760,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "environmental"
+    }, {
+      "utf8": " needs.",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " NOAA",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " identifies,",
+      "tOffsetMs": 2080
+    } ]
+  }, {
+    "tStartMs": 61590,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 61600,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "produces,"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " delivers",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " reliable",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2040
+    } ]
+  }, {
+    "tStartMs": 63830,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 63840,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "timely"
+    }, {
+      "utf8": " information",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " about",
+      "tOffsetMs": 1399
+    }, {
+      "utf8": " climate",
+      "tOffsetMs": 1760
+    } ]
+  }, {
+    "tStartMs": 65990,
+    "dDurationMs": 3330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 66000,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "variations,"
+    }, {
+      "utf8": " trends,",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " impacts.",
+      "tOffsetMs": 1480
+    } ]
+  }, {
+    "tStartMs": 69310,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 69320,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We"
+    }, {
+      "utf8": " ensure",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " ecological",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " integrity,",
+      "tOffsetMs": 1400
+    } ]
+  }, {
+    "tStartMs": 71630,
+    "dDurationMs": 1890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 71640,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "protection,"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " perpetuation",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1800
+    } ]
+  }, {
+    "tStartMs": 73510,
+    "dDurationMs": 2850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 73520,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Northwestern"
+    }, {
+      "utf8": " Hawaiian",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " Islands",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " ecosystems",
+      "tOffsetMs": 1600
+    } ]
+  }, {
+    "tStartMs": 76350,
+    "dDurationMs": 2090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 76360,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " native",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " Hawaiian",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " culture,",
+      "tOffsetMs": 880
+    } ]
+  }, {
+    "tStartMs": 78430,
+    "dDurationMs": 2130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 78440,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " protect",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " environment",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " by",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " using",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 2040
+    } ]
+  }, {
+    "tStartMs": 80550,
+    "dDurationMs": 1730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 80560,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "variety"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " data,",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " information,",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1600
+    } ]
+  }, {
+    "tStartMs": 82270,
+    "dDurationMs": 1290,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 82280,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "collection."
+    } ]
+  }, {
+    "tStartMs": 83550,
+    "dDurationMs": 2530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 83560,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "NOAA"
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " steward",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " ocean",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " resources",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2400
+    } ]
+  }, {
+    "tStartMs": 86070,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 86080,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their"
+    }, {
+      "utf8": " habitat",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " through",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " science",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2040
+    } ]
+  }, {
+    "tStartMs": 88310,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 88320,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ecosystem-based"
+    }, {
+      "utf8": " management",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " while",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 90270,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 90280,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enforcing"
+    }, {
+      "utf8": " laws",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " conserve",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2520
+    }, {
+      "utf8": " protect",
+      "tOffsetMs": 2640
+    } ]
+  }, {
+    "tStartMs": 93270,
+    "dDurationMs": 1650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 93280,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those"
+    }, {
+      "utf8": " marine",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " resources",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " their",
+      "tOffsetMs": 1520
+    } ]
+  }, {
+    "tStartMs": 94910,
+    "dDurationMs": 2810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 94920,
+    "dDurationMs": 2800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habitats."
+    } ]
+  }, {
+    "tStartMs": 102670,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 102680,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We"
+    }, {
+      "utf8": " protect",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " Hawaii",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " humpback",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " whales",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 104790,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 104800,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their"
+    }, {
+      "utf8": " habitat",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " Hawaii",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " through",
+      "tOffsetMs": 2080
+    } ]
+  }, {
+    "tStartMs": 107230,
+    "dDurationMs": 4610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 107240,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "education,"
+    }, {
+      "utf8": " research,",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " conservation.",
+      "tOffsetMs": 1680
+    } ]
+  }, {
+    "tStartMs": 114230,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 114240,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Provide"
+    }, {
+      "utf8": " weather",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " briefings",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " during",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1480
+    } ]
+  }, {
+    "tStartMs": 115790,
+    "dDurationMs": 2770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 115800,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Kilauea"
+    }, {
+      "utf8": " eruption",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " measure",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " particles",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 118550,
+    "dDurationMs": 1450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 118560,
+    "dDurationMs": 3640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " atmosphere",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " affect",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " our",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 119990,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 120000,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "climate"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " ozone",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " layer.",
+      "tOffsetMs": 1200
+    } ]
+  }, {
+    "tStartMs": 122190,
+    "dDurationMs": 1770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 122200,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We"
+    }, {
+      "utf8": " interpret",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " natural",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " science,",
+      "tOffsetMs": 1160
+    } ]
+  }, {
+    "tStartMs": 123950,
+    "dDurationMs": 2050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 123960,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "culture,"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " history",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " Northwestern",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 125990,
+    "dDurationMs": 3050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 126000,
+    "dDurationMs": 3040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hawaiian"
+    }, {
+      "utf8": " Islands.",
+      "tOffsetMs": 520
+    } ]
+  }, {
+    "tStartMs": 129790,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 129800,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Talofa,"
+    }, {
+      "utf8": " welcome",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " American",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " Samoa.",
+      "tOffsetMs": 2040
+    }, {
+      "utf8": " We",
+      "tOffsetMs": 3000
+    } ]
+  }, {
+    "tStartMs": 132949,
+    "dDurationMs": 1731,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 132959,
+    "dDurationMs": 3761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work"
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 201
+    }, {
+      "utf8": " our",
+      "tOffsetMs": 361
+    }, {
+      "utf8": " local",
+      "tOffsetMs": 481
+    }, {
+      "utf8": " communities",
+      "tOffsetMs": 841
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1601
+    } ]
+  }, {
+    "tStartMs": 134670,
+    "dDurationMs": 2050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 134680,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "government"
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " help",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " manage",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " natural",
+      "tOffsetMs": 1680
+    } ]
+  }, {
+    "tStartMs": 136710,
+    "dDurationMs": 2290,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 136720,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resources"
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " way",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " supports",
+      "tOffsetMs": 1239
+    }, {
+      "utf8": " Samoan",
+      "tOffsetMs": 1760
+    } ]
+  }, {
+    "tStartMs": 138990,
+    "dDurationMs": 2850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 139000,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cultural"
+    }, {
+      "utf8": " traditions",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " practices.",
+      "tOffsetMs": 1280
+    } ]
+  }, {
+    "tStartMs": 141830,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 141840,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "By"
+    }, {
+      "utf8": " protecting",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " pristine",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " coral",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " reefs,",
+      "tOffsetMs": 1560
+    } ]
+  }, {
+    "tStartMs": 144070,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 144080,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hydrothermal"
+    }, {
+      "utf8": " vent",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " communities,",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " rare",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 146550,
+    "dDurationMs": 3130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 146560,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marine"
+    }, {
+      "utf8": " archaeological",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " resources,",
+      "tOffsetMs": 1200
+    } ]
+  }, {
+    "tStartMs": 149670,
+    "dDurationMs": 2090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 149680,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " integrating",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " cutting-edge",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " science",
+      "tOffsetMs": 1560
+    } ]
+  }, {
+    "tStartMs": 151750,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 151760,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into"
+    }, {
+      "utf8": " policy",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " decision-making",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 2400
+    } ]
+  }, {
+    "tStartMs": 154230,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 154240,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conserve"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " manage",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " domestic",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1760
+    } ]
+  }, {
+    "tStartMs": 156190,
+    "dDurationMs": 1930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 156200,
+    "dDurationMs": 3240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "international"
+    }, {
+      "utf8": " marine",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " resources",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " their",
+      "tOffsetMs": 1759
+    } ]
+  }, {
+    "tStartMs": 158110,
+    "dDurationMs": 1330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 158120,
+    "dDurationMs": 3520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habitats,"
+    } ]
+  }, {
+    "tStartMs": 159430,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 159440,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "while"
+    }, {
+      "utf8": " providing",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " valuable",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " forecasts",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 161630,
+    "dDurationMs": 2850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 161640,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "warnings"
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " English",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " Samoan,",
+      "tOffsetMs": 1480
+    } ]
+  }, {
+    "tStartMs": 164470,
+    "dDurationMs": 3850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 164480,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " taking",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 479
+    }, {
+      "utf8": " pulse",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " planet.",
+      "tOffsetMs": 1240
+    } ]
+  }, {
+    "tStartMs": 168670,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 168680,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hafa"
+    }, {
+      "utf8": " Adai,",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " welcome",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " Guam.",
+      "tOffsetMs": 1520
+    } ]
+  }, {
+    "tStartMs": 171910,
+    "dDurationMs": 2130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 171920,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Known"
+    }, {
+      "utf8": " for",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " its",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " white",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " sand",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " beaches",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1960
+    } ]
+  }, {
+    "tStartMs": 174030,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 174040,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crystal-clear"
+    }, {
+      "utf8": " ocean",
+      "tOffsetMs": 919
+    }, {
+      "utf8": " water,",
+      "tOffsetMs": 1280
+    } ]
+  }, {
+    "tStartMs": 176270,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 176280,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we"
+    }, {
+      "utf8": " operate",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " 24/7,",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " providing",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 178750,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 178760,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "multi-international"
+    }, {
+      "utf8": " support,",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " weather,",
+      "tOffsetMs": 2360
+    } ]
+  }, {
+    "tStartMs": 181750,
+    "dDurationMs": 1650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 181760,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " water",
+      "tOffsetMs": 199
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " climate",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " data",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1520
+    } ]
+  }, {
+    "tStartMs": 183390,
+    "dDurationMs": 2370,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 183400,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "public,"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " support",
+      "tOffsetMs": 1119
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " management",
+      "tOffsetMs": 1559
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 185750,
+    "dDurationMs": 2730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 185760,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coastal"
+    }, {
+      "utf8": " ecosystems",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " through",
+      "tOffsetMs": 1840
+    }, {
+      "utf8": " partnerships",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 188470,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 188480,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with"
+    }, {
+      "utf8": " local",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " federal",
+      "tOffsetMs": 759
+    }, {
+      "utf8": " stakeholders.",
+      "tOffsetMs": 1120
+    } ]
+  }, {
+    "tStartMs": 190870,
+    "dDurationMs": 2649,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 190880,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "NOAA"
+    }, {
+      "utf8": " works",
+      "tOffsetMs": 359
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " reduce",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " land-based",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " sources",
+      "tOffsetMs": 2240
+    } ]
+  }, {
+    "tStartMs": 193509,
+    "dDurationMs": 2371,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 193519,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of"
+    }, {
+      "utf8": " pollution",
+      "tOffsetMs": 121
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " restore",
+      "tOffsetMs": 1121
+    }, {
+      "utf8": " viable",
+      "tOffsetMs": 1481
+    }, {
+      "utf8": " coral",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 195870,
+    "dDurationMs": 2610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 195880,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "populations"
+    }, {
+      "utf8": " using",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " multi-disciplinary",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 198470,
+    "dDurationMs": 1810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 198480,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "approach."
+    } ]
+  }, {
+    "tStartMs": 200270,
+    "dDurationMs": 1650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 200280,
+    "dDurationMs": 3360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hafa"
+    }, {
+      "utf8": " Adai",
+      "tOffsetMs": 239
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " Tiro,",
+      "tOffsetMs": 640
+    } ]
+  }, {
+    "tStartMs": 201910,
+    "dDurationMs": 1730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 201920,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "welcome"
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 599
+    }, {
+      "utf8": " Commonwealth",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1599
+    } ]
+  }, {
+    "tStartMs": 203630,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 203640,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Northern"
+    }, {
+      "utf8": " Mariana",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " Islands,",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " where",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1879
+    }, {
+      "utf8": " land",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 206070,
+    "dDurationMs": 2690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 206080,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " sea",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " pride",
+      "tOffsetMs": 879
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " culture.",
+      "tOffsetMs": 1480
+    } ]
+  }, {
+    "tStartMs": 208750,
+    "dDurationMs": 1890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 208760,
+    "dDurationMs": 3759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We"
+    }, {
+      "utf8": " protect,",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " restore,",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " promote",
+      "tOffsetMs": 1479
+    } ]
+  }, {
+    "tStartMs": 210630,
+    "dDurationMs": 1889,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 210640,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stewardship"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " marine",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1319
+    }, {
+      "utf8": " coastal",
+      "tOffsetMs": 1480
+    } ]
+  }, {
+    "tStartMs": 212509,
+    "dDurationMs": 2251,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 212519,
+    "dDurationMs": 4161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habitats"
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 921
+    }, {
+      "utf8": " supports",
+      "tOffsetMs": 1081
+    }, {
+      "utf8": " fisheries",
+      "tOffsetMs": 1561
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2121
+    } ]
+  }, {
+    "tStartMs": 214750,
+    "dDurationMs": 1930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 214760,
+    "dDurationMs": 4199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "protected"
+    }, {
+      "utf8": " resources,",
+      "tOffsetMs": 479
+    } ]
+  }, {
+    "tStartMs": 216670,
+    "dDurationMs": 2289,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 216680,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " work",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " collaboratively",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " partners",
+      "tOffsetMs": 1800
+    } ]
+  }, {
+    "tStartMs": 218949,
+    "dDurationMs": 2651,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 218959,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to"
+    }, {
+      "utf8": " target",
+      "tOffsetMs": 121
+    }, {
+      "utf8": " local",
+      "tOffsetMs": 761
+    }, {
+      "utf8": " issues",
+      "tOffsetMs": 1161
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1721
+    }, {
+      "utf8": " impact",
+      "tOffsetMs": 1921
+    }, {
+      "utf8": " coral",
+      "tOffsetMs": 2361
+    } ]
+  }, {
+    "tStartMs": 221590,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 221600,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reef"
+    }, {
+      "utf8": " ecosystems.",
+      "tOffsetMs": 280
+    } ]
+  }, {
+    "tStartMs": 224070,
+    "dDurationMs": 4530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 224080,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Rananin,"
+    }, {
+      "utf8": " Kaselehlia,",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " Alii,",
+      "tOffsetMs": 2400
+    }, {
+      "utf8": " Mogethin,",
+      "tOffsetMs": 3400
+    } ]
+  }, {
+    "tStartMs": 228590,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 228600,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yagwei,"
+    }, {
+      "utf8": " welcome",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " Federated",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " States",
+      "tOffsetMs": 2080
+    } ]
+  }, {
+    "tStartMs": 230990,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 231000,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of"
+    }, {
+      "utf8": " Micronesia,",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1239
+    }, {
+      "utf8": " Republic",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2080
+    } ]
+  }, {
+    "tStartMs": 233190,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 233200,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Marshall"
+    }, {
+      "utf8": " Islands,",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " Palau.",
+      "tOffsetMs": 1600
+    } ]
+  }, {
+    "tStartMs": 236190,
+    "dDurationMs": 3090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 236200,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Known"
+    }, {
+      "utf8": " for",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " rich",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " marine",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " ecosystems,",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 2880
+    } ]
+  }, {
+    "tStartMs": 239270,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 239280,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "provide"
+    }, {
+      "utf8": " surface",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " upper",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " air",
+      "tOffsetMs": 1640
+    } ]
+  }, {
+    "tStartMs": 241230,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 241240,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "observations"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " local",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " forecasts",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2280
+    } ]
+  }, {
+    "tStartMs": 243710,
+    "dDurationMs": 1210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 243720,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "warnings."
+    } ]
+  }, {
+    "tStartMs": 244910,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 244920,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Together,"
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " all",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " support",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " NOAA's",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " mission",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 247550,
+    "dDurationMs": 2770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 247560,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of"
+    }, {
+      "utf8": " science,",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " service,",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " stewardship",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 2640
+    } ]
+  }, {
+    "tStartMs": 250310,
+    "dDurationMs": 3690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 250320,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " Pacific",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " Islands",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " region.",
+      "tOffsetMs": 1200
+    } ]
+  } ]
+}

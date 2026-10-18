@@ -1,0 +1,703 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 15520,
+    "dDurationMs": 1483,
+    "segs": [ {
+      "utf8": "Our blue planet."
+    } ]
+  }, {
+    "tStartMs": 17017,
+    "dDurationMs": 1796,
+    "segs": [ {
+      "utf8": "Hurtling through space,"
+    } ]
+  }, {
+    "tStartMs": 19019,
+    "dDurationMs": 3374,
+    "segs": [ {
+      "utf8": "covered by more than 70 percent water,"
+    } ]
+  }, {
+    "tStartMs": 24024,
+    "dDurationMs": 2462,
+    "segs": [ {
+      "utf8": "our ocean is bursting with life."
+    } ]
+  }, {
+    "tStartMs": 28028,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "And it gives life,"
+    } ]
+  }, {
+    "tStartMs": 29697,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "producing half the oxygen we breathe"
+    } ]
+  }, {
+    "tStartMs": 31799,
+    "dDurationMs": 3203,
+    "segs": [ {
+      "utf8": "and critical food for half the world's population."
+    } ]
+  }, {
+    "tStartMs": 35280,
+    "dDurationMs": 1158,
+    "segs": [ {
+      "utf8": "It connects us,"
+    } ]
+  }, {
+    "tStartMs": 36438,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "serving as a super highway"
+    } ]
+  }, {
+    "tStartMs": 38439,
+    "dDurationMs": 1582,
+    "segs": [ {
+      "utf8": "for international trade."
+    } ]
+  }, {
+    "tStartMs": 40441,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "And it inspires us,"
+    } ]
+  }, {
+    "tStartMs": 42009,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "providing open space for recreation"
+    } ]
+  }, {
+    "tStartMs": 44445,
+    "dDurationMs": 2322,
+    "segs": [ {
+      "utf8": "and exploration."
+    } ]
+  }, {
+    "tStartMs": 47314,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "For more than 50 years,"
+    } ]
+  }, {
+    "tStartMs": 48782,
+    "dDurationMs": 2837,
+    "segs": [ {
+      "utf8": "NOAA has been at the forefront of conserving,"
+    } ]
+  }, {
+    "tStartMs": 51619,
+    "dDurationMs": 3403,
+    "segs": [ {
+      "utf8": "managing and exploring this vast resource"
+    } ]
+  }, {
+    "tStartMs": 55022,
+    "dDurationMs": 2062,
+    "segs": [ {
+      "utf8": "to benefit Americans now"
+    } ]
+  }, {
+    "tStartMs": 57084,
+    "dDurationMs": 1942,
+    "segs": [ {
+      "utf8": "and for generations to come."
+    } ]
+  }, {
+    "tStartMs": 59627,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "This is the idea behind"
+    } ]
+  }, {
+    "tStartMs": 61462,
+    "dDurationMs": 2335,
+    "segs": [ {
+      "utf8": "a sustainable and resilient"
+    } ]
+  }, {
+    "tStartMs": 63797,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "\"American Blue Economy.\""
+    } ]
+  }, {
+    "tStartMs": 69670,
+    "dDurationMs": 2814,
+    "segs": [ {
+      "utf8": "At NOAA, we continue to unravel"
+    } ]
+  }, {
+    "tStartMs": 72484,
+    "dDurationMs": 1583,
+    "segs": [ {
+      "utf8": "new mysteries"
+    } ]
+  }, {
+    "tStartMs": 74067,
+    "dDurationMs": 1142,
+    "segs": [ {
+      "utf8": "from the ocean's surface"
+    } ]
+  }, {
+    "tStartMs": 76217,
+    "dDurationMs": 1761,
+    "segs": [ {
+      "utf8": "to its deepest depths."
+    } ]
+  }, {
+    "tStartMs": 78320,
+    "dDurationMs": 2134,
+    "segs": [ {
+      "utf8": "Our ships, and those of our partners"
+    } ]
+  }, {
+    "tStartMs": 80454,
+    "dDurationMs": 2162,
+    "segs": [ {
+      "utf8": "are mapping and exploring"
+    } ]
+  }, {
+    "tStartMs": 82616,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "the largely unknown ocean,"
+    } ]
+  }, {
+    "tStartMs": 84451,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "expanding our knowledge  "
+    } ]
+  }, {
+    "tStartMs": 85619,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "and discovering new medicines,"
+    } ]
+  }, {
+    "tStartMs": 87788,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "food and energy sources."
+    } ]
+  }, {
+    "tStartMs": 90124,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "After all, we can't realize"
+    } ]
+  }, {
+    "tStartMs": 92026,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "the ocean's full potential,"
+    } ]
+  }, {
+    "tStartMs": 93794,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "without knowing ...what's out there?"
+    } ]
+  }, {
+    "tStartMs": 96030,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "As our reach into the ocean expands,"
+    } ]
+  }, {
+    "tStartMs": 98332,
+    "dDurationMs": 1870,
+    "segs": [ {
+      "utf8": "what will we discover?"
+    } ]
+  }, {
+    "tStartMs": 100202,
+    "dDurationMs": 2568,
+    "segs": [ {
+      "utf8": "What will demand our protection"
+    } ]
+  }, {
+    "tStartMs": 102770,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "or inspire future explorers?"
+    } ]
+  }, {
+    "tStartMs": 110800,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "NOAA is already protecting natural wonders"
+    } ]
+  }, {
+    "tStartMs": 113936,
+    "dDurationMs": 1079,
+    "segs": [ {
+      "utf8": "from coast to coast"
+    } ]
+  }, {
+    "tStartMs": 115015,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "through our national marine sanctuaries"
+    } ]
+  }, {
+    "tStartMs": 117017,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "and marine national monuments."
+    } ]
+  }, {
+    "tStartMs": 119353,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "Like our national parks,"
+    } ]
+  }, {
+    "tStartMs": 120787,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "national marine sanctuaries are open to all."
+    } ]
+  }, {
+    "tStartMs": 124075,
+    "dDurationMs": 1944,
+    "segs": [ {
+      "utf8": "Whether exploring a shipwreck,"
+    } ]
+  }, {
+    "tStartMs": 126019,
+    "dDurationMs": 2531,
+    "segs": [ {
+      "utf8": "diving around towering kelp forests,"
+    } ]
+  }, {
+    "tStartMs": 128550,
+    "dDurationMs": 1082,
+    "segs": [ {
+      "utf8": "or whale watching,"
+    } ]
+  }, {
+    "tStartMs": 129796,
+    "dDurationMs": 2770,
+    "segs": [ {
+      "utf8": "we've got something for everyone to enjoy."
+    } ]
+  }, {
+    "tStartMs": 133120,
+    "dDurationMs": 2954,
+    "segs": [ {
+      "utf8": "More than sites of conservation and recreation,"
+    } ]
+  }, {
+    "tStartMs": 136074,
+    "dDurationMs": 2064,
+    "segs": [ {
+      "utf8": "marine sanctuaries generate"
+    } ]
+  }, {
+    "tStartMs": 138138,
+    "dDurationMs": 1692,
+    "segs": [ {
+      "utf8": "billions of dollars a year"
+    } ]
+  }, {
+    "tStartMs": 139830,
+    "dDurationMs": 1386,
+    "segs": [ {
+      "utf8": "for local communities."
+    } ]
+  }, {
+    "tStartMs": 141216,
+    "dDurationMs": 1794,
+    "segs": [ {
+      "utf8": "Tourism and recreation"
+    } ]
+  }, {
+    "tStartMs": 143010,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "account for the largest sector"
+    } ]
+  }, {
+    "tStartMs": 145012,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "of the Blue Economy."
+    } ]
+  }, {
+    "tStartMs": 150240,
+    "dDurationMs": 1711,
+    "segs": [ {
+      "utf8": "NOAA fisheries management,"
+    } ]
+  }, {
+    "tStartMs": 151951,
+    "dDurationMs": 2203,
+    "segs": [ {
+      "utf8": "in cooperation with state, regional,"
+    } ]
+  }, {
+    "tStartMs": 154154,
+    "dDurationMs": 1774,
+    "segs": [ {
+      "utf8": "and tribal partners,"
+    } ]
+  }, {
+    "tStartMs": 155928,
+    "dDurationMs": 2497,
+    "segs": [ {
+      "utf8": "is the gold standard for resource protection."
+    } ]
+  }, {
+    "tStartMs": 158425,
+    "dDurationMs": 2524,
+    "segs": [ {
+      "utf8": "As a result the U.S. has emerged"
+    } ]
+  }, {
+    "tStartMs": 160949,
+    "dDurationMs": 2890,
+    "segs": [ {
+      "utf8": "as a global leader in sustainable seafood."
+    } ]
+  }, {
+    "tStartMs": 163839,
+    "dDurationMs": 2427,
+    "segs": [ {
+      "utf8": "Wild caught and farmed seafood"
+    } ]
+  }, {
+    "tStartMs": 166266,
+    "dDurationMs": 2034,
+    "segs": [ {
+      "utf8": "generate billions of dollars annually,"
+    } ]
+  }, {
+    "tStartMs": 168300,
+    "dDurationMs": 2471,
+    "segs": [ {
+      "utf8": "employing millions of Americans."
+    } ]
+  }, {
+    "tStartMs": 170771,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "As seafood demand grows,"
+    } ]
+  }, {
+    "tStartMs": 172773,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "so will economic opportunities."
+    } ]
+  }, {
+    "tStartMs": 175440,
+    "dDurationMs": 1804,
+    "segs": [ {
+      "utf8": "NOAA is working with fishermen"
+    } ]
+  }, {
+    "tStartMs": 177244,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "and ocean farmers to drive innovation"
+    } ]
+  }, {
+    "tStartMs": 179980,
+    "dDurationMs": 1283,
+    "segs": [ {
+      "utf8": "and job growth."
+    } ]
+  }, {
+    "tStartMs": 181263,
+    "dDurationMs": 2592,
+    "segs": [ {
+      "utf8": "We're committed to securing a sustainable"
+    } ]
+  }, {
+    "tStartMs": 183855,
+    "dDurationMs": 2765,
+    "segs": [ {
+      "utf8": "future for this indispensable food source."
+    } ]
+  }, {
+    "tStartMs": 191040,
+    "dDurationMs": 2374,
+    "segs": [ {
+      "utf8": "NOAA is helping coastal communities"
+    } ]
+  }, {
+    "tStartMs": 193414,
+    "dDurationMs": 2115,
+    "segs": [ {
+      "utf8": "weather a changing climate."
+    } ]
+  }, {
+    "tStartMs": 195529,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "We generate sea level rise forecasts"
+    } ]
+  }, {
+    "tStartMs": 197798,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "and critical storm data to empower"
+    } ]
+  }, {
+    "tStartMs": 200400,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "communities to plan and build a resilient future."
+    } ]
+  }, {
+    "tStartMs": 204320,
+    "dDurationMs": 1919,
+    "segs": [ {
+      "utf8": "We look to the natural world,"
+    } ]
+  }, {
+    "tStartMs": 206239,
+    "dDurationMs": 740,
+    "segs": [ {
+      "utf8": "supporting projects"
+    } ]
+  }, {
+    "tStartMs": 206979,
+    "dDurationMs": 1871,
+    "segs": [ {
+      "utf8": "that enhance natural barriers,"
+    } ]
+  }, {
+    "tStartMs": 208850,
+    "dDurationMs": 1588,
+    "segs": [ {
+      "utf8": "like oyster and coral reefs,"
+    } ]
+  }, {
+    "tStartMs": 210438,
+    "dDurationMs": 1685,
+    "segs": [ {
+      "utf8": "which protect our coasts."
+    } ]
+  }, {
+    "tStartMs": 212123,
+    "dDurationMs": 2837,
+    "segs": [ {
+      "utf8": "This blend of high and low-tech preparedness"
+    } ]
+  }, {
+    "tStartMs": 215600,
+    "dDurationMs": 2452,
+    "segs": [ {
+      "utf8": "fortifies communities to bounce back"
+    } ]
+  }, {
+    "tStartMs": 218052,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "after a storm."
+    } ]
+  }, {
+    "tStartMs": 224080,
+    "dDurationMs": 2513,
+    "segs": [ {
+      "utf8": "At NOAA, we're bridging the vast expanse"
+    } ]
+  }, {
+    "tStartMs": 226593,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "of the ocean,"
+    } ]
+  }, {
+    "tStartMs": 227594,
+    "dDurationMs": 3026,
+    "segs": [ {
+      "utf8": "connecting the U.S. with the global economy."
+    } ]
+  }, {
+    "tStartMs": 230620,
+    "dDurationMs": 2108,
+    "segs": [ {
+      "utf8": "To meet increased demand for goods,"
+    } ]
+  }, {
+    "tStartMs": 232728,
+    "dDurationMs": 2181,
+    "segs": [ {
+      "utf8": "NOAA's flagship weather forecast"
+    } ]
+  }, {
+    "tStartMs": 234909,
+    "dDurationMs": 1369,
+    "segs": [ {
+      "utf8": "and navigation programs"
+    } ]
+  }, {
+    "tStartMs": 236278,
+    "dDurationMs": 1726,
+    "segs": [ {
+      "utf8": "guide enormous ships,"
+    } ]
+  }, {
+    "tStartMs": 238004,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "safeguarding trillions of dollars"
+    } ]
+  }, {
+    "tStartMs": 239573,
+    "dDurationMs": 2001,
+    "segs": [ {
+      "utf8": "in economic activity."
+    } ]
+  }, {
+    "tStartMs": 242008,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "We also work to survey waterways"
+    } ]
+  }, {
+    "tStartMs": 244344,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "and protect sensitive habitats"
+    } ]
+  }, {
+    "tStartMs": 246246,
+    "dDurationMs": 2314,
+    "segs": [ {
+      "utf8": "when storms or accidents occur,"
+    } ]
+  }, {
+    "tStartMs": 249200,
+    "dDurationMs": 2882,
+    "segs": [ {
+      "utf8": "ensuring the international superhighway"
+    } ]
+  }, {
+    "tStartMs": 252082,
+    "dDurationMs": 1758,
+    "segs": [ {
+      "utf8": "stays open."
+    } ]
+  }, {
+    "tStartMs": 256160,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "For more than 50 years,"
+    } ]
+  }, {
+    "tStartMs": 257995,
+    "dDurationMs": 1597,
+    "segs": [ {
+      "utf8": "NOAA has been leading"
+    } ]
+  }, {
+    "tStartMs": 259592,
+    "dDurationMs": 2453,
+    "segs": [ {
+      "utf8": "in the understanding and sustainable use"
+    } ]
+  }, {
+    "tStartMs": 262045,
+    "dDurationMs": 1551,
+    "segs": [ {
+      "utf8": "of our ocean,"
+    } ]
+  }, {
+    "tStartMs": 263596,
+    "dDurationMs": 2081,
+    "segs": [ {
+      "utf8": "making amazing discoveries,"
+    } ]
+  }, {
+    "tStartMs": 265677,
+    "dDurationMs": 1923,
+    "segs": [ {
+      "utf8": "protecting ocean wonders,"
+    } ]
+  }, {
+    "tStartMs": 267600,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "enhancing sustainable seafood output,"
+    } ]
+  }, {
+    "tStartMs": 270570,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "preparing us for climate change"
+    } ]
+  }, {
+    "tStartMs": 272772,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "and supporting ocean-based trade."
+    } ]
+  }, {
+    "tStartMs": 275608,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "Our global blue economy"
+    } ]
+  }, {
+    "tStartMs": 277577,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "is as diverse,"
+    } ]
+  }, {
+    "tStartMs": 278578,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "interconnected, and resilient,"
+    } ]
+  }, {
+    "tStartMs": 280814,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "as our blue planet"
+    } ]
+  }, {
+    "tStartMs": 282248,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "and is forecast to accelerate,"
+    } ]
+  }, {
+    "tStartMs": 284751,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "doubling by 2030."
+    } ]
+  }, {
+    "tStartMs": 288021,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Building on 50 years of experience"
+    } ]
+  }, {
+    "tStartMs": 291024,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "NOAA will continue to lead the way."
+    } ]
+  } ]
+}

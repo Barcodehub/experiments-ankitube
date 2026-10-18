@@ -1,0 +1,475 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 2035,
+    "dDurationMs": 2352,
+    "segs": [ {
+      "utf8": "[Victor Glover] This mission is an opportunity\nfor our generation."
+    } ]
+  }, {
+    "tStartMs": 4387,
+    "dDurationMs": 1352,
+    "segs": [ {
+      "utf8": "It's about HUMAN history."
+    } ]
+  }, {
+    "tStartMs": 5739,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "It's the story of humanity."
+    } ]
+  }, {
+    "tStartMs": 7173,
+    "dDurationMs": 1452,
+    "segs": [ {
+      "utf8": "Artemis II is the opening act."
+    } ]
+  }, {
+    "tStartMs": 8625,
+    "dDurationMs": 1585,
+    "segs": [ {
+      "utf8": "We're going to send them farther into space"
+    } ]
+  }, {
+    "tStartMs": 10210,
+    "dDurationMs": 1518,
+    "segs": [ {
+      "utf8": "than any humans have gone before."
+    } ]
+  }, {
+    "tStartMs": 11728,
+    "dDurationMs": 2552,
+    "segs": [ {
+      "utf8": "[Christina Koch]\nThe question isn't go or not go."
+    } ]
+  }, {
+    "tStartMs": 14514,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "It's are you going to lead\nor are you going to follow?"
+    } ]
+  }, {
+    "tStartMs": 16750,
+    "dDurationMs": 2235,
+    "segs": [ {
+      "utf8": "[Glover] We are going for our families."
+    } ]
+  }, {
+    "tStartMs": 18985,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "[Koch] We are going for our teammates."
+    } ]
+  }, {
+    "tStartMs": 20787,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "[Jeremy Hansen]\nWe are going for all humanity."
+    } ]
+  }, {
+    "tStartMs": 23423,
+    "dDurationMs": 3036,
+    "segs": [ {
+      "utf8": "[Reid Wiseman ]\nYour Artemis II crew is go for launch."
+    } ]
+  }, {
+    "tStartMs": 26459,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "Full send."
+    } ]
+  }, {
+    "tStartMs": 28211,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "[Charlie Blackwell-Thompson]\nLet's go."
+    } ]
+  }, {
+    "tStartMs": 30163,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "Three ..."
+    } ]
+  }, {
+    "tStartMs": 31431,
+    "dDurationMs": 884,
+    "segs": [ {
+      "utf8": "Two ..."
+    } ]
+  }, {
+    "tStartMs": 32315,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "One"
+    } ]
+  }, {
+    "tStartMs": 33049,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "Booster ignition ..."
+    } ]
+  }, {
+    "tStartMs": 34684,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "and liftoff!"
+    } ]
+  }, {
+    "tStartMs": 36886,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "The crew of Artemis II, now\nbound for the Moon."
+    } ]
+  }, {
+    "tStartMs": 39889,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Humanity's next great voyage begins."
+    } ]
+  }, {
+    "tStartMs": 43359,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Our greatest chapters\nare yet to be written."
+    } ]
+  }, {
+    "tStartMs": 46780,
+    "dDurationMs": 1434,
+    "segs": [ {
+      "utf8": "Go, Artemis II!"
+    } ]
+  }, {
+    "tStartMs": 49382,
+    "dDurationMs": 1118,
+    "segs": [ {
+      "utf8": "This is a test flight,"
+    } ]
+  }, {
+    "tStartMs": 50500,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "and so every single system"
+    } ]
+  }, {
+    "tStartMs": 52402,
+    "dDurationMs": 3553,
+    "segs": [ {
+      "utf8": "aboard Orion is getting tested\nby humans for the first time."
+    } ]
+  }, {
+    "tStartMs": 56306,
+    "dDurationMs": 3804,
+    "segs": [ {
+      "utf8": "[music fades out]"
+    } ]
+  }, {
+    "tStartMs": 60627,
+    "dDurationMs": 4538,
+    "segs": [ {
+      "utf8": "[peaceful piano melody]"
+    } ]
+  }, {
+    "tStartMs": 67033,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "[Hansen]\nOur science team"
+    } ]
+  }, {
+    "tStartMs": 68435,
+    "dDurationMs": 2919,
+    "segs": [ {
+      "utf8": "helped us out with a couple craters\non the Moon"
+    } ]
+  }, {
+    "tStartMs": 71354,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "that have not been previously named.  "
+    } ]
+  }, {
+    "tStartMs": 73456,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "A number of years ago\nwe started this journey and our close-knit"
+    } ]
+  }, {
+    "tStartMs": 76960,
+    "dDurationMs": 3603,
+    "segs": [ {
+      "utf8": "astronaut family, and we lost a loved one."
+    } ]
+  }, {
+    "tStartMs": 80563,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "There's a feature\nin a really neat place on the Moon,"
+    } ]
+  }, {
+    "tStartMs": 83783,
+    "dDurationMs": 1986,
+    "segs": [ {
+      "utf8": "And we would like to call it Carroll."
+    } ]
+  }, {
+    "tStartMs": 88655,
+    "dDurationMs": 2052,
+    "segs": [ {
+      "utf8": "[sudden, dramatic musical peak]"
+    } ]
+  }, {
+    "tStartMs": 90707,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "[Koch]\nWe do not leave Earth."
+    } ]
+  }, {
+    "tStartMs": 92442,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "We choose it."
+    } ]
+  }, {
+    "tStartMs": 93743,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "We will always choose each other."
+    } ]
+  }, {
+    "tStartMs": 96463,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "[Glover] \nWe love you from the Moon."
+    } ]
+  }, {
+    "tStartMs": 99933,
+    "dDurationMs": 2419,
+    "segs": [ {
+      "utf8": "[Wiseman]\nAbsolutely unbelievable!"
+    } ]
+  }, {
+    "tStartMs": 102352,
+    "dDurationMs": 3286,
+    "segs": [ {
+      "utf8": "[orchestra swells]"
+    } ]
+  }, {
+    "tStartMs": 105638,
+    "dDurationMs": 1819,
+    "segs": [ {
+      "utf8": "[Glover]\nWe just went sci-fi."
+    } ]
+  }, {
+    "tStartMs": 107457,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "It just looks unreal."
+    } ]
+  }, {
+    "tStartMs": 109976,
+    "dDurationMs": 3253,
+    "segs": [ {
+      "utf8": "[Amit Kshatriya]\nIf you can't take love to the stars,\nthen what are we doing?"
+    } ]
+  }, {
+    "tStartMs": 113296,
+    "dDurationMs": 1285,
+    "segs": [ {
+      "utf8": "That's why we send humans"
+    } ]
+  }, {
+    "tStartMs": 114581,
+    "dDurationMs": 1818,
+    "segs": [ {
+      "utf8": "is that we can \nshare that experience."
+    } ]
+  }, {
+    "tStartMs": 116683,
+    "dDurationMs": 1218,
+    "segs": [ {
+      "utf8": "[CAPCOM]\nCopy, Moon joy."
+    } ]
+  }, {
+    "tStartMs": 117901,
+    "dDurationMs": 2185,
+    "segs": [ {
+      "utf8": "[music slows to a gentle melody]"
+    } ]
+  }, {
+    "tStartMs": 120637,
+    "dDurationMs": 3753,
+    "segs": [ {
+      "utf8": "[Hansen] We caught a view of Earth and now\nwe're completely distracted for a little bit."
+    } ]
+  }, {
+    "tStartMs": 125608,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "[CAPCOM]\nWe look like we're smiling at you"
+    } ]
+  }, {
+    "tStartMs": 127977,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "like a little Cheshire cat."
+    } ]
+  }, {
+    "tStartMs": 130480,
+    "dDurationMs": 3620,
+    "segs": [ {
+      "utf8": "[music transitions]"
+    } ]
+  }, {
+    "tStartMs": 134450,
+    "dDurationMs": 1252,
+    "segs": [ {
+      "utf8": "[Wiseman]\nWe also had that weird vibe "
+    } ]
+  }, {
+    "tStartMs": 135702,
+    "dDurationMs": 2752,
+    "segs": [ {
+      "utf8": "of packing up\nand we were getting sad."
+    } ]
+  }, {
+    "tStartMs": 138888,
+    "dDurationMs": 1669,
+    "segs": [ {
+      "utf8": "[CAPCOM]\nOh, we feel it too."
+    } ]
+  }, {
+    "tStartMs": 140557,
+    "dDurationMs": 1651,
+    "segs": [ {
+      "utf8": "But we'll be happy to have you back."
+    } ]
+  }, {
+    "tStartMs": 143126,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "[music tension builds]"
+    } ]
+  }, {
+    "tStartMs": 147764,
+    "dDurationMs": 634,
+    "segs": [ {
+      "utf8": "And there go"
+    } ]
+  }, {
+    "tStartMs": 148398,
+    "dDurationMs": 1968,
+    "segs": [ {
+      "utf8": "the first series of parachutes."
+    } ]
+  }, {
+    "tStartMs": 152385,
+    "dDurationMs": 1518,
+    "segs": [ {
+      "utf8": "And we're on drogues."
+    } ]
+  }, {
+    "tStartMs": 155972,
+    "dDurationMs": 1718,
+    "segs": [ {
+      "utf8": "Main chute deploy."
+    } ]
+  }, {
+    "tStartMs": 158508,
+    "dDurationMs": 4121,
+    "segs": [ {
+      "utf8": "[music builds in intensity]"
+    } ]
+  }, {
+    "tStartMs": 164631,
+    "dDurationMs": 3436,
+    "segs": [ {
+      "utf8": "Splashdown confirmed at 7:07 p.m. Central time"
+    } ]
+  }, {
+    "tStartMs": 168351,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "[cheering]"
+    } ]
+  }, {
+    "tStartMs": 169619,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "Welcome home Artemis II!"
+    } ]
+  }, {
+    "tStartMs": 171788,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "A new chapter of the exploration of our"
+    } ]
+  }, {
+    "tStartMs": 173723,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "celestial neighbor is complete."
+    } ]
+  }, {
+    "tStartMs": 175592,
+    "dDurationMs": 917,
+    "segs": [ {
+      "utf8": "Welcome home!"
+    } ]
+  }, {
+    "tStartMs": 176509,
+    "dDurationMs": 2219,
+    "segs": [ {
+      "utf8": "Integrity’s astronaut’s back on Earth!"
+    } ]
+  }, {
+    "tStartMs": 178728,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "[music swells]"
+    } ]
+  }, {
+    "tStartMs": 180263,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "[cheering]"
+    } ]
+  }, {
+    "tStartMs": 181364,
+    "dDurationMs": 2085,
+    "segs": [ {
+      "utf8": "[Koch]\nWe took your hearts with us,"
+    } ]
+  }, {
+    "tStartMs": 183449,
+    "dDurationMs": 1752,
+    "segs": [ {
+      "utf8": "and your hearts lifted our hearts."
+    } ]
+  }, {
+    "tStartMs": 185201,
+    "dDurationMs": 4705,
+    "segs": [ {
+      "utf8": "[cheering]"
+    } ]
+  }, {
+    "tStartMs": 189906,
+    "dDurationMs": 2486,
+    "segs": [ {
+      "utf8": "[Isaacman]\nThe golden Age of exploration has begun"
+    } ]
+  }, {
+    "tStartMs": 192392,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "and we are just getting started."
+    } ]
+  } ]
+}

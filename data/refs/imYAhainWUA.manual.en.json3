@@ -1,0 +1,241 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 2200,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "It's very expensive to take anything to the \nsurface of the Moon. So, if we are able to  "
+    } ]
+  }, {
+    "tStartMs": 7040,
+    "dDurationMs": 6200,
+    "segs": [ {
+      "utf8": "reuse or recycle the materials we had there, then \nwe will be able to be much more sustainable and  "
+    } ]
+  }, {
+    "tStartMs": 13240,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "be able to stay there longer and do more work while we're there. We're trying to maximize  "
+    } ]
+  }, {
+    "tStartMs": 18600,
+    "dDurationMs": 4840,
+    "segs": [ {
+      "utf8": "the value of the things that we send up there. \nSo, if they're more recyclable and we can  "
+    } ]
+  }, {
+    "tStartMs": 23440,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "actually change them into something else that's \nusable, it's better economically to do it that  "
+    } ]
+  }, {
+    "tStartMs": 27920,
+    "dDurationMs": 5160,
+    "segs": [ {
+      "utf8": "way. Also, just discarding items creates a safety hazard and a pollution hazard. And, we  "
+    } ]
+  }, {
+    "tStartMs": 33080,
+    "dDurationMs": 3880,
+    "segs": [ {
+      "utf8": "really don't want that on the surface \nof the Moon. It would be much more efficient  "
+    } ]
+  }, {
+    "tStartMs": 36960,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "and allow us to have a much more capable lunar surface Moon Base if we can reuse and recycle the -  "
+    } ]
+  }, {
+    "tStartMs": 42160,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "the materials. This is where the game has changed \nfor us with the Moon Base program, is that it's no  "
+    } ]
+  }, {
+    "tStartMs": 47680,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "longer just a short-sighted view on what it means to bring people to the Moon. We're really  "
+    } ]
+  }, {
+    "tStartMs": 52120,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "trying to set up an infrastructure that'll enable \nus to have a sustained presence. And, when you're  "
+    } ]
+  }, {
+    "tStartMs": 57000,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "doing this, it means that we must think about \nthe end in mind. The LunaRecycle Challenge,  "
+    } ]
+  }, {
+    "tStartMs": 61480,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "it's ambitious because we are asking \nteams to actually create prototypes and  "
+    } ]
+  }, {
+    "tStartMs": 66480,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "actually recycle the materials we are currently \nusing and are planning on using for some time  "
+    } ]
+  }, {
+    "tStartMs": 71920,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "in the foreseeable future. So there's just a lot \nof complexity to some of these materials  "
+    } ]
+  }, {
+    "tStartMs": 77040,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "and the teams really took it upon themselves \nto find innovative ways to single out these  "
+    } ]
+  }, {
+    "tStartMs": 82040,
+    "dDurationMs": 4880,
+    "segs": [ {
+      "utf8": "materials and separate them and try to \nprocess them or give them another life. The range  "
+    } ]
+  }, {
+    "tStartMs": 86920,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "of ideas was gigantic. They- they took materials \nthat were in completely different material  "
+    } ]
+  }, {
+    "tStartMs": 92840,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "classes from plastics to textiles to metals. All \nof which have different recycling methodologies  "
+    } ]
+  }, {
+    "tStartMs": 99240,
+    "dDurationMs": 4160,
+    "segs": [ {
+      "utf8": "and they were able to make very useful things with many different types of materials. So  "
+    } ]
+  }, {
+    "tStartMs": 103400,
+    "dDurationMs": 4960,
+    "segs": [ {
+      "utf8": "a successful recycling system for the Moon needs \nto accomplish many things. In addition to  "
+    } ]
+  }, {
+    "tStartMs": 108880,
+    "dDurationMs": 7276,
+    "segs": [ {
+      "utf8": "recycling and creating products from the trash, it needs to be easy to use. It needs to be efficient to use."
+    } ]
+  }, {
+    "tStartMs": 116156,
+    "dDurationMs": 5891,
+    "segs": [ {
+      "utf8": "It needs to not use a lot of additional resources, in terms of energy or water, because those are going to be"
+    } ]
+  }, {
+    "tStartMs": 122047,
+    "dDurationMs": 5328,
+    "segs": [ {
+      "utf8": "hard to get. It also needs to be safe for the crew, and not use a lot of the crew's time."
+    } ]
+  }, {
+    "tStartMs": 127375,
+    "dDurationMs": 5597,
+    "segs": [ {
+      "utf8": "In this challenge, we wanted to go out to the world and ask the world to help solve this problem."
+    } ]
+  }, {
+    "tStartMs": 132972,
+    "dDurationMs": 6518,
+    "segs": [ {
+      "utf8": "Open innovation is extremely valuable to NASA. NASA is filled with extremely smart people."
+    } ]
+  }, {
+    "tStartMs": 139490,
+    "dDurationMs": 5899,
+    "segs": [ {
+      "utf8": "NASA has extremely smart partners that are all very good at what they do. What open innovation"
+    } ]
+  }, {
+    "tStartMs": 145389,
+    "dDurationMs": 8691,
+    "segs": [ {
+      "utf8": "does, however, is it broadens that solver pool. It broadens those ideas and it is something that really can augment  "
+    } ]
+  }, {
+    "tStartMs": 154080,
+    "dDurationMs": 4520,
+    "segs": [ {
+      "utf8": "what we're already doing to get a\ndiversity of ideas in that you may not otherwise  "
+    } ]
+  }, {
+    "tStartMs": 158600,
+    "dDurationMs": 5560,
+    "segs": [ {
+      "utf8": "find. Why find a needle on the hay stack when you \ncan have that needle find you? And so it's been  "
+    } ]
+  }, {
+    "tStartMs": 164160,
+    "dDurationMs": 7400,
+    "segs": [ {
+      "utf8": "wonderful to be able to see the diverse ideas and the different modes that people  "
+    } ]
+  }, {
+    "tStartMs": 171560,
+    "dDurationMs": 5040,
+    "segs": [ {
+      "utf8": "take when they're thinking about how we go about \nrecycling. And, it just speaks to the power of  "
+    } ]
+  }, {
+    "tStartMs": 176600,
+    "dDurationMs": 4280,
+    "segs": [ {
+      "utf8": "the mini when it comes to trying to get as many people thinking about problems whether  "
+    } ]
+  }, {
+    "tStartMs": 180880,
+    "dDurationMs": 7100,
+    "segs": [ {
+      "utf8": "it's in space on Earth or anything in between. \nPlease join me in congratulating - [drumroll]."
+    } ]
+  }, {
+    "tStartMs": 187980,
+    "dDurationMs": 500,
+    "segs": [ {
+      "utf8": "[applause]"
+    } ]
+  }, {
+    "tStartMs": 195360,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "This has been such an amazing experience. \nWe compete in these challenges to learn,  "
+    } ]
+  }, {
+    "tStartMs": 201200,
+    "dDurationMs": 3560,
+    "segs": [ {
+      "utf8": "to grow, and to be a part of something \nexciting, and to be a part of  "
+    } ]
+  }, {
+    "tStartMs": 204760,
+    "dDurationMs": 3800,
+    "segs": [ {
+      "utf8": "what's happening right now in space. \nAnd, we just want to be a part of it."
+    } ]
+  } ]
+}

@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:09,000
+What we're seeing here is water contaminated with sulfuric acid and toxic metals, better known as acid mine drainage.
+
+2
+00:00:09,000 --> 00:00:13,000
+And there are thousands of abandoned mines scattered across the American West,
+
+3
+00:00:13,000 --> 00:00:19,000
+each with the potential to release contaminated water into vital rivers, lakes and water supplies.
+
+4
+00:00:19,000 --> 00:00:23,000
+Now, NASA instruments are providing a crucial solution.
+
+5
+00:00:23,000 --> 00:00:29,000
+By mapping surface minerals from space, they can identify the exact regions in need of remediation.
+
+6
+00:00:29,000 --> 00:00:32,000
+But first, a bit of a science lesson.
+
+7
+00:00:32,000 --> 00:00:39,000
+Process of acid mine drainage is when rocks that have been underground get dug up and exposed to the surface.
+
+8
+00:00:39,000 --> 00:00:46,000
+When they're exposed to the surface, they are now subject to getting rained on, so they're exposed to water, they're exposed to air.
+
+9
+00:00:46,000 --> 00:00:53,000
+And in that process, they actually convert that water that is flowing over them into much more acidic waters,
+
+10
+00:00:53,000 --> 00:00:56,000
+and they also can release toxic metals.
+
+11
+00:00:56,000 --> 00:01:00,000
+Now, certain types of rocks do experience this kind of weathering naturally.
+
+12
+00:01:00,000 --> 00:01:08,000
+However, this process unfolds much slower, since rocks make their way to the Earth's surface over incredibly long time scales.
+
+13
+00:01:08,000 --> 00:01:15,000
+But when we extract the minerals needed to power our technologies, these rocks are pulled to the surface at a much faster rate.
+
+14
+00:01:15,000 --> 00:01:19,000
+And so we really expedite a lot of that weathering in that process.
+
+15
+00:01:19,000 --> 00:01:25,000
+There are an estimated 50,000 mines across the American West that have yet to be assessed for remediation.
+
+16
+00:01:25,000 --> 00:01:29,000
+And it can be very expensive to do so on the ground.
+
+17
+00:01:29,000 --> 00:01:34,000
+Launched in 2022, NASA's Emit instrument is an imaging spectrometer,
+
+18
+00:01:34,000 --> 00:01:40,000
+a NASA invention that is used to measure light that is both in the visible and infrared wavelengths.
+
+19
+00:01:40,000 --> 00:01:44,000
+The imaging spectrometer is basically kind of like a really fancy camera.
+
+20
+00:01:44,000 --> 00:01:50,000
+So your camera has a red, green, and a blue channel, and those are often really broad channels.
+
+21
+00:01:50,000 --> 00:01:55,000
+But light, you know, is a continuum, and it reflects at all these different wavelengths.
+
+22
+00:01:55,000 --> 00:02:02,000
+And so if you can measure them in narrower, narrower intervals, you get more and more information with it about exactly how
+
+23
+00:02:02,000 --> 00:02:08,000
+light is interacting with the chemical surface and the properties of whatever it is that it's reflecting off of.
+
+24
+00:02:08,000 --> 00:02:18,000
+By using spectroscopy, instruments like Emit can map large regions to detect mineral compositions indicative of acid mine drainage and its sources.
+
+25
+00:02:18,000 --> 00:02:25,000
+And it's not just for rocks and minerals. Spectroscopy can be used to greatly broaden our understanding of our world.
+
+26
+00:02:25,000 --> 00:02:30,000
+It's like a Swiss Army knife. There are so many things that people can use it for.
+
+27
+00:02:30,000 --> 00:02:34,000
+We are doing things where people are looking at wastewater, people are looking at surface plastics and agriculture,
+
+28
+00:02:34,000 --> 00:02:37,000
+people are looking at crop tides and thinking about yield.
+
+29
+00:02:37,000 --> 00:02:43,000
+And as with all NASA data, this information is free and open to the public.
+
+30
+00:02:43,000 --> 00:02:52,000
+And so we really encourage people to check them out and think about how they might want to be leveraging them for a variety of different activities.
+

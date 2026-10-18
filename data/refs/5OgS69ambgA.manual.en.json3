@@ -1,0 +1,325 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 600,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "My name is Doug Parkinson"
+    } ]
+  }, {
+    "tStartMs": 2335,
+    "dDurationMs": 3704,
+    "segs": [ {
+      "utf8": "and I'm the SLS launch\nintegration and Mission Operations lead."
+    } ]
+  }, {
+    "tStartMs": 7807,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "My job on SLS"
+    } ]
+  }, {
+    "tStartMs": 9542,
+    "dDurationMs": 5506,
+    "segs": [ {
+      "utf8": "is to manage the operations architecture\nfor NASA this program, and specifically"
+    } ]
+  }, {
+    "tStartMs": 15048,
+    "dDurationMs": 4538,
+    "segs": [ {
+      "utf8": "provide support in the SLS Engineering\nSupport Center, the SESC."
+    } ]
+  }, {
+    "tStartMs": 20420,
+    "dDurationMs": 4471,
+    "segs": [ {
+      "utf8": "One of the specific things\nthat we do is support launch operations."
+    } ]
+  }, {
+    "tStartMs": 24891,
+    "dDurationMs": 3871,
+    "segs": [ {
+      "utf8": "Three two, one and liftoff of Artemis one."
+    } ]
+  }, {
+    "tStartMs": 30597,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "I was born in Milwaukee, Wisconsin."
+    } ]
+  }, {
+    "tStartMs": 32966,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "I lived in Saint Louis for a little while,\nand then a small town in Tennessee,"
+    } ]
+  }, {
+    "tStartMs": 36903,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "and I ended up landing here in Huntsville,\nAlabama,"
+    } ]
+  }, {
+    "tStartMs": 40240,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "going to the University of Alabama\nin Huntsville."
+    } ]
+  }, {
+    "tStartMs": 42842,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "When I was a young man,\nI knew I'd be an engineer."
+    } ]
+  }, {
+    "tStartMs": 46346,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "My father was an engineer."
+    } ]
+  }, {
+    "tStartMs": 47747,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "I had the engineering knack,\nif you will, for the time."
+    } ]
+  }, {
+    "tStartMs": 51017,
+    "dDurationMs": 4438,
+    "segs": [ {
+      "utf8": "In the late 90s, I was looking at doing\ncomputer technologies."
+    } ]
+  }, {
+    "tStartMs": 55455,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "So computer\nengineering was hot at the time."
+    } ]
+  }, {
+    "tStartMs": 58625,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "But when I got to school,"
+    } ]
+  }, {
+    "tStartMs": 60226,
+    "dDurationMs": 4071,
+    "segs": [ {
+      "utf8": "I did feel like I was more drawn towards\nthe automotive industry."
+    } ]
+  }, {
+    "tStartMs": 64531,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "And I thought that's where I might."
+    } ]
+  }, {
+    "tStartMs": 66032,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "I might land. One day."
+    } ]
+  }, {
+    "tStartMs": 67300,
+    "dDurationMs": 4071,
+    "segs": [ {
+      "utf8": "I did come across an opportunity\nto work at the Propulsion Research Center."
+    } ]
+  }, {
+    "tStartMs": 71404,
+    "dDurationMs": 3804,
+    "segs": [ {
+      "utf8": "That intrigued me\nbecause it was a way, as an undergraduate"
+    } ]
+  }, {
+    "tStartMs": 75475,
+    "dDurationMs": 4871,
+    "segs": [ {
+      "utf8": "to put into practical\nuse what I was learning in books."
+    } ]
+  }, {
+    "tStartMs": 80346,
+    "dDurationMs": 3971,
+    "segs": [ {
+      "utf8": "I got my hands dirty,\nand it was in cutting edge"
+    } ]
+  }, {
+    "tStartMs": 84317,
+    "dDurationMs": 3737,
+    "segs": [ {
+      "utf8": "technologies that really inspired me\nand that led me to NASA."
+    } ]
+  }, {
+    "tStartMs": 88822,
+    "dDurationMs": 4204,
+    "segs": [ {
+      "utf8": "I've been with NASA since 1999,\nso it's been it's"
+    } ]
+  }, {
+    "tStartMs": 93026,
+    "dDurationMs": 3637,
+    "segs": [ {
+      "utf8": "been a bit over 25 years now\nand it's been quite a ride."
+    } ]
+  }, {
+    "tStartMs": 96963,
+    "dDurationMs": 4638,
+    "segs": [ {
+      "utf8": "In 2012,\nI transitioned over to the program office,"
+    } ]
+  }, {
+    "tStartMs": 101701,
+    "dDurationMs": 3904,
+    "segs": [ {
+      "utf8": "and one of the things that I learned in\nin the propulsion area,"
+    } ]
+  }, {
+    "tStartMs": 105605,
+    "dDurationMs": 6039,
+    "segs": [ {
+      "utf8": "with all of the engine testing and like,\nis test operations, and in that translated"
+    } ]
+  }, {
+    "tStartMs": 111644,
+    "dDurationMs": 3137,
+    "segs": [ {
+      "utf8": "well into my new role as operations"
+    } ]
+  }, {
+    "tStartMs": 114781,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "lead for stage's element\nin the SLS program."
+    } ]
+  }, {
+    "tStartMs": 118618,
+    "dDurationMs": 3136,
+    "segs": [ {
+      "utf8": "I love all aspects of the operations."
+    } ]
+  }, {
+    "tStartMs": 121754,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "I like getting my hands dirty."
+    } ]
+  }, {
+    "tStartMs": 123056,
+    "dDurationMs": 3804,
+    "segs": [ {
+      "utf8": "I like seeing the Erector set\ngo together with SLS."
+    } ]
+  }, {
+    "tStartMs": 126860,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "We are putting vehicles together\non Artemis one."
+    } ]
+  }, {
+    "tStartMs": 130597,
+    "dDurationMs": 5105,
+    "segs": [ {
+      "utf8": "I was the operations lead\nand I was able to establish the,"
+    } ]
+  }, {
+    "tStartMs": 135702,
+    "dDurationMs": 4504,
+    "segs": [ {
+      "utf8": "the operations architecture for SLS,\nwhich I hadn't ever done before."
+    } ]
+  }, {
+    "tStartMs": 140206,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "So that was a great new experience for me."
+    } ]
+  }, {
+    "tStartMs": 142475,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "And I was right here in the SESC."
+    } ]
+  }, {
+    "tStartMs": 144811,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "SLS Engineering Support Center\nand I supporting"
+    } ]
+  }, {
+    "tStartMs": 148581,
+    "dDurationMs": 4805,
+    "segs": [ {
+      "utf8": "and watching on those screens behind me\nthe Artemis one rocket launch."
+    } ]
+  }, {
+    "tStartMs": 153920,
+    "dDurationMs": 3036,
+    "segs": [ {
+      "utf8": "It means a lot to be a part of this\nArtemis team."
+    } ]
+  }, {
+    "tStartMs": 156990,
+    "dDurationMs": 734,
+    "segs": [ {
+      "utf8": "I'm surrounded"
+    } ]
+  }, {
+    "tStartMs": 157724,
+    "dDurationMs": 5105,
+    "segs": [ {
+      "utf8": "by a wonderful set of engineers\nthat are all around me each and every day."
+    } ]
+  }, {
+    "tStartMs": 163263,
+    "dDurationMs": 967,
+    "segs": [ {
+      "utf8": "What a blessing."
+    } ]
+  }, {
+    "tStartMs": 164230,
+    "dDurationMs": 5205,
+    "segs": [ {
+      "utf8": "And the technologies that we are\ndeveloping, the missions that we have,"
+    } ]
+  }, {
+    "tStartMs": 169435,
+    "dDurationMs": 4905,
+    "segs": [ {
+      "utf8": "the dreams that we have, it means a lot\nto show the next generation."
+    } ]
+  }, {
+    "tStartMs": 174674,
+    "dDurationMs": 4638,
+    "segs": [ {
+      "utf8": "My children, kids that I coach,\nall of those kids are inspired."
+    } ]
+  }, {
+    "tStartMs": 179312,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "I see it every day."
+    } ]
+  }, {
+    "tStartMs": 180313,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "They ask me a lot of questions."
+    } ]
+  }, {
+    "tStartMs": 182015,
+    "dDurationMs": 5438,
+    "segs": [ {
+      "utf8": "They are just inspired by what we're doing and interested in seeing what may come."
+    } ]
+  } ]
+}

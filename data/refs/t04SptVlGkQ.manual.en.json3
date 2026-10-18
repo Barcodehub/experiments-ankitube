@@ -1,0 +1,163 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "(pleasant rock music)\n(images whooshing)"
+    } ]
+  }, {
+    "tStartMs": 8427,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "(pleasant rock music)\n(images whooshing)"
+    } ]
+  }, {
+    "tStartMs": 15230,
+    "dDurationMs": 2635,
+    "segs": [ {
+      "utf8": "(upbeat and pleasant rock music)"
+    } ]
+  }, {
+    "tStartMs": 17865,
+    "dDurationMs": 983,
+    "segs": [ {
+      "utf8": "(image whooshing)"
+    } ]
+  }, {
+    "tStartMs": 18848,
+    "dDurationMs": 4083,
+    "segs": [ {
+      "utf8": "(upbeat and pleasant rock music)"
+    } ]
+  }, {
+    "tStartMs": 28899,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 38457,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 48323,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 58361,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 68331,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 78374,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 88072,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 97832,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 107832,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 117715,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 127825,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 137734,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 147822,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 157912,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 168152,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 178003,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 188024,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 198024,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 207944,
+    "dDurationMs": 2447,
+    "segs": [ {
+      "utf8": "(upbeat rock music continues)"
+    } ]
+  }, {
+    "tStartMs": 210391,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "(echoing guitar music)"
+    } ]
+  } ]
+}

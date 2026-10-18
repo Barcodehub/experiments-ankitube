@@ -1,0 +1,631 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1440,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Welcome to the Build America Buy America\nAct training series."
+    } ]
+  }, {
+    "tStartMs": 6000,
+    "dDurationMs": 3045,
+    "segs": [ {
+      "utf8": "Before continuing,\nplease watch the other videos within our"
+    } ]
+  }, {
+    "tStartMs": 9045,
+    "dDurationMs": 4009,
+    "segs": [ {
+      "utf8": "training series on FEMA's Buy America\nwebsite to ensure you have the essential"
+    } ]
+  }, {
+    "tStartMs": 13054,
+    "dDurationMs": 1066,
+    "segs": [ {
+      "utf8": "background knowledge."
+    } ]
+  }, {
+    "tStartMs": 14920,
+    "dDurationMs": 4255,
+    "segs": [ {
+      "utf8": "As those training videos explain,\nthe Build America Buy America Act"
+    } ]
+  }, {
+    "tStartMs": 19175,
+    "dDurationMs": 3005,
+    "segs": [ {
+      "utf8": "mandates that federal agencies,\nincluding FEMA,"
+    } ]
+  }, {
+    "tStartMs": 22180,
+    "dDurationMs": 4756,
+    "segs": [ {
+      "utf8": "ensure that all materials used in\ninfrastructure projects funded by federal"
+    } ]
+  }, {
+    "tStartMs": 26936,
+    "dDurationMs": 2504,
+    "segs": [ {
+      "utf8": "financial assistance are made in the US."
+    } ]
+  }, {
+    "tStartMs": 30200,
+    "dDurationMs": 2917,
+    "segs": [ {
+      "utf8": "But remember,\nFEMA's Disaster Financial Assistance"
+    } ]
+  }, {
+    "tStartMs": 33117,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "grants are exempt from these requirements."
+    } ]
+  }, {
+    "tStartMs": 36240,
+    "dDurationMs": 3873,
+    "segs": [ {
+      "utf8": "The Build America by America Act grants\nFEMA the authority to waive the"
+    } ]
+  }, {
+    "tStartMs": 40113,
+    "dDurationMs": 2207,
+    "segs": [ {
+      "utf8": "requirements under certain circumstances."
+    } ]
+  }, {
+    "tStartMs": 42840,
+    "dDurationMs": 4101,
+    "segs": [ {
+      "utf8": "As you've previously learned,\nthere are two categories of waivers,"
+    } ]
+  }, {
+    "tStartMs": 46941,
+    "dDurationMs": 4713,
+    "segs": [ {
+      "utf8": "Project specific waivers which apply to\none specific infrastructure project,"
+    } ]
+  }, {
+    "tStartMs": 51654,
+    "dDurationMs": 4346,
+    "segs": [ {
+      "utf8": "and general applicability waivers which\ncould be applied more broadly."
+    } ]
+  }, {
+    "tStartMs": 56920,
+    "dDurationMs": 4297,
+    "segs": [ {
+      "utf8": "This video will discuss FEMA's general\napplicability waivers by answering the"
+    } ]
+  }, {
+    "tStartMs": 61217,
+    "dDurationMs": 1103,
+    "segs": [ {
+      "utf8": "following questions."
+    } ]
+  }, {
+    "tStartMs": 63040,
+    "dDurationMs": 2120,
+    "segs": [ {
+      "utf8": "What is a general applicability waiver?"
+    } ]
+  }, {
+    "tStartMs": 66000,
+    "dDurationMs": 2800,
+    "segs": [ {
+      "utf8": "What general applicability waivers has\nFEMA issued?"
+    } ]
+  }, {
+    "tStartMs": 69840,
+    "dDurationMs": 4431,
+    "segs": [ {
+      "utf8": "Do recipients or sub recipients need to\napply to use a FEMA approved general"
+    } ]
+  }, {
+    "tStartMs": 74271,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "applicability waiver?"
+    } ]
+  }, {
+    "tStartMs": 76200,
+    "dDurationMs": 3720,
+    "segs": [ {
+      "utf8": "Where can you find more information about\nthe Build America Buy America Act?"
+    } ]
+  }, {
+    "tStartMs": 80800,
+    "dDurationMs": 4640,
+    "segs": [ {
+      "utf8": "Let's start with the first question,\nWhat is a general applicability waiver?"
+    } ]
+  }, {
+    "tStartMs": 86360,
+    "dDurationMs": 4482,
+    "segs": [ {
+      "utf8": "The term general applicability waiver\nrefers to a waiver that applies across"
+    } ]
+  }, {
+    "tStartMs": 90842,
+    "dDurationMs": 2038,
+    "segs": [ {
+      "utf8": "multiple agency projects or awards."
+    } ]
+  }, {
+    "tStartMs": 93880,
+    "dDurationMs": 4969,
+    "segs": [ {
+      "utf8": "They are targeted to either a specific\nproduct or category of products or to all"
+    } ]
+  }, {
+    "tStartMs": 98849,
+    "dDurationMs": 5031,
+    "segs": [ {
+      "utf8": "products under the covered projects or\nawards and always have an expiration date."
+    } ]
+  }, {
+    "tStartMs": 104920,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Now let's discuss the second question."
+    } ]
+  }, {
+    "tStartMs": 107960,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "What general applicability waivers has\nFEMA issued?"
+    } ]
+  }, {
+    "tStartMs": 111760,
+    "dDurationMs": 4017,
+    "segs": [ {
+      "utf8": "FEMA has issued several general\napplicability waivers to ease the burden"
+    } ]
+  }, {
+    "tStartMs": 115777,
+    "dDurationMs": 3743,
+    "segs": [ {
+      "utf8": "of compliance for its recipients and sub\nrecipients as appropriate."
+    } ]
+  }, {
+    "tStartMs": 120440,
+    "dDurationMs": 4148,
+    "segs": [ {
+      "utf8": "The full list of FEMA's general\napplicability waivers can be found on"
+    } ]
+  }, {
+    "tStartMs": 124588,
+    "dDurationMs": 2252,
+    "segs": [ {
+      "utf8": "FEMA's By America website at fema.gov."
+    } ]
+  }, {
+    "tStartMs": 127760,
+    "dDurationMs": 5407,
+    "segs": [ {
+      "utf8": "This video will cover the waivers most\nlikely to be used by recipients and sub"
+    } ]
+  }, {
+    "tStartMs": 133167,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "recipients Small Projects Waiver and de\nMinimis Waiver."
+    } ]
+  }, {
+    "tStartMs": 137960,
+    "dDurationMs": 4245,
+    "segs": [ {
+      "utf8": "The Small Projects General Applicability\nWaiver allows FEMA to waive the Build"
+    } ]
+  }, {
+    "tStartMs": 142205,
+    "dDurationMs": 4461,
+    "segs": [ {
+      "utf8": "America Buy America Act requirements for\nprojects where the total project costs do"
+    } ]
+  }, {
+    "tStartMs": 146666,
+    "dDurationMs": 3494,
+    "segs": [ {
+      "utf8": "not exceed the current Federal simplified\nacquisition threshold."
+    } ]
+  }, {
+    "tStartMs": 151000,
+    "dDurationMs": 4448,
+    "segs": [ {
+      "utf8": "The total project cost includes all\nfunding applied toward the infrastructure"
+    } ]
+  }, {
+    "tStartMs": 155448,
+    "dDurationMs": 1712,
+    "segs": [ {
+      "utf8": "project, regardless of source."
+    } ]
+  }, {
+    "tStartMs": 157880,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "When using the Small Projects General\nApplicability Waiver recipients must"
+    } ]
+  }, {
+    "tStartMs": 161980,
+    "dDurationMs": 4264,
+    "segs": [ {
+      "utf8": "maintain documentation showing that the\ntotal project costs are less than the"
+    } ]
+  }, {
+    "tStartMs": 166244,
+    "dDurationMs": 4156,
+    "segs": [ {
+      "utf8": "current Federal simplified acquisition\nthreshold for the life of the award."
+    } ]
+  }, {
+    "tStartMs": 171240,
+    "dDurationMs": 4032,
+    "segs": [ {
+      "utf8": "If there are unplanned cost overruns that\nincrease the project cost,"
+    } ]
+  }, {
+    "tStartMs": 175272,
+    "dDurationMs": 4558,
+    "segs": [ {
+      "utf8": "all excess costs and additional purchases\nover the current federal simplified"
+    } ]
+  }, {
+    "tStartMs": 179830,
+    "dDurationMs": 4616,
+    "segs": [ {
+      "utf8": "acquisition threshold must comply with\nthe Build America by America Act unless"
+    } ]
+  }, {
+    "tStartMs": 184446,
+    "dDurationMs": 994,
+    "segs": [ {
+      "utf8": "otherwise waived."
+    } ]
+  }, {
+    "tStartMs": 186560,
+    "dDurationMs": 1520,
+    "segs": [ {
+      "utf8": "Let's look at a quick example."
+    } ]
+  }, {
+    "tStartMs": 189000,
+    "dDurationMs": 5876,
+    "segs": [ {
+      "utf8": "A city plans to renovate a fire station,\nand the total project cost comes to $200,"
+    } ]
+  }, {
+    "tStartMs": 194876,
+    "dDurationMs": 284,
+    "segs": [ {
+      "utf8": "000."
+    } ]
+  }, {
+    "tStartMs": 196000,
+    "dDurationMs": 5448,
+    "segs": [ {
+      "utf8": "The project includes funding from one of\nthe FEMA grant programs subject to the"
+    } ]
+  }, {
+    "tStartMs": 201448,
+    "dDurationMs": 5176,
+    "segs": [ {
+      "utf8": "Build America by America Act in the\namount of $150,000, with the other $50,"
+    } ]
+  }, {
+    "tStartMs": 206624,
+    "dDurationMs": 2656,
+    "segs": [ {
+      "utf8": "000 coming from bonds sold by the city."
+    } ]
+  }, {
+    "tStartMs": 210040,
+    "dDurationMs": 4108,
+    "segs": [ {
+      "utf8": "Since the total project cost is less than\nthe current Federal Simplified"
+    } ]
+  }, {
+    "tStartMs": 214148,
+    "dDurationMs": 3489,
+    "segs": [ {
+      "utf8": "Acquisition threshold,\nthe project qualifies for FEMA's Small"
+    } ]
+  }, {
+    "tStartMs": 217637,
+    "dDurationMs": 2083,
+    "segs": [ {
+      "utf8": "Project General Applicability Waiver."
+    } ]
+  }, {
+    "tStartMs": 220640,
+    "dDurationMs": 3907,
+    "segs": [ {
+      "utf8": "It is important to know that while the\nBuild America Buy America Act"
+    } ]
+  }, {
+    "tStartMs": 224547,
+    "dDurationMs": 2493,
+    "segs": [ {
+      "utf8": "requirements are waived for small\nprojects,"
+    } ]
+  }, {
+    "tStartMs": 227040,
+    "dDurationMs": 4587,
+    "segs": [ {
+      "utf8": "all recipients are encouraged to purchase\nitems produced in the United States to"
+    } ]
+  }, {
+    "tStartMs": 231627,
+    "dDurationMs": 1813,
+    "segs": [ {
+      "utf8": "the greatest extent practicable."
+    } ]
+  }, {
+    "tStartMs": 234320,
+    "dDurationMs": 4440,
+    "segs": [ {
+      "utf8": "The next FEMA waiver we will cover is the\nde Minimis General Applicability Waiver."
+    } ]
+  }, {
+    "tStartMs": 239600,
+    "dDurationMs": 4860,
+    "segs": [ {
+      "utf8": "This waiver waives the requirements for\nup to 5% of the total material cost"
+    } ]
+  }, {
+    "tStartMs": 244460,
+    "dDurationMs": 5180,
+    "segs": [ {
+      "utf8": "subject to the Build America Buy America\nAct with a maximum limit of $1 million."
+    } ]
+  }, {
+    "tStartMs": 250840,
+    "dDurationMs": 4496,
+    "segs": [ {
+      "utf8": "Recipients and sub recipients that use\nthis waiver must maintain documentation"
+    } ]
+  }, {
+    "tStartMs": 255336,
+    "dDurationMs": 1424,
+    "segs": [ {
+      "utf8": "demonstrating compliance."
+    } ]
+  }, {
+    "tStartMs": 257840,
+    "dDurationMs": 4222,
+    "segs": [ {
+      "utf8": "This includes tracking the costs of\nproducts claimed under the waiver as well"
+    } ]
+  }, {
+    "tStartMs": 262062,
+    "dDurationMs": 2058,
+    "segs": [ {
+      "utf8": "as the total applicable project costs."
+    } ]
+  }, {
+    "tStartMs": 265200,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Let's consider this example of using the\nde minimis general applicability waiver."
+    } ]
+  }, {
+    "tStartMs": 270400,
+    "dDurationMs": 4954,
+    "segs": [ {
+      "utf8": "A city plans to construct a new emergency\noperations Center for the total cost of"
+    } ]
+  }, {
+    "tStartMs": 275354,
+    "dDurationMs": 726,
+    "segs": [ {
+      "utf8": "$20 million."
+    } ]
+  }, {
+    "tStartMs": 276920,
+    "dDurationMs": 5409,
+    "segs": [ {
+      "utf8": "The project includes $10 million in labor\ncosts and $10 million in total material"
+    } ]
+  }, {
+    "tStartMs": 282329,
+    "dDurationMs": 3431,
+    "segs": [ {
+      "utf8": "costs subject to the Build America Buy\nAmerica Act."
+    } ]
+  }, {
+    "tStartMs": 286600,
+    "dDurationMs": 4835,
+    "segs": [ {
+      "utf8": "The project would be eligible to apply\nthe de minimis waiver towards $500,"
+    } ]
+  }, {
+    "tStartMs": 291435,
+    "dDurationMs": 4255,
+    "segs": [ {
+      "utf8": "000 worth of material costs,\nwhich represents 5% of the total $10"
+    } ]
+  }, {
+    "tStartMs": 295690,
+    "dDurationMs": 5030,
+    "segs": [ {
+      "utf8": "million in total material costs subject\nto the Build America Buy America Act."
+    } ]
+  }, {
+    "tStartMs": 301800,
+    "dDurationMs": 2240,
+    "segs": [ {
+      "utf8": "Now let's discuss the third question."
+    } ]
+  }, {
+    "tStartMs": 305120,
+    "dDurationMs": 4431,
+    "segs": [ {
+      "utf8": "Do recipients or sub recipients need to\napply to use a FEMA approved general"
+    } ]
+  }, {
+    "tStartMs": 309551,
+    "dDurationMs": 1209,
+    "segs": [ {
+      "utf8": "applicability waiver?"
+    } ]
+  }, {
+    "tStartMs": 311680,
+    "dDurationMs": 2718,
+    "segs": [ {
+      "utf8": "No,\nthere was no application process to use"
+    } ]
+  }, {
+    "tStartMs": 314398,
+    "dDurationMs": 4882,
+    "segs": [ {
+      "utf8": "the general applicability waivers that\nFEMA has issued and listed on fema.gov."
+    } ]
+  }, {
+    "tStartMs": 320280,
+    "dDurationMs": 4855,
+    "segs": [ {
+      "utf8": "Any projects that are funded by a FEMA\ngrant program subject to the Build"
+    } ]
+  }, {
+    "tStartMs": 325135,
+    "dDurationMs": 5118,
+    "segs": [ {
+      "utf8": "America by America Act can use a relevant\nFEMA approved general Applicability"
+    } ]
+  }, {
+    "tStartMs": 330253,
+    "dDurationMs": 1706,
+    "segs": [ {
+      "utf8": "waiver as a best practice."
+    } ]
+  }, {
+    "tStartMs": 332320,
+    "dDurationMs": 4766,
+    "segs": [ {
+      "utf8": "Recipients and sub recipients who use\nthese waivers are encouraged to maintain"
+    } ]
+  }, {
+    "tStartMs": 337086,
+    "dDurationMs": 4405,
+    "segs": [ {
+      "utf8": "proper documentation of their use as\nthese waivers do expire and are not"
+    } ]
+  }, {
+    "tStartMs": 341491,
+    "dDurationMs": 1509,
+    "segs": [ {
+      "utf8": "guaranteed to be renewed."
+    } ]
+  }, {
+    "tStartMs": 343960,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "Now let's discuss the last question."
+    } ]
+  }, {
+    "tStartMs": 346880,
+    "dDurationMs": 3960,
+    "segs": [ {
+      "utf8": "Where can I find more information on the\nBuild America Buy America Act?"
+    } ]
+  }, {
+    "tStartMs": 351720,
+    "dDurationMs": 4851,
+    "segs": [ {
+      "utf8": "You can find information on FEMA's\nimplementation of the Build America Buy"
+    } ]
+  }, {
+    "tStartMs": 356571,
+    "dDurationMs": 4593,
+    "segs": [ {
+      "utf8": "America Act on their website,\nlocated under the Buy America Preference"
+    } ]
+  }, {
+    "tStartMs": 361164,
+    "dDurationMs": 1036,
+    "segs": [ {
+      "utf8": "tab on fema.gov."
+    } ]
+  }, {
+    "tStartMs": 363080,
+    "dDurationMs": 5063,
+    "segs": [ {
+      "utf8": "This website includes a list of all FEMA\ngrant programs subject to and not subject"
+    } ]
+  }, {
+    "tStartMs": 368143,
+    "dDurationMs": 2257,
+    "segs": [ {
+      "utf8": "to the Build America Buy America Act."
+    } ]
+  }, {
+    "tStartMs": 371360,
+    "dDurationMs": 3417,
+    "segs": [ {
+      "utf8": "You can also find more program\ndefinitions, Flyers,"
+    } ]
+  }, {
+    "tStartMs": 374777,
+    "dDurationMs": 2103,
+    "segs": [ {
+      "utf8": "and a helpful decision road map."
+    } ]
+  }, {
+    "tStartMs": 377960,
+    "dDurationMs": 5194,
+    "segs": [ {
+      "utf8": "The Code of Federal Regulations website\nprovides more information on the Build"
+    } ]
+  }, {
+    "tStartMs": 383154,
+    "dDurationMs": 3486,
+    "segs": [ {
+      "utf8": "America Buy America Act policy under 2\nCFR Part 184."
+    } ]
+  }, {
+    "tStartMs": 387600,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "Thank you for watching this video on\nFEMA's general applicability Waivers."
+    } ]
+  }, {
+    "tStartMs": 392160,
+    "dDurationMs": 3233,
+    "segs": [ {
+      "utf8": "To continue learning about the Build\nAmerica Buy America Act,"
+    } ]
+  }, {
+    "tStartMs": 395393,
+    "dDurationMs": 3287,
+    "segs": [ {
+      "utf8": "be sure to check out the other videos in\nthis training series."
+    } ]
+  }, {
+    "tStartMs": 399280,
+    "dDurationMs": 6955,
+    "segs": [ {
+      "utf8": "For more information,\nplease visit FEMA's Buy America website"
+    } ]
+  }, {
+    "tStartMs": 406235,
+    "dDurationMs": 3366,
+    "segs": [ {
+      "utf8": "on fema.\ngov or contact us at"
+    } ]
+  }, {
+    "tStartMs": 409601,
+    "dDurationMs": 4039,
+    "segs": [ {
+      "utf8": "fema-grants-buyamerica@fema.dhs.gov."
+    } ]
+  } ]
+}

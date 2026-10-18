@@ -1,0 +1,133 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1440,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "Who are we?"
+    } ]
+  }, {
+    "tStartMs": 6240,
+    "dDurationMs": 1360,
+    "segs": [ {
+      "utf8": "We thought we were American."
+    } ]
+  }, {
+    "tStartMs": 10720,
+    "dDurationMs": 960,
+    "segs": [ {
+      "utf8": "Born and raised."
+    } ]
+  }, {
+    "tStartMs": 15200,
+    "dDurationMs": 720,
+    "segs": [ {
+      "utf8": "But did we belong?"
+    } ]
+  }, {
+    "tStartMs": 19040,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "Or were we just a number?"
+    } ]
+  }, {
+    "tStartMs": 26400,
+    "dDurationMs": 3010,
+    "segs": [ {
+      "utf8": "Worn on and worn out. "
+    } ]
+  }, {
+    "tStartMs": 30800,
+    "dDurationMs": 1136,
+    "segs": [ {
+      "utf8": "People abandoned."
+    } ]
+  }, {
+    "tStartMs": 33600,
+    "dDurationMs": 1440,
+    "segs": [ {
+      "utf8": "With only what we could carry.  "
+    } ]
+  }, {
+    "tStartMs": 38800,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "A footnote in our history \ndesigned to take away our agency."
+    } ]
+  }, {
+    "tStartMs": 47360,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "Retold stories of patriotism and protest"
+    } ]
+  }, {
+    "tStartMs": 56960,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Untold stories of resilience and redress."
+    } ]
+  }, {
+    "tStartMs": 62800,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Stories that are told through our national parks."
+    } ]
+  }, {
+    "tStartMs": 68960,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "So who are we?"
+    } ]
+  }, {
+    "tStartMs": 73600,
+    "dDurationMs": 2320,
+    "segs": [ {
+      "utf8": "This is who we are."
+    } ]
+  }, {
+    "tStartMs": 79040,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "We are survivors,"
+    } ]
+  }, {
+    "tStartMs": 83920,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "and descendants."
+    } ]
+  }, {
+    "tStartMs": 88560,
+    "dDurationMs": 1040,
+    "segs": [ {
+      "utf8": "We are family"
+    } ]
+  }, {
+    "tStartMs": 93600,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "We are community."
+    } ]
+  }, {
+    "tStartMs": 98880,
+    "dDurationMs": 1600,
+    "segs": [ {
+      "utf8": "We are story keepers."
+    } ]
+  }, {
+    "tStartMs": 104480,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "We are Americans."
+    } ]
+  } ]
+}

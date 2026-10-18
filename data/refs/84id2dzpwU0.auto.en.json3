@@ -1,0 +1,1364 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 110320,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 5960,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Greetings"
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " International",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " Space",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 8030,
+    "dDurationMs": 3130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 8040,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Station."
+    }, {
+      "utf8": " On",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " behalf",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " Expedition",
+      "tOffsetMs": 1880
+    }, {
+      "utf8": " 74",
+      "tOffsetMs": 2480
+    } ]
+  }, {
+    "tStartMs": 11150,
+    "dDurationMs": 3410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 11160,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crew,"
+    }, {
+      "utf8": " coming",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " 250",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " miles",
+      "tOffsetMs": 2520
+    }, {
+      "utf8": " above",
+      "tOffsetMs": 3000
+    } ]
+  }, {
+    "tStartMs": 14550,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 14560,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Earth,"
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " excited",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " celebrate",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2320
+    } ]
+  }, {
+    "tStartMs": 16990,
+    "dDurationMs": 2890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 17000,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "FIFA"
+    }, {
+      "utf8": " World",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " Cup",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " people",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 1800
+    }, {
+      "utf8": " all",
+      "tOffsetMs": 2120
+    }, {
+      "utf8": " over",
+      "tOffsetMs": 2600
+    } ]
+  }, {
+    "tStartMs": 19870,
+    "dDurationMs": 1490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 19880,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " world.",
+      "tOffsetMs": 120
+    } ]
+  }, {
+    "tStartMs": 21350,
+    "dDurationMs": 2570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 21360,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Here",
+      "isSpeakerChange": 1
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " space",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " station,",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 1880
+    }, {
+      "utf8": " conduct",
+      "tOffsetMs": 2040
+    } ]
+  }, {
+    "tStartMs": 23910,
+    "dDurationMs": 2530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 23920,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "research"
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " drives",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " exploration",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 26430,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 26440,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "innovation"
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " impacts",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " life",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 2160
+    }, {
+      "utf8": " Earth,",
+      "tOffsetMs": 2360
+    } ]
+  }, {
+    "tStartMs": 29430,
+    "dDurationMs": 2370,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 29440,
+    "dDurationMs": 3310,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even"
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " sports",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " performance,",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " material",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 31790,
+    "dDurationMs": 960,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 31800,
+    "dDurationMs": 959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sciences,"
+    } ]
+  }, {
+    "tStartMs": 32740,
+    "dDurationMs": 19,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 32749,
+    "dDurationMs": 2171,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 32750,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [music]",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 32759,
+    "dDurationMs": 4881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e and",
+      "isSpeakerChange": 1
+    }, {
+      "utf8": " human",
+      "tOffsetMs": 481
+    }, {
+      "utf8": " endurance.",
+      "tOffsetMs": 961
+    } ]
+  }, {
+    "tStartMs": 34910,
+    "dDurationMs": 2730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 34920,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e In",
+      "isSpeakerChange": 1
+    }, {
+      "utf8": " fact,",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " because",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " research",
+      "tOffsetMs": 1880
+    }, {
+      "utf8": " conducted",
+      "tOffsetMs": 2240
+    } ]
+  }, {
+    "tStartMs": 37630,
+    "dDurationMs": 1610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 37640,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " space",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " station,",
+      "tOffsetMs": 480
+    } ]
+  }, {
+    "tStartMs": 39230,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 39240,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "electronics"
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " now",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " included",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " major",
+      "tOffsetMs": 1640
+    } ]
+  }, {
+    "tStartMs": 41190,
+    "dDurationMs": 2690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 41200,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tournament"
+    }, {
+      "utf8": " soccer",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " balls",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " for",
+      "tOffsetMs": 1800
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " 2026",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 43870,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 43880,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "World"
+    }, {
+      "utf8": " Cup,",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " which",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " ensure",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " soccer",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " ball",
+      "tOffsetMs": 1840
+    } ]
+  }, {
+    "tStartMs": 46030,
+    "dDurationMs": 1850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 46040,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is"
+    }, {
+      "utf8": " balanced",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " statically",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 1120
+    } ]
+  }, {
+    "tStartMs": 47870,
+    "dDurationMs": 2290,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 47880,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " dynamically",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " for",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " best",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " performance.",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 50150,
+    "dDurationMs": 1850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 50160,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e The",
+      "isSpeakerChange": 1
+    }, {
+      "utf8": " World",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " Cup",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " more",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " than",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " tournament.",
+      "tOffsetMs": 1080
+    } ]
+  }, {
+    "tStartMs": 51990,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 52000,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It's"
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " global",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " phenomenon",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " pushes",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1840
+    } ]
+  }, {
+    "tStartMs": 53950,
+    "dDurationMs": 2930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 53960,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "boundaries"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " innovation,",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " pioneers",
+      "tOffsetMs": 2160
+    }, {
+      "utf8": " new",
+      "tOffsetMs": 2760
+    } ]
+  }, {
+    "tStartMs": 56870,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 56880,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "technology,"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " drives",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " human",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 58870,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 58880,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "performance,"
+    }, {
+      "utf8": " similar",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " what",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " do",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " here",
+      "tOffsetMs": 1840
+    } ]
+  }, {
+    "tStartMs": 60870,
+    "dDurationMs": 1010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 60880,
+    "dDurationMs": 3200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at"
+    }, {
+      "utf8": " NASA.",
+      "tOffsetMs": 120
+    } ]
+  }, {
+    "tStartMs": 61870,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 61880,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e During",
+      "isSpeakerChange": 1
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " Artemis",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " 2",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " mission,",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " astronauts",
+      "tOffsetMs": 1640
+    } ]
+  }, {
+    "tStartMs": 64070,
+    "dDurationMs": 1890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 64080,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traveled"
+    }, {
+      "utf8": " farther",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " than",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " any",
+      "tOffsetMs": 1119
+    }, {
+      "utf8": " human",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " has",
+      "tOffsetMs": 1760
+    } ]
+  }, {
+    "tStartMs": 65950,
+    "dDurationMs": 3250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 65960,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traveled"
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " over",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " 50",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " years,",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2360
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 2560
+    }, {
+      "utf8": " was",
+      "tOffsetMs": 2920
+    } ]
+  }, {
+    "tStartMs": 69190,
+    "dDurationMs": 2090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 69200,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " beginning.",
+      "tOffsetMs": 640
+    } ]
+  }, {
+    "tStartMs": 71270,
+    "dDurationMs": 1890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 71280,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We"
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " focused",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " sending",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " humans",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1760
+    } ]
+  }, {
+    "tStartMs": 73150,
+    "dDurationMs": 3210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 73160,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "surface"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " moon",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 2080
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 2165
+    }, {
+      "utf8": " Mars.",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 76350,
+    "dDurationMs": 2930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 76360,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e But,",
+      "isSpeakerChange": 1
+    }, {
+      "utf8": " whether",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " soccer",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " pitch",
+      "tOffsetMs": 1840
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 2440
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 2760
+    } ]
+  }, {
+    "tStartMs": 79270,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 79280,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "orbit,"
+    }, {
+      "utf8": " it's",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " connection",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " each",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " other",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 81910,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 81920,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that"
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " so",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " special.",
+      "tOffsetMs": 680
+    } ]
+  }, {
+    "tStartMs": 84230,
+    "dDurationMs": 3490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 84240,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "From"
+    }, {
+      "utf8": " our",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " view",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " above",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " planet",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " Earth,",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 2840
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 3280
+    } ]
+  }, {
+    "tStartMs": 87710,
+    "dDurationMs": 1570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 87720,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gather"
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " same",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " passion",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 89270,
+    "dDurationMs": 2290,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 89280,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "excitement"
+    }, {
+      "utf8": " for",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " game,",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " world",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 91550,
+    "dDurationMs": 1570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 91560,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doesn't"
+    }, {
+      "utf8": " look",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " like",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " collection",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 93110,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 93120,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opposing"
+    }, {
+      "utf8": " sides.",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " It",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " looks",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " like",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 1856
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 2080
+    } ]
+  }, {
+    "tStartMs": 95270,
+    "dDurationMs": 3170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 95280,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "masterpiece"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " cooperation.",
+      "tOffsetMs": 1360
+    } ]
+  }, {
+    "tStartMs": 98430,
+    "dDurationMs": 2610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 98440,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Different",
+      "isSpeakerChange": 1
+    }, {
+      "utf8": " teams,",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " same",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " planet.",
+      "tOffsetMs": 1560
+    } ]
+  }, {
+    "tStartMs": 101030,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 101040,
+    "dDurationMs": 4416,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "One"
+    }, {
+      "utf8": " crew.",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " No",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " matter",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " who",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " you're",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " cheering",
+      "tOffsetMs": 1600
+    } ]
+  }, {
+    "tStartMs": 102990,
+    "dDurationMs": 2466,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 103000,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for,"
+    }, {
+      "utf8": " cheer",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " all",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " your",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " heart,",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " because",
+      "tOffsetMs": 2240
+    } ]
+  }, {
+    "tStartMs": 105446,
+    "dDurationMs": 1754,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 105456,
+    "dDurationMs": 4864,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[music]"
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 104
+    }, {
+      "utf8": " want",
+      "tOffsetMs": 304
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 544
+    }, {
+      "utf8": " hear",
+      "tOffsetMs": 664
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 864
+    }, {
+      "utf8": " excitement",
+      "tOffsetMs": 1064
+    } ]
+  }, {
+    "tStartMs": 107190,
+    "dDurationMs": 3130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 107200,
+    "dDurationMs": 3120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " way",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " up",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " here.",
+      "tOffsetMs": 720
+    } ]
+  } ]
+}

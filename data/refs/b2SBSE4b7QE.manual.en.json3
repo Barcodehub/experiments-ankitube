@@ -1,0 +1,943 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 794,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "(forlorn bluesy guitar music)"
+    } ]
+  }, {
+    "tStartMs": 19522,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "(forlorn bluesy guitar music continues)"
+    } ]
+  }, {
+    "tStartMs": 40096,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "(forlorn bluesy guitar music continues)"
+    } ]
+  }, {
+    "tStartMs": 60001,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "(forlorn bluesy guitar music continues)"
+    } ]
+  }, {
+    "tStartMs": 80063,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "(forlorn bluesy guitar music continues)"
+    } ]
+  }, {
+    "tStartMs": 99997,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "(forlorn bluesy guitar music continues)"
+    } ]
+  }, {
+    "tStartMs": 119627,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "(forlorn bluesy guitar music continues)"
+    } ]
+  }, {
+    "tStartMs": 125226,
+    "dDurationMs": 1831,
+    "segs": [ {
+      "utf8": "(tractor humming)"
+    } ]
+  }, {
+    "tStartMs": 127057,
+    "dDurationMs": 2453,
+    "segs": [ {
+      "utf8": "- You know, farming here for 43 years,"
+    } ]
+  }, {
+    "tStartMs": 129510,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "I've seen regulation after\nregulation come along"
+    } ]
+  }, {
+    "tStartMs": 132210,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "and thinking, oh boy,\nhere comes somebody else"
+    } ]
+  }, {
+    "tStartMs": 134910,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "that's gonna be watching everything we do."
+    } ]
+  }, {
+    "tStartMs": 136680,
+    "dDurationMs": 1350,
+    "segs": [ {
+      "utf8": "- A lot of people are concerned"
+    } ]
+  }, {
+    "tStartMs": 138030,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "with what it'll do to\ncertain property rights."
+    } ]
+  }, {
+    "tStartMs": 140910,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "- Nobody really knows what to expect."
+    } ]
+  }, {
+    "tStartMs": 142620,
+    "dDurationMs": 2466,
+    "segs": [ {
+      "utf8": "What's this process really gonna be about"
+    } ]
+  }, {
+    "tStartMs": 145086,
+    "dDurationMs": 2064,
+    "segs": [ {
+      "utf8": "can we trust these feds"
+    } ]
+  }, {
+    "tStartMs": 147150,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "and is this gonna be a good program?"
+    } ]
+  }, {
+    "tStartMs": 149460,
+    "dDurationMs": 1380,
+    "segs": [ {
+      "utf8": "And there's a lot of sort of suspicion"
+    } ]
+  }, {
+    "tStartMs": 150840,
+    "dDurationMs": 2550,
+    "segs": [ {
+      "utf8": "and feeling out and rightly so."
+    } ]
+  }, {
+    "tStartMs": 153390,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "- Initially I had some concerns as well"
+    } ]
+  }, {
+    "tStartMs": 155400,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "and talked to a lot of people."
+    } ]
+  }, {
+    "tStartMs": 157050,
+    "dDurationMs": 1770,
+    "segs": [ {
+      "utf8": "- One of the reasons I really perked up"
+    } ]
+  }, {
+    "tStartMs": 158820,
+    "dDurationMs": 840,
+    "segs": [ {
+      "utf8": "when I heard about this,"
+    } ]
+  }, {
+    "tStartMs": 159660,
+    "dDurationMs": 1020,
+    "segs": [ {
+      "utf8": "is I wanted to make sure"
+    } ]
+  }, {
+    "tStartMs": 160680,
+    "dDurationMs": 3450,
+    "segs": [ {
+      "utf8": "that this wasn't another\nlayer of bureaucracy"
+    } ]
+  }, {
+    "tStartMs": 164130,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "that I'd need to deal with\nfor what I do on our farm."
+    } ]
+  }, {
+    "tStartMs": 167130,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "- Farmers have concerns\nabout whether or not"
+    } ]
+  }, {
+    "tStartMs": 169590,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "they can continue to bring\ntheir tractor across the river."
+    } ]
+  }, {
+    "tStartMs": 172500,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "And snowmobile organizations\nhave talked about"
+    } ]
+  }, {
+    "tStartMs": 174720,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "whether or not they'll be able"
+    } ]
+  }, {
+    "tStartMs": 175553,
+    "dDurationMs": 2497,
+    "segs": [ {
+      "utf8": "to put a bridge across the\nriver, in a new location."
+    } ]
+  }, {
+    "tStartMs": 178050,
+    "dDurationMs": 2332,
+    "segs": [ {
+      "utf8": "- It didn't take me very\nlong once I got involved"
+    } ]
+  }, {
+    "tStartMs": 180382,
+    "dDurationMs": 3998,
+    "segs": [ {
+      "utf8": "to realize that's not what this is about."
+    } ]
+  }, {
+    "tStartMs": 184380,
+    "dDurationMs": 2400,
+    "segs": [ {
+      "utf8": "- The committee overall\nover the three years"
+    } ]
+  }, {
+    "tStartMs": 186780,
+    "dDurationMs": 2460,
+    "segs": [ {
+      "utf8": "did a great job of\naddressing all those concerns"
+    } ]
+  }, {
+    "tStartMs": 189240,
+    "dDurationMs": 2700,
+    "segs": [ {
+      "utf8": "and addressing them in\nthe management plan."
+    } ]
+  }, {
+    "tStartMs": 191940,
+    "dDurationMs": 2463,
+    "segs": [ {
+      "utf8": "- This is not about\nadding more regulation."
+    } ]
+  }, {
+    "tStartMs": 196110,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "- I manage the Wild and\nScenic Rivers program"
+    } ]
+  }, {
+    "tStartMs": 198150,
+    "dDurationMs": 2010,
+    "segs": [ {
+      "utf8": "in New England for the\nNational Park Service."
+    } ]
+  }, {
+    "tStartMs": 200160,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "Back in the fifties and sixties"
+    } ]
+  }, {
+    "tStartMs": 202290,
+    "dDurationMs": 2910,
+    "segs": [ {
+      "utf8": "was an era of big dam projects."
+    } ]
+  }, {
+    "tStartMs": 205200,
+    "dDurationMs": 2070,
+    "segs": [ {
+      "utf8": "I think some of the folks in Congress"
+    } ]
+  }, {
+    "tStartMs": 207270,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "felt like there ought to\nbe a complimentary way"
+    } ]
+  }, {
+    "tStartMs": 209430,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "to preserve certain rivers in\ntheir free flowing condition"
+    } ]
+  }, {
+    "tStartMs": 212700,
+    "dDurationMs": 2955,
+    "segs": [ {
+      "utf8": "rather than trying to develop\nthem for other purposes."
+    } ]
+  }, {
+    "tStartMs": 215655,
+    "dDurationMs": 3250,
+    "segs": [ {
+      "utf8": "(forlorn guitar music)"
+    } ]
+  }, {
+    "tStartMs": 220304,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "(water lapping)"
+    } ]
+  }, {
+    "tStartMs": 225170,
+    "dDurationMs": 3610,
+    "segs": [ {
+      "utf8": "What's happening on the\nMissisquoi and other rivers"
+    } ]
+  }, {
+    "tStartMs": 228780,
+    "dDurationMs": 3060,
+    "segs": [ {
+      "utf8": "in New England, is pretty\nunique and pretty rare."
+    } ]
+  }, {
+    "tStartMs": 231840,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "People coming together to\ntry to protect these rivers"
+    } ]
+  }, {
+    "tStartMs": 234720,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "through the Wild and Scenic Rivers Program"
+    } ]
+  }, {
+    "tStartMs": 236850,
+    "dDurationMs": 2880,
+    "segs": [ {
+      "utf8": "without creating a federal river park."
+    } ]
+  }, {
+    "tStartMs": 239730,
+    "dDurationMs": 2396,
+    "segs": [ {
+      "utf8": "- Local people sought\nthrough their congressmen"
+    } ]
+  }, {
+    "tStartMs": 242126,
+    "dDurationMs": 3784,
+    "segs": [ {
+      "utf8": "to nominate the river as a candidate,"
+    } ]
+  }, {
+    "tStartMs": 245910,
+    "dDurationMs": 903,
+    "segs": [ {
+      "utf8": "Wild and Scenic river."
+    } ]
+  }, {
+    "tStartMs": 246813,
+    "dDurationMs": 1437,
+    "segs": [ {
+      "utf8": "- [Jamie] The, the first test is,"
+    } ]
+  }, {
+    "tStartMs": 248250,
+    "dDurationMs": 1740,
+    "segs": [ {
+      "utf8": "is it a free flowing river?"
+    } ]
+  }, {
+    "tStartMs": 249990,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "The second test would be"
+    } ]
+  }, {
+    "tStartMs": 251820,
+    "dDurationMs": 2674,
+    "segs": [ {
+      "utf8": "is there something\nspecial about the place?"
+    } ]
+  }, {
+    "tStartMs": 254494,
+    "dDurationMs": 2096,
+    "segs": [ {
+      "utf8": "I think, you know, for the Missisquoi"
+    } ]
+  }, {
+    "tStartMs": 256590,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "it was pretty apparent that\nthere's some special values"
+    } ]
+  }, {
+    "tStartMs": 258930,
+    "dDurationMs": 1437,
+    "segs": [ {
+      "utf8": "to us right away."
+    } ]
+  }, {
+    "tStartMs": 260367,
+    "dDurationMs": 3063,
+    "segs": [ {
+      "utf8": "And really the third test\nthat we take very seriously"
+    } ]
+  }, {
+    "tStartMs": 263430,
+    "dDurationMs": 1922,
+    "segs": [ {
+      "utf8": "is, community empowerment."
+    } ]
+  }, {
+    "tStartMs": 265352,
+    "dDurationMs": 3208,
+    "segs": [ {
+      "utf8": "- I think there was some\nconcern that, you know"
+    } ]
+  }, {
+    "tStartMs": 268560,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "since this is a federal\ndesignation, that the"
+    } ]
+  }, {
+    "tStartMs": 270870,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "the government was going"
+    } ]
+  }, {
+    "tStartMs": 271703,
+    "dDurationMs": 2227,
+    "segs": [ {
+      "utf8": "to take over control of the development"
+    } ]
+  }, {
+    "tStartMs": 273930,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "and activity along the river."
+    } ]
+  }, {
+    "tStartMs": 275040,
+    "dDurationMs": 2340,
+    "segs": [ {
+      "utf8": "But since it really included\nonly federal permits"
+    } ]
+  }, {
+    "tStartMs": 277380,
+    "dDurationMs": 1696,
+    "segs": [ {
+      "utf8": "I think people at the end of the day"
+    } ]
+  }, {
+    "tStartMs": 279076,
+    "dDurationMs": 2414,
+    "segs": [ {
+      "utf8": "saw the utility of the designation."
+    } ]
+  }, {
+    "tStartMs": 281490,
+    "dDurationMs": 2490,
+    "segs": [ {
+      "utf8": "So it, it passed pretty quickly."
+    } ]
+  }, {
+    "tStartMs": 283980,
+    "dDurationMs": 2580,
+    "segs": [ {
+      "utf8": "- We are an invited guest and\nwe have to behave that way."
+    } ]
+  }, {
+    "tStartMs": 286560,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "We try to place ourselves in a position"
+    } ]
+  }, {
+    "tStartMs": 288690,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "of supporting the local\ncommunities, the local partner"
+    } ]
+  }, {
+    "tStartMs": 291660,
+    "dDurationMs": 2851,
+    "segs": [ {
+      "utf8": "and providing good technical\nsupport, good advice"
+    } ]
+  }, {
+    "tStartMs": 294511,
+    "dDurationMs": 1152,
+    "segs": [ {
+      "utf8": "and funding support."
+    } ]
+  }, {
+    "tStartMs": 295663,
+    "dDurationMs": 2786,
+    "segs": [ {
+      "utf8": "We don't have any ability or desire to"
+    } ]
+  }, {
+    "tStartMs": 298449,
+    "dDurationMs": 2961,
+    "segs": [ {
+      "utf8": "to control or dictate anything."
+    } ]
+  }, {
+    "tStartMs": 301410,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- At the end of the day"
+    } ]
+  }, {
+    "tStartMs": 302243,
+    "dDurationMs": 1957,
+    "segs": [ {
+      "utf8": "there was zero government interference."
+    } ]
+  }, {
+    "tStartMs": 304200,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "The, the river's being\npreserved and it's being used"
+    } ]
+  }, {
+    "tStartMs": 306150,
+    "dDurationMs": 2850,
+    "segs": [ {
+      "utf8": "and it makes me actually feel\ngood about our government"
+    } ]
+  }, {
+    "tStartMs": 309000,
+    "dDurationMs": 2350,
+    "segs": [ {
+      "utf8": "believe it or not,\nespecially this day and age."
+    } ]
+  }, {
+    "tStartMs": 315210,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "- You know, sometimes when\nyou live so close to something"
+    } ]
+  }, {
+    "tStartMs": 317130,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "you don't really see\nit, it's there and you,"
+    } ]
+  }, {
+    "tStartMs": 318960,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "you think about it some,"
+    } ]
+  }, {
+    "tStartMs": 319860,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "but you don't really see it in a way."
+    } ]
+  }, {
+    "tStartMs": 321960,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "- [John] The hidden resource"
+    } ]
+  }, {
+    "tStartMs": 322793,
+    "dDurationMs": 1552,
+    "segs": [ {
+      "utf8": "that a lot of people just drive over"
+    } ]
+  }, {
+    "tStartMs": 324345,
+    "dDurationMs": 2895,
+    "segs": [ {
+      "utf8": "and don't even think about\nuntil they see a kayak"
+    } ]
+  }, {
+    "tStartMs": 327240,
+    "dDurationMs": 1623,
+    "segs": [ {
+      "utf8": "or a canoe out there\nand say, wait a second."
+    } ]
+  }, {
+    "tStartMs": 328863,
+    "dDurationMs": 1227,
+    "segs": [ {
+      "utf8": "There's something different out there."
+    } ]
+  }, {
+    "tStartMs": 330090,
+    "dDurationMs": 990,
+    "segs": [ {
+      "utf8": "And I can take my kids"
+    } ]
+  }, {
+    "tStartMs": 331080,
+    "dDurationMs": 2810,
+    "segs": [ {
+      "utf8": "and family out there and enjoy the river."
+    } ]
+  }, {
+    "tStartMs": 333890,
+    "dDurationMs": 3740,
+    "segs": [ {
+      "utf8": "- If you're a landowner that\nowns land next to the river"
+    } ]
+  }, {
+    "tStartMs": 339060,
+    "dDurationMs": 2790,
+    "segs": [ {
+      "utf8": "I would think that you would be excited"
+    } ]
+  }, {
+    "tStartMs": 341850,
+    "dDurationMs": 1200,
+    "segs": [ {
+      "utf8": "about supporting this"
+    } ]
+  }, {
+    "tStartMs": 343050,
+    "dDurationMs": 2662,
+    "segs": [ {
+      "utf8": "because it's celebrating\nsomething that you already,"
+    } ]
+  }, {
+    "tStartMs": 345712,
+    "dDurationMs": 1748,
+    "segs": [ {
+      "utf8": "you already owned."
+    } ]
+  }, {
+    "tStartMs": 347460,
+    "dDurationMs": 2040,
+    "segs": [ {
+      "utf8": "- [Jeff] You should take pride in the fact"
+    } ]
+  }, {
+    "tStartMs": 349500,
+    "dDurationMs": 3690,
+    "segs": [ {
+      "utf8": "that the center of your town\nlife, the Missisquoi River"
+    } ]
+  }, {
+    "tStartMs": 353190,
+    "dDurationMs": 3330,
+    "segs": [ {
+      "utf8": "is being recognized nationally\nas a wild scenic river."
+    } ]
+  }, {
+    "tStartMs": 356520,
+    "dDurationMs": 1913,
+    "segs": [ {
+      "utf8": "- Oh, Missisquoi is a, you know,"
+    } ]
+  }, {
+    "tStartMs": 358433,
+    "dDurationMs": 2407,
+    "segs": [ {
+      "utf8": "a very special place, I think."
+    } ]
+  }, {
+    "tStartMs": 360840,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "- [Jeff] If the river\nwere not to be protected"
+    } ]
+  }, {
+    "tStartMs": 363150,
+    "dDurationMs": 1924,
+    "segs": [ {
+      "utf8": "or were in much worse shape,"
+    } ]
+  }, {
+    "tStartMs": 365074,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "the value of our house would go down."
+    } ]
+  }, {
+    "tStartMs": 367410,
+    "dDurationMs": 1050,
+    "segs": [ {
+      "utf8": "The value of our life,"
+    } ]
+  }, {
+    "tStartMs": 368460,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "the quality of our life would go down."
+    } ]
+  }, {
+    "tStartMs": 370290,
+    "dDurationMs": 1710,
+    "segs": [ {
+      "utf8": "- [Jamie] The designation\ndoes typically come with"
+    } ]
+  }, {
+    "tStartMs": 372000,
+    "dDurationMs": 1920,
+    "segs": [ {
+      "utf8": "some federal funding support"
+    } ]
+  }, {
+    "tStartMs": 373920,
+    "dDurationMs": 2130,
+    "segs": [ {
+      "utf8": "to help implement the management strategy."
+    } ]
+  }, {
+    "tStartMs": 376050,
+    "dDurationMs": 2310,
+    "segs": [ {
+      "utf8": "- Money's come backed town for education"
+    } ]
+  }, {
+    "tStartMs": 378360,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "and conservation commission projects."
+    } ]
+  }, {
+    "tStartMs": 380730,
+    "dDurationMs": 2220,
+    "segs": [ {
+      "utf8": "- [Jeff] Potential access\npoints along the river"
+    } ]
+  }, {
+    "tStartMs": 382950,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "that may be partially paid for"
+    } ]
+  }, {
+    "tStartMs": 385050,
+    "dDurationMs": 2820,
+    "segs": [ {
+      "utf8": "by the Wild and Scenic River program."
+    } ]
+  }, {
+    "tStartMs": 387870,
+    "dDurationMs": 2160,
+    "segs": [ {
+      "utf8": "- [Jacques] If it entices\nsomeone to come here"
+    } ]
+  }, {
+    "tStartMs": 390030,
+    "dDurationMs": 1110,
+    "segs": [ {
+      "utf8": "and spend some of their dollars,"
+    } ]
+  }, {
+    "tStartMs": 391140,
+    "dDurationMs": 1410,
+    "segs": [ {
+      "utf8": "there's certainly a value there."
+    } ]
+  }, {
+    "tStartMs": 392550,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "- They think people\njust in their minds say"
+    } ]
+  }, {
+    "tStartMs": 394380,
+    "dDurationMs": 1230,
+    "segs": [ {
+      "utf8": "whatever we did is the right thing"
+    } ]
+  }, {
+    "tStartMs": 395610,
+    "dDurationMs": 1950,
+    "segs": [ {
+      "utf8": "because it seems to be working"
+    } ]
+  }, {
+    "tStartMs": 397560,
+    "dDurationMs": 2984,
+    "segs": [ {
+      "utf8": "and people seem to be\ngetting out, enjoy the river."
+    } ]
+  }, {
+    "tStartMs": 400544,
+    "dDurationMs": 2416,
+    "segs": [ {
+      "utf8": "(forlorn guitar music)"
+    } ]
+  }, {
+    "tStartMs": 402960,
+    "dDurationMs": 2430,
+    "segs": [ {
+      "utf8": "(lapping water)"
+    } ]
+  }, {
+    "tStartMs": 405390,
+    "dDurationMs": 2370,
+    "segs": [ {
+      "utf8": "- Looking at the benefits,\nthe pros and cons"
+    } ]
+  }, {
+    "tStartMs": 407760,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "and coming up with your own decision"
+    } ]
+  }, {
+    "tStartMs": 410490,
+    "dDurationMs": 1396,
+    "segs": [ {
+      "utf8": "as to whether or not that"
+    } ]
+  }, {
+    "tStartMs": 411886,
+    "dDurationMs": 1724,
+    "segs": [ {
+      "utf8": "that's something you'd like to see."
+    } ]
+  }, {
+    "tStartMs": 413610,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "- Most of the issues we\ntalk about at town meeting"
+    } ]
+  }, {
+    "tStartMs": 415890,
+    "dDurationMs": 1320,
+    "segs": [ {
+      "utf8": "are gonna cost us something."
+    } ]
+  }, {
+    "tStartMs": 417210,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "- We're not asking the\npeople at the town meetings"
+    } ]
+  }, {
+    "tStartMs": 419880,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "for any money whatsoever."
+    } ]
+  }, {
+    "tStartMs": 421440,
+    "dDurationMs": 1560,
+    "segs": [ {
+      "utf8": "- I do think it's an opportunity"
+    } ]
+  }, {
+    "tStartMs": 423000,
+    "dDurationMs": 2280,
+    "segs": [ {
+      "utf8": "in order to be seized and\nreally made something out off"
+    } ]
+  }, {
+    "tStartMs": 425280,
+    "dDurationMs": 874,
+    "segs": [ {
+      "utf8": "by the communities."
+    } ]
+  }, {
+    "tStartMs": 426154,
+    "dDurationMs": 3776,
+    "segs": [ {
+      "utf8": "They've gotta see the opportunity as well."
+    } ]
+  }, {
+    "tStartMs": 429930,
+    "dDurationMs": 1090,
+    "segs": [ {
+      "utf8": "- Before the designation"
+    } ]
+  }, {
+    "tStartMs": 431020,
+    "dDurationMs": 2881,
+    "segs": [ {
+      "utf8": "I think the communities were connected"
+    } ]
+  }, {
+    "tStartMs": 433901,
+    "dDurationMs": 2329,
+    "segs": [ {
+      "utf8": "via the roads and highways,"
+    } ]
+  }, {
+    "tStartMs": 436230,
+    "dDurationMs": 1080,
+    "segs": [ {
+      "utf8": "but after designation"
+    } ]
+  }, {
+    "tStartMs": 437310,
+    "dDurationMs": 1830,
+    "segs": [ {
+      "utf8": "communities became connected to the river"
+    } ]
+  }, {
+    "tStartMs": 439140,
+    "dDurationMs": 2114,
+    "segs": [ {
+      "utf8": "understanding that the\nriver connects us together."
+    } ]
+  }, {
+    "tStartMs": 441254,
+    "dDurationMs": 3916,
+    "segs": [ {
+      "utf8": "So if you respect the\ncommunity you live in"
+    } ]
+  }, {
+    "tStartMs": 445170,
+    "dDurationMs": 1620,
+    "segs": [ {
+      "utf8": "the designation's not gonna hurt you"
+    } ]
+  }, {
+    "tStartMs": 446790,
+    "dDurationMs": 833,
+    "segs": [ {
+      "utf8": "and at the end of the day"
+    } ]
+  }, {
+    "tStartMs": 447623,
+    "dDurationMs": 1897,
+    "segs": [ {
+      "utf8": "you're gonna benefit your\nchildren and grandchildren."
+    } ]
+  }, {
+    "tStartMs": 449520,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "So it's definitely something\nthat I would hardly endorse"
+    } ]
+  }, {
+    "tStartMs": 452250,
+    "dDurationMs": 2610,
+    "segs": [ {
+      "utf8": "and it hasn't affected the operation"
+    } ]
+  }, {
+    "tStartMs": 454860,
+    "dDurationMs": 2163,
+    "segs": [ {
+      "utf8": "of Sudbury government in any manner."
+    } ]
+  }, {
+    "tStartMs": 461156,
+    "dDurationMs": 2667,
+    "segs": [ {
+      "utf8": "(water lapping)"
+    } ]
+  } ]
+}

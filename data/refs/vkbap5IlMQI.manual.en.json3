@@ -1,0 +1,445 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 3230,
+    "dDurationMs": 1900,
+    "segs": [ {
+      "utf8": "- [Narrator] The\nGrand Canyon is a unique"
+    } ]
+  }, {
+    "tStartMs": 5130,
+    "dDurationMs": 2150,
+    "segs": [ {
+      "utf8": "and spectacular land form."
+    } ]
+  }, {
+    "tStartMs": 7280,
+    "dDurationMs": 3290,
+    "segs": [ {
+      "utf8": "There is nothing quite like\nit anywhere else on Earth."
+    } ]
+  }, {
+    "tStartMs": 10570,
+    "dDurationMs": 3390,
+    "segs": [ {
+      "utf8": "But if we cast our gaze\nto distant horizons,"
+    } ]
+  }, {
+    "tStartMs": 13960,
+    "dDurationMs": 4060,
+    "segs": [ {
+      "utf8": "we can find another\nsimilarly amazing location."
+    } ]
+  }, {
+    "tStartMs": 18020,
+    "dDurationMs": 5000,
+    "segs": [ {
+      "utf8": "The planet Mars has its own\nGrand Canyon, Valles Marineris."
+    } ]
+  }, {
+    "tStartMs": 23130,
+    "dDurationMs": 4310,
+    "segs": [ {
+      "utf8": "And it is interesting to\ncompare Mars' canyon with ours."
+    } ]
+  }, {
+    "tStartMs": 27440,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "The full sweep of the grandeur\nof Earth's Grand Canyon"
+    } ]
+  }, {
+    "tStartMs": 31230,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "can be seen very well by\nlooking down from space."
+    } ]
+  }, {
+    "tStartMs": 34930,
+    "dDurationMs": 2690,
+    "segs": [ {
+      "utf8": "Here we see the Canyon's\nwinding paths stretching"
+    } ]
+  }, {
+    "tStartMs": 37620,
+    "dDurationMs": 4530,
+    "segs": [ {
+      "utf8": "from Lake Powell in the east\nto Lake Meade in the west."
+    } ]
+  }, {
+    "tStartMs": 42150,
+    "dDurationMs": 3920,
+    "segs": [ {
+      "utf8": "Similarly in this view\nfrom NASA's Viking Orbiter,"
+    } ]
+  }, {
+    "tStartMs": 46070,
+    "dDurationMs": 4030,
+    "segs": [ {
+      "utf8": "we can see Valles Marineris\nreaching across vast stretches"
+    } ]
+  }, {
+    "tStartMs": 50100,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "of the Martian terrain."
+    } ]
+  }, {
+    "tStartMs": 52190,
+    "dDurationMs": 3130,
+    "segs": [ {
+      "utf8": "Earth's Grand Canyon is\nactually a large network"
+    } ]
+  }, {
+    "tStartMs": 55320,
+    "dDurationMs": 1983,
+    "segs": [ {
+      "utf8": "of interconnecting canyons."
+    } ]
+  }, {
+    "tStartMs": 60020,
+    "dDurationMs": 3583,
+    "segs": [ {
+      "utf8": "The same can be said for\nValles Marineris on Mars."
+    } ]
+  }, {
+    "tStartMs": 65270,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "The deep cut and steep\nwalls of the Grand Canyon"
+    } ]
+  }, {
+    "tStartMs": 69180,
+    "dDurationMs": 3490,
+    "segs": [ {
+      "utf8": "expose many layers of geological deposits"
+    } ]
+  }, {
+    "tStartMs": 72670,
+    "dDurationMs": 1953,
+    "segs": [ {
+      "utf8": "reaching way back into time."
+    } ]
+  }, {
+    "tStartMs": 75699,
+    "dDurationMs": 3621,
+    "segs": [ {
+      "utf8": "Similarly, Valles Marineris\ndisplays numerous layers"
+    } ]
+  }, {
+    "tStartMs": 79320,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "including lake floor\nsedimentary deposits laid down"
+    } ]
+  }, {
+    "tStartMs": 83110,
+    "dDurationMs": 2383,
+    "segs": [ {
+      "utf8": "in Mars' distant watery past."
+    } ]
+  }, {
+    "tStartMs": 87640,
+    "dDurationMs": 2540,
+    "segs": [ {
+      "utf8": "The deep cut made by the Colorado River"
+    } ]
+  }, {
+    "tStartMs": 90180,
+    "dDurationMs": 3910,
+    "segs": [ {
+      "utf8": "has been significantly\nwidened by numerous landslides"
+    } ]
+  }, {
+    "tStartMs": 94090,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "along the Grand Canyon's steep walls."
+    } ]
+  }, {
+    "tStartMs": 97310,
+    "dDurationMs": 3110,
+    "segs": [ {
+      "utf8": "Surprise Valley is\nnearly filled with debris"
+    } ]
+  }, {
+    "tStartMs": 100420,
+    "dDurationMs": 3990,
+    "segs": [ {
+      "utf8": "from the largest landslide\ndeposit in the Grand Canyon"
+    } ]
+  }, {
+    "tStartMs": 104410,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "containing over a cubic\nmile of displaced material."
+    } ]
+  }, {
+    "tStartMs": 108910,
+    "dDurationMs": 3210,
+    "segs": [ {
+      "utf8": "Nearby, Deer Creek is cutting a new gorge"
+    } ]
+  }, {
+    "tStartMs": 112120,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "as it bypasses landslide blockage."
+    } ]
+  }, {
+    "tStartMs": 115820,
+    "dDurationMs": 4270,
+    "segs": [ {
+      "utf8": "Zooming down toward Eus\nLabos in Valles Marineris"
+    } ]
+  }, {
+    "tStartMs": 120090,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "we see a titanic landslide\ndeposit measuring"
+    } ]
+  }, {
+    "tStartMs": 123500,
+    "dDurationMs": 4020,
+    "segs": [ {
+      "utf8": "over 30 miles across and\nstretching 25 miles out"
+    } ]
+  }, {
+    "tStartMs": 127520,
+    "dDurationMs": 1660,
+    "segs": [ {
+      "utf8": "across the floor of the valley."
+    } ]
+  }, {
+    "tStartMs": 129180,
+    "dDurationMs": 4010,
+    "segs": [ {
+      "utf8": "In places along the northwestern\nedge of the Grand Canyon"
+    } ]
+  }, {
+    "tStartMs": 133190,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "we find volcanic cinder cones\nfrom which flows of lava"
+    } ]
+  }, {
+    "tStartMs": 136690,
+    "dDurationMs": 3410,
+    "segs": [ {
+      "utf8": "cascaded over the canyon\nwalls into the gorge"
+    } ]
+  }, {
+    "tStartMs": 140100,
+    "dDurationMs": 1980,
+    "segs": [ {
+      "utf8": "of the Colorado River."
+    } ]
+  }, {
+    "tStartMs": 142080,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "These flows built temporary\ndams that created lakes"
+    } ]
+  }, {
+    "tStartMs": 145840,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "that partially filled\nthe canyon in its past."
+    } ]
+  }, {
+    "tStartMs": 149900,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "To the northwest of Valles\nMarineris we also find volcanoes,"
+    } ]
+  }, {
+    "tStartMs": 154400,
+    "dDurationMs": 4610,
+    "segs": [ {
+      "utf8": "the giant Tharsis Shield\nVolcanoes which played key roles"
+    } ]
+  }, {
+    "tStartMs": 159010,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "in the formation of the canyon."
+    } ]
+  }, {
+    "tStartMs": 161490,
+    "dDurationMs": 2940,
+    "segs": [ {
+      "utf8": "These mountains include Olympus Mons,"
+    } ]
+  }, {
+    "tStartMs": 164430,
+    "dDurationMs": 2730,
+    "segs": [ {
+      "utf8": "the greatest volcano in the solar system"
+    } ]
+  }, {
+    "tStartMs": 167160,
+    "dDurationMs": 3030,
+    "segs": [ {
+      "utf8": "standing three times\nthe height of Mt.Everest"
+    } ]
+  }, {
+    "tStartMs": 170190,
+    "dDurationMs": 3543,
+    "segs": [ {
+      "utf8": "and with a base 370 miles across."
+    } ]
+  }, {
+    "tStartMs": 175080,
+    "dDurationMs": 2090,
+    "segs": [ {
+      "utf8": "Flowing water played a critical role"
+    } ]
+  }, {
+    "tStartMs": 177170,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "in the Grand Canyon's formation\nwith the Colorado River"
+    } ]
+  }, {
+    "tStartMs": 180450,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "cutting the canyon's deep gorge."
+    } ]
+  }, {
+    "tStartMs": 183450,
+    "dDurationMs": 4450,
+    "segs": [ {
+      "utf8": "Flowing water also played\na role in Valles Marineris."
+    } ]
+  }, {
+    "tStartMs": 187900,
+    "dDurationMs": 4150,
+    "segs": [ {
+      "utf8": "This color coded height map\nshows where channels of water"
+    } ]
+  }, {
+    "tStartMs": 192050,
+    "dDurationMs": 3223,
+    "segs": [ {
+      "utf8": "flowed out of the canyon into a great bay."
+    } ]
+  }, {
+    "tStartMs": 196980,
+    "dDurationMs": 2100,
+    "segs": [ {
+      "utf8": "While they have many similarities,"
+    } ]
+  }, {
+    "tStartMs": 199080,
+    "dDurationMs": 3890,
+    "segs": [ {
+      "utf8": "the two canyons also have\nsignificant differences."
+    } ]
+  }, {
+    "tStartMs": 202970,
+    "dDurationMs": 3500,
+    "segs": [ {
+      "utf8": "The Grand Canyon was\nformed primarily by erosion"
+    } ]
+  }, {
+    "tStartMs": 206470,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "through the cutting power\nof the Colorado River."
+    } ]
+  }, {
+    "tStartMs": 209940,
+    "dDurationMs": 3630,
+    "segs": [ {
+      "utf8": "While water altered the\nlandscape of Valles Marineris,"
+    } ]
+  }, {
+    "tStartMs": 213570,
+    "dDurationMs": 4230,
+    "segs": [ {
+      "utf8": "this feature is far too big\nto have been cut by water."
+    } ]
+  }, {
+    "tStartMs": 217800,
+    "dDurationMs": 4220,
+    "segs": [ {
+      "utf8": "It is a great tectonic\nfracture of the planet's crust."
+    } ]
+  }, {
+    "tStartMs": 222020,
+    "dDurationMs": 3770,
+    "segs": [ {
+      "utf8": "Size is another key difference\nbetween the two canyons."
+    } ]
+  }, {
+    "tStartMs": 225790,
+    "dDurationMs": 3090,
+    "segs": [ {
+      "utf8": "Valles Marineris is far larger."
+    } ]
+  }, {
+    "tStartMs": 228880,
+    "dDurationMs": 1840,
+    "segs": [ {
+      "utf8": "If it were on Earth, it could stretch"
+    } ]
+  }, {
+    "tStartMs": 230720,
+    "dDurationMs": 3540,
+    "segs": [ {
+      "utf8": "from the U.S.'s East Coast to West Coast"
+    } ]
+  }, {
+    "tStartMs": 234260,
+    "dDurationMs": 3790,
+    "segs": [ {
+      "utf8": "with many of its smaller\nsub-canyons still dwarfing"
+    } ]
+  }, {
+    "tStartMs": 238050,
+    "dDurationMs": 1483,
+    "segs": [ {
+      "utf8": "our Grand Canyon."
+    } ]
+  }, {
+    "tStartMs": 243640,
+    "dDurationMs": 2990,
+    "segs": [ {
+      "utf8": "Another difference is\nthat Earth's Grand Canyon"
+    } ]
+  }, {
+    "tStartMs": 246630,
+    "dDurationMs": 3533,
+    "segs": [ {
+      "utf8": "now hosts over six\nmillion visitors per year."
+    } ]
+  }, {
+    "tStartMs": 251010,
+    "dDurationMs": 2600,
+    "segs": [ {
+      "utf8": "Valles Marineris is\nstill waiting to receive"
+    } ]
+  }, {
+    "tStartMs": 253610,
+    "dDurationMs": 1860,
+    "segs": [ {
+      "utf8": "its first tourists."
+    } ]
+  }, {
+    "tStartMs": 255470,
+    "dDurationMs": 1633,
+    "segs": [ {
+      "utf8": "Perhaps you will be one of them."
+    } ]
+  } ]
+}

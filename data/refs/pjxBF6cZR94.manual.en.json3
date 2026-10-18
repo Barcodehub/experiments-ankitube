@@ -1,0 +1,331 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "Dr. Paul Trotter: I worked at"
+    } ]
+  }, {
+    "tStartMs": 1167,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "the New Orleans Weather Forecast Office"
+    } ]
+  }, {
+    "tStartMs": 3636,
+    "dDurationMs": 3971,
+    "segs": [ {
+      "utf8": "for I think it was 14 years."
+    } ]
+  }, {
+    "tStartMs": 7607,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "During my work during Katrina"
+    } ]
+  }, {
+    "tStartMs": 9843,
+    "dDurationMs": 3336,
+    "segs": [ {
+      "utf8": "I had to bridge the gap between NOAA,"
+    } ]
+  }, {
+    "tStartMs": 13179,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "local governments and the community."
+    } ]
+  }, {
+    "tStartMs": 16082,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "We had tremendous partnerships initiatives"
+    } ]
+  }, {
+    "tStartMs": 18651,
+    "dDurationMs": 3771,
+    "segs": [ {
+      "utf8": "championed by NOAA National Weather Service."
+    } ]
+  }, {
+    "tStartMs": 22422,
+    "dDurationMs": 5205,
+    "segs": [ {
+      "utf8": "As I reflect back in the Hurricane Katrina 15 years later,"
+    } ]
+  }, {
+    "tStartMs": 27627,
+    "dDurationMs": 5272,
+    "segs": [ {
+      "utf8": "our forecasts have gotten much better resulting in significant trust."
+    } ]
+  }, {
+    "tStartMs": 32899,
+    "dDurationMs": 4338,
+    "segs": [ {
+      "utf8": "The various models, computer aids, and forecast accuracy"
+    } ]
+  }, {
+    "tStartMs": 37237,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "have made significant impacts"
+    } ]
+  }, {
+    "tStartMs": 38938,
+    "dDurationMs": 4205,
+    "segs": [ {
+      "utf8": "even with the location of the event"
+    } ]
+  }, {
+    "tStartMs": 43143,
+    "dDurationMs": 5071,
+    "segs": [ {
+      "utf8": "and the intensity of the forecast advisory warnings."
+    } ]
+  }, {
+    "tStartMs": 48214,
+    "dDurationMs": 4805,
+    "segs": [ {
+      "utf8": "The major problem I can see right now is still resources."
+    } ]
+  }, {
+    "tStartMs": 53019,
+    "dDurationMs": 3804,
+    "segs": [ {
+      "utf8": "Challenged communities and people are still at risk."
+    } ]
+  }, {
+    "tStartMs": 56823,
+    "dDurationMs": 4404,
+    "segs": [ {
+      "utf8": "NOAA/National Weather Service has to find ways to reach out"
+    } ]
+  }, {
+    "tStartMs": 61227,
+    "dDurationMs": 5005,
+    "segs": [ {
+      "utf8": "to these challenged persons and communities."
+    } ]
+  }, {
+    "tStartMs": 66232,
+    "dDurationMs": 5673,
+    "segs": [ {
+      "utf8": "They all need help to ensure their needs are met."
+    } ]
+  }, {
+    "tStartMs": 71905,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "My greatest contribution in the weather service"
+    } ]
+  }, {
+    "tStartMs": 74741,
+    "dDurationMs": 6006,
+    "segs": [ {
+      "utf8": "I guess is the way that I really focused in on people;"
+    } ]
+  }, {
+    "tStartMs": 80747,
+    "dDurationMs": 4438,
+    "segs": [ {
+      "utf8": "making sure that relationships really matter. "
+    } ]
+  }, {
+    "tStartMs": 85185,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "The importance of NOAA of having"
+    } ]
+  }, {
+    "tStartMs": 86986,
+    "dDurationMs": 4472,
+    "segs": [ {
+      "utf8": "a diverse workforce is that people matter,"
+    } ]
+  }, {
+    "tStartMs": 91458,
+    "dDurationMs": 4604,
+    "segs": [ {
+      "utf8": "and we work from the ground, to the upper atmosphere,"
+    } ]
+  }, {
+    "tStartMs": 96062,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "to the ocean, to the rivers."
+    } ]
+  }, {
+    "tStartMs": 98131,
+    "dDurationMs": 5038,
+    "segs": [ {
+      "utf8": "You name it, we cover all aspects on this earth and also in space."
+    } ]
+  }, {
+    "tStartMs": 103169,
+    "dDurationMs": 4438,
+    "segs": [ {
+      "utf8": "So, all these things are utilized by all of us every day."
+    } ]
+  }, {
+    "tStartMs": 107607,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "Whether it’s the fish you eat, the rivers that flow. "
+    } ]
+  }, {
+    "tStartMs": 110376,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "The weather that happens impacts all of us."
+    } ]
+  }, {
+    "tStartMs": 113012,
+    "dDurationMs": 2670,
+    "segs": [ {
+      "utf8": "The farmers who grow the crops."
+    } ]
+  }, {
+    "tStartMs": 115682,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "Everybody needs it."
+    } ]
+  }, {
+    "tStartMs": 116916,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "Weather doesn’t have any color."
+    } ]
+  }, {
+    "tStartMs": 118618,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "It impacts everybody."
+    } ]
+  }, {
+    "tStartMs": 121087,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "The last 50 years of NOAA"
+    } ]
+  }, {
+    "tStartMs": 122755,
+    "dDurationMs": 4572,
+    "segs": [ {
+      "utf8": "all the quantum leaps in science and technology"
+    } ]
+  }, {
+    "tStartMs": 127327,
+    "dDurationMs": 3436,
+    "segs": [ {
+      "utf8": "and also all the modernization that’s taken place,"
+    } ]
+  }, {
+    "tStartMs": 130763,
+    "dDurationMs": 4872,
+    "segs": [ {
+      "utf8": "they’ve utilized the commonality of research that’s done"
+    } ]
+  }, {
+    "tStartMs": 135635,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "through other agencies like NASA. "
+    } ]
+  }, {
+    "tStartMs": 138104,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "Also, some of the things with the doppler radar"
+    } ]
+  }, {
+    "tStartMs": 141074,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "and with some of the research they’ve done with oceans"
+    } ]
+  }, {
+    "tStartMs": 143676,
+    "dDurationMs": 4071,
+    "segs": [ {
+      "utf8": "and also some of the things that are being done with energy."
+    } ]
+  }, {
+    "tStartMs": 147747,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "What I would like to see 50 years from now within NOAA"
+    } ]
+  }, {
+    "tStartMs": 151918,
+    "dDurationMs": 3237,
+    "segs": [ {
+      "utf8": "is everybody having a equal chance,"
+    } ]
+  }, {
+    "tStartMs": 155155,
+    "dDurationMs": 1701,
+    "segs": [ {
+      "utf8": "equal opportunity,"
+    } ]
+  }, {
+    "tStartMs": 156856,
+    "dDurationMs": 3704,
+    "segs": [ {
+      "utf8": "a NOAA environment that looks like all of us."
+    } ]
+  }, {
+    "tStartMs": 160560,
+    "dDurationMs": 2402,
+    "segs": [ {
+      "utf8": "I would like my legacy to be that"
+    } ]
+  }, {
+    "tStartMs": 162962,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "I cared for everybody who I worked with,"
+    } ]
+  }, {
+    "tStartMs": 165431,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "everybody who I worked for,"
+    } ]
+  }, {
+    "tStartMs": 167333,
+    "dDurationMs": 3604,
+    "segs": [ {
+      "utf8": "and that we had innovation together."
+    } ]
+  }, {
+    "tStartMs": 170937,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "We were a team and we met our mission"
+    } ]
+  }, {
+    "tStartMs": 173907,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "of saving life and property"
+    } ]
+  }, {
+    "tStartMs": 175942,
+    "dDurationMs": 3203,
+    "segs": [ {
+      "utf8": "and boosting the nation’s economy."
+    } ]
+  } ]
+}

@@ -1,0 +1,2612 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 201760,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Smoke"
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " not",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " monolithic",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " thing.",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " Smoke",
+      "tOffsetMs": 2240
+    } ]
+  }, {
+    "tStartMs": 2590,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 2600,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is"
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " mixture",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " gases,",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " liquids,",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 5030,
+    "dDurationMs": 1810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 5040,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "primarily"
+    }, {
+      "utf8": " particles,",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " which",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " also",
+      "tOffsetMs": 1520
+    } ]
+  }, {
+    "tStartMs": 6830,
+    "dDurationMs": 1770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 6840,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "known"
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " aerosols.",
+      "tOffsetMs": 360
+    } ]
+  }, {
+    "tStartMs": 8590,
+    "dDurationMs": 2370,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 8600,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "PACE"
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " gathering",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " data",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " these",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " aerosols",
+      "tOffsetMs": 1520
+    } ]
+  }, {
+    "tStartMs": 10950,
+    "dDurationMs": 1730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 10960,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so"
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " get",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " better",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " picture",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1520
+    } ]
+  }, {
+    "tStartMs": 12670,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 12680,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how"
+    }, {
+      "utf8": " smoke",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " interacts",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " atmosphere",
+      "tOffsetMs": 1840
+    } ]
+  }, {
+    "tStartMs": 15310,
+    "dDurationMs": 2730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 15320,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " all",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " kinds",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " far-reaching",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " effects.",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 18030,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 18040,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What"
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " fire",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " emits",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 955
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " highly",
+      "tOffsetMs": 1800
+    } ]
+  }, {
+    "tStartMs": 20190,
+    "dDurationMs": 2090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 20200,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "variable,"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " it",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " depend",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " number",
+      "tOffsetMs": 1800
+    } ]
+  }, {
+    "tStartMs": 22270,
+    "dDurationMs": 3810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 22280,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of"
+    }, {
+      "utf8": " factors,",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " such",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " fuel,",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " moisture,",
+      "tOffsetMs": 2400
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 3520
+    } ]
+  }, {
+    "tStartMs": 26070,
+    "dDurationMs": 2730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 26080,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " efficiency",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " combustion.",
+      "tOffsetMs": 840
+    } ]
+  }, {
+    "tStartMs": 28790,
+    "dDurationMs": 1650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 28800,
+    "dDurationMs": 3160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "An"
+    }, {
+      "utf8": " efficiently",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " burning",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " fire",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 1400
+    } ]
+  }, {
+    "tStartMs": 30430,
+    "dDurationMs": 1530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 30440,
+    "dDurationMs": 3320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dark-colored"
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 345
+    }, {
+      "utf8": " smoke,",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " releasing",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1480
+    } ]
+  }, {
+    "tStartMs": 31950,
+    "dDurationMs": 1810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 31960,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " carbon",
+      "tOffsetMs": 319
+    }, {
+      "utf8": " monoxide",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " carbon",
+      "tOffsetMs": 1520
+    } ]
+  }, {
+    "tStartMs": 33750,
+    "dDurationMs": 2730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 33760,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dioxide."
+    } ]
+  }, {
+    "tStartMs": 36470,
+    "dDurationMs": 2930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 36480,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A"
+    }, {
+      "utf8": " less",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " efficient",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " burning",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " fire",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 39390,
+    "dDurationMs": 1490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 39400,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different"
+    }, {
+      "utf8": " colored",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " smoke,",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " lighter",
+      "tOffsetMs": 1160
+    } ]
+  }, {
+    "tStartMs": 40870,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 40880,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "colored"
+    }, {
+      "utf8": " smoke,",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " addition",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 2080
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 43110,
+    "dDurationMs": 2690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 43120,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "carbon"
+    }, {
+      "utf8": " monoxide",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " carbon",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " dioxide,",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " also",
+      "tOffsetMs": 2400
+    } ]
+  }, {
+    "tStartMs": 45790,
+    "dDurationMs": 1570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 45800,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "releases"
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " number",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " other",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " chemical",
+      "tOffsetMs": 1120
+    } ]
+  }, {
+    "tStartMs": 47350,
+    "dDurationMs": 2130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 47360,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compounds"
+    }, {
+      "utf8": " into",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " atmosphere.",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 1110
+    } ]
+  }, {
+    "tStartMs": 49470,
+    "dDurationMs": 2530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 49480,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Soot,"
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " black",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " carbon,",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1840
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 2000
+    }, {
+      "utf8": " result",
+      "tOffsetMs": 2080
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2440
+    } ]
+  }, {
+    "tStartMs": 51990,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 52000,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "efficient"
+    }, {
+      "utf8": " burning,",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " soot",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " consists",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2120
+    } ]
+  }, {
+    "tStartMs": 54470,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 54480,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chains"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " elemental",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " carbon,",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " sort",
+      "tOffsetMs": 2280
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2440
+    }, {
+      "utf8": " like",
+      "tOffsetMs": 2520
+    } ]
+  }, {
+    "tStartMs": 57110,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 57120,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "graphite."
+    }, {
+      "utf8": " Because",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " they're",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " dark,",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " soot",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 59070,
+    "dDurationMs": 2930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 59080,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "particles"
+    }, {
+      "utf8": " absorb",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " energy",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " sun",
+      "tOffsetMs": 2040
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2720
+    } ]
+  }, {
+    "tStartMs": 61990,
+    "dDurationMs": 1330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 62000,
+    "dDurationMs": 3040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "warm"
+    }, {
+      "utf8": " up",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " air",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " surrounding",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1280
+    } ]
+  }, {
+    "tStartMs": 63310,
+    "dDurationMs": 1730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 63320,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "particle."
+    } ]
+  }, {
+    "tStartMs": 65030,
+    "dDurationMs": 2130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 65040,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Emitted"
+    }, {
+      "utf8": " alongside",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " black",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " carbon",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 67150,
+    "dDurationMs": 2370,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 67160,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volatile"
+    }, {
+      "utf8": " organic",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " compounds.",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 1615
+    } ]
+  }, {
+    "tStartMs": 69510,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 69520,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "These"
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " gases,",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " which",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " condense",
+      "tOffsetMs": 1480
+    } ]
+  }, {
+    "tStartMs": 71670,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 71680,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "downwind"
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " fire",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " onto",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " soot.",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 74310,
+    "dDurationMs": 1810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 74320,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "These"
+    }, {
+      "utf8": " created",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " particles",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " called",
+      "tOffsetMs": 1240
+    } ]
+  }, {
+    "tStartMs": 76110,
+    "dDurationMs": 2570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 76120,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "secondary"
+    }, {
+      "utf8": " organic",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " aerosols,",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " which",
+      "tOffsetMs": 2160
+    }, {
+      "utf8": " means",
+      "tOffsetMs": 2360
+    } ]
+  }, {
+    "tStartMs": 78670,
+    "dDurationMs": 2530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 78680,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that"
+    }, {
+      "utf8": " they",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " not",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " emitted",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " at",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " source.",
+      "tOffsetMs": 1560
+    } ]
+  }, {
+    "tStartMs": 81190,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 81200,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Secondary"
+    }, {
+      "utf8": " organic",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " aerosols",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " also",
+      "tOffsetMs": 1800
+    }, {
+      "utf8": " form",
+      "tOffsetMs": 2080
+    } ]
+  }, {
+    "tStartMs": 83630,
+    "dDurationMs": 1410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 83640,
+    "dDurationMs": 2480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when"
+    }, {
+      "utf8": " smoke",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " interacts",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1280
+    } ]
+  }, {
+    "tStartMs": 85030,
+    "dDurationMs": 1090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 85040,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "atmosphere."
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 110
+    } ]
+  }, {
+    "tStartMs": 86110,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 86120,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So,"
+    }, {
+      "utf8": " one",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " way",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " which",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " secondary",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " organic",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 88590,
+    "dDurationMs": 2130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 88600,
+    "dDurationMs": 3755,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aerosols"
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " formed",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " through",
+      "tOffsetMs": 1800
+    } ]
+  }, {
+    "tStartMs": 90710,
+    "dDurationMs": 1645,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 90720,
+    "dDurationMs": 1840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "photochemical"
+    }, {
+      "utf8": " reactions.",
+      "tOffsetMs": 720
+    } ]
+  }, {
+    "tStartMs": 92345,
+    "dDurationMs": 215,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 92355,
+    "dDurationMs": 2685,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [music]",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 92550,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 92560,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e That",
+      "isSpeakerChange": 1
+    }, {
+      "utf8": " means",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " sunlight",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " interacts",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " gases",
+      "tOffsetMs": 1920
+    } ]
+  }, {
+    "tStartMs": 95030,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 95040,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emitted"
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " smoke,",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " those",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " gases",
+      "tOffsetMs": 1520
+    } ]
+  }, {
+    "tStartMs": 96990,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 97000,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "condense"
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " form",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " either",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " particles",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 2520
+    } ]
+  }, {
+    "tStartMs": 99630,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 99640,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their"
+    }, {
+      "utf8": " own",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " right,",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 1231
+    }, {
+      "utf8": " form",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " onto",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 102070,
+    "dDurationMs": 2610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 102080,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "existing"
+    }, {
+      "utf8": " particles,",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " such",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2000
+    }, {
+      "utf8": " soot,",
+      "tOffsetMs": 2080
+    } ]
+  }, {
+    "tStartMs": 104670,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 104680,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "which"
+    }, {
+      "utf8": " was",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " emitted",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " originally.",
+      "tOffsetMs": 640
+    } ]
+  }, {
+    "tStartMs": 106870,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 106880,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Another"
+    }, {
+      "utf8": " type",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " aerosol",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " fires",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 2320
+    } ]
+  }, {
+    "tStartMs": 109310,
+    "dDurationMs": 1850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 109320,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "called"
+    }, {
+      "utf8": " brown",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " carbon.",
+      "tOffsetMs": 640
+    } ]
+  }, {
+    "tStartMs": 111150,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 111160,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And"
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " this",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " case,",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " smoke",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " is,",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " one",
+      "tOffsetMs": 2080
+    } ]
+  }, {
+    "tStartMs": 113470,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 113480,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can"
+    }, {
+      "utf8": " expect,",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " brownish",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " color,",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " meaning",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 115870,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 115880,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's"
+    }, {
+      "utf8": " absorbing",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " more",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " light",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " towards",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 117830,
+    "dDurationMs": 1850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 117840,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blue"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " ultraviolet",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " portion",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 1371
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1680
+    } ]
+  }, {
+    "tStartMs": 119670,
+    "dDurationMs": 2610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 119680,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " electromagnetic",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " spectrum.",
+      "tOffsetMs": 1200
+    } ]
+  }, {
+    "tStartMs": 122270,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 122280,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Brown"
+    }, {
+      "utf8": " carbon",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " formed",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " when",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " vegetation",
+      "tOffsetMs": 1360
+    } ]
+  }, {
+    "tStartMs": 124230,
+    "dDurationMs": 3770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 124240,
+    "dDurationMs": 5460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "burns"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " incorporated",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " into",
+      "tOffsetMs": 2320
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2680
+    }, {
+      "utf8": " smoke",
+      "tOffsetMs": 2800
+    } ]
+  }, {
+    "tStartMs": 127990,
+    "dDurationMs": 1710,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 128000,
+    "dDurationMs": 2560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are"
+    }, {
+      "utf8": " what",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " called",
+      "tOffsetMs": 1039
+    }, {
+      "utf8": " humic",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " substances",
+      "tOffsetMs": 1679
+    } ]
+  }, {
+    "tStartMs": 129690,
+    "dDurationMs": 870,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 129700,
+    "dDurationMs": 3620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[music]"
+    } ]
+  }, {
+    "tStartMs": 130550,
+    "dDurationMs": 2770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 130560,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " these",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " remnants",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " vegetation",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 133310,
+    "dDurationMs": 1930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 133320,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "material."
+    }, {
+      "utf8": " Imagine",
+      "tOffsetMs": 639
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " pigments",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1840
+    } ]
+  }, {
+    "tStartMs": 135230,
+    "dDurationMs": 3850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 135240,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in"
+    }, {
+      "utf8": " leaves",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " they",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " decompose.",
+      "tOffsetMs": 1000
+    } ]
+  }, {
+    "tStartMs": 139510,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 139520,
+    "dDurationMs": 2520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "All"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " these",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " different",
+      "tOffsetMs": 439
+    }, {
+      "utf8": " smoke",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " components",
+      "tOffsetMs": 1080
+    } ]
+  }, {
+    "tStartMs": 141230,
+    "dDurationMs": 810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 141240,
+    "dDurationMs": 2719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have"
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 241
+    } ]
+  }, {
+    "tStartMs": 142030,
+    "dDurationMs": 1929,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 142040,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different"
+    }, {
+      "utf8": " optical",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " properties",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " these",
+      "tOffsetMs": 1760
+    } ]
+  }, {
+    "tStartMs": 143949,
+    "dDurationMs": 2291,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 143959,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "optical"
+    }, {
+      "utf8": " properties",
+      "tOffsetMs": 361
+    }, {
+      "utf8": " describe",
+      "tOffsetMs": 841
+    }, {
+      "utf8": " how",
+      "tOffsetMs": 1441
+    }, {
+      "utf8": " those",
+      "tOffsetMs": 2041
+    } ]
+  }, {
+    "tStartMs": 146230,
+    "dDurationMs": 3690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 146240,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "particles"
+    }, {
+      "utf8": " interact",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " light.",
+      "tOffsetMs": 1160
+    } ]
+  }, {
+    "tStartMs": 151390,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 151400,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "The"
+    }, {
+      "utf8": " instruments",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 559
+    }, {
+      "utf8": " PACE",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " measure",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " some",
+      "tOffsetMs": 1559
+    } ]
+  }, {
+    "tStartMs": 153110,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 153120,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of"
+    }, {
+      "utf8": " those",
+      "tOffsetMs": 40
+    }, {
+      "utf8": " properties",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " including",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " at",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 155270,
+    "dDurationMs": 1890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 155280,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different"
+    }, {
+      "utf8": " wavelengths",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " light",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " at",
+      "tOffsetMs": 1760
+    } ]
+  }, {
+    "tStartMs": 157150,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 157160,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different"
+    }, {
+      "utf8": " geometries",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 1351
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " angles",
+      "tOffsetMs": 1560
+    } ]
+  }, {
+    "tStartMs": 159550,
+    "dDurationMs": 1930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 159560,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " data",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " figure",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " out",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1760
+    } ]
+  }, {
+    "tStartMs": 161470,
+    "dDurationMs": 2610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 161480,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quantity,"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " color,",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " composition,",
+      "tOffsetMs": 1640
+    } ]
+  }, {
+    "tStartMs": 164070,
+    "dDurationMs": 3370,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 164080,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " shape,",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " size",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2320
+    }, {
+      "utf8": " aerosols",
+      "tOffsetMs": 2720
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 3280
+    } ]
+  }, {
+    "tStartMs": 167430,
+    "dDurationMs": 1690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 167440,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " atmosphere",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " including",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 896
+    }, {
+      "utf8": " smoke",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 169110,
+    "dDurationMs": 2770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 169120,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aerosols."
+    }, {
+      "utf8": " We",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " use",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " all",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 2000
+    }, {
+      "utf8": " information",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 171870,
+    "dDurationMs": 1450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 171880,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "together"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " use",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1360
+    } ]
+  }, {
+    "tStartMs": 173310,
+    "dDurationMs": 2970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 173320,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "differentiate"
+    }, {
+      "utf8": " between",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " smoke",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2280
+    }, {
+      "utf8": " other",
+      "tOffsetMs": 2800
+    } ]
+  }, {
+    "tStartMs": 176270,
+    "dDurationMs": 1490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 176280,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "types"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " particles",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " atmosphere",
+      "tOffsetMs": 1000
+    } ]
+  }, {
+    "tStartMs": 177750,
+    "dDurationMs": 2730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 177760,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "such"
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " dust",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 1199
+    }, {
+      "utf8": " different",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " types",
+      "tOffsetMs": 2040
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2280
+    }, {
+      "utf8": " smoke",
+      "tOffsetMs": 2400
+    } ]
+  }, {
+    "tStartMs": 180470,
+    "dDurationMs": 2610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 180480,
+    "dDurationMs": 4887,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from"
+    }, {
+      "utf8": " each",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " other.",
+      "tOffsetMs": 360
+    } ]
+  }, {
+    "tStartMs": 183070,
+    "dDurationMs": 2297,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 183080,
+    "dDurationMs": 2320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "The"
+    }, {
+      "utf8": " data",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " PACE",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " will",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " help",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " inform",
+      "tOffsetMs": 1360
+    } ]
+  }, {
+    "tStartMs": 185357,
+    "dDurationMs": 43,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 185367,
+    "dDurationMs": 2233,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [music]",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 185390,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 185400,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e wildfire",
+      "isSpeakerChange": 1
+    }, {
+      "utf8": " models",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " but",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " also",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " give",
+      "tOffsetMs": 1839
+    }, {
+      "utf8": " us",
+      "tOffsetMs": 2000
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 187590,
+    "dDurationMs": 2970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 187600,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "general"
+    }, {
+      "utf8": " better",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " sense",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " how",
+      "tOffsetMs": 2120
+    }, {
+      "utf8": " aerosols",
+      "tOffsetMs": 2359
+    } ]
+  }, {
+    "tStartMs": 190550,
+    "dDurationMs": 1610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 190560,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from"
+    }, {
+      "utf8": " smoke",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " impact",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " things",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " like",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " air",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 192150,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 192160,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quality,"
+    }, {
+      "utf8": " human",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " health,",
+      "tOffsetMs": 1160
+    } ]
+  }, {
+    "tStartMs": 194350,
+    "dDurationMs": 2530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 194360,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "weather,"
+    }, {
+      "utf8": " cloud",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " formation,",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2000
+    }, {
+      "utf8": " other",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 196870,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 196880,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aspects"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 639
+    }, {
+      "utf8": " how",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 1587
+    }, {
+      "utf8": " our",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " planet",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " Earth",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 199270,
+    "dDurationMs": 2490,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 199280,
+    "dDurationMs": 2480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "works."
+    } ]
+  } ]
+}

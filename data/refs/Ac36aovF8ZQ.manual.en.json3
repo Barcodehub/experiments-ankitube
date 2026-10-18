@@ -1,0 +1,391 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 233,
+    "dDurationMs": 3971,
+    "segs": [ {
+      "utf8": "What we're seeing here is water\ncontaminated with sulfuric acid"
+    } ]
+  }, {
+    "tStartMs": 4204,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "and toxic metals."
+    } ]
+  }, {
+    "tStartMs": 5672,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "Better known as acid mine drainage."
+    } ]
+  }, {
+    "tStartMs": 8942,
+    "dDurationMs": 3804,
+    "segs": [ {
+      "utf8": "And there are thousands of abandoned mines\nscattered across the American West,"
+    } ]
+  }, {
+    "tStartMs": 12779,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "each with the potential\nto release contaminated water into vital"
+    } ]
+  }, {
+    "tStartMs": 16082,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "rivers, lakes and water supplies."
+    } ]
+  }, {
+    "tStartMs": 19152,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "Now, NASA instruments are providing\na crucial solution."
+    } ]
+  }, {
+    "tStartMs": 23123,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "By mapping surface minerals from space,\nthey can identify"
+    } ]
+  }, {
+    "tStartMs": 26626,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "the exact regions in need of remediation."
+    } ]
+  }, {
+    "tStartMs": 30063,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "But first, a bit of a science lesson."
+    } ]
+  }, {
+    "tStartMs": 32732,
+    "dDurationMs": 3804,
+    "segs": [ {
+      "utf8": "The process of acid mine drainage is\nwhen rocks that have been underground"
+    } ]
+  }, {
+    "tStartMs": 36536,
+    "dDurationMs": 4171,
+    "segs": [ {
+      "utf8": "get dug up and exposed to the surface. \nWhen they're exposed to the surface,"
+    } ]
+  }, {
+    "tStartMs": 40707,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "they are now subject to getting rained on."
+    } ]
+  }, {
+    "tStartMs": 43543,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "So they're exposed to water,\nthey're exposed to air."
+    } ]
+  }, {
+    "tStartMs": 46179,
+    "dDurationMs": 3237,
+    "segs": [ {
+      "utf8": "And in that process,\nthey actually convert that water"
+    } ]
+  }, {
+    "tStartMs": 49416,
+    "dDurationMs": 3903,
+    "segs": [ {
+      "utf8": "that is flowing over them\ninto much more acidic waters."
+    } ]
+  }, {
+    "tStartMs": 53319,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "And they also can release toxic metals."
+    } ]
+  }, {
+    "tStartMs": 56389,
+    "dDurationMs": 3771,
+    "segs": [ {
+      "utf8": "Now certain types of rocks do experience\nthis kind of weathering naturally."
+    } ]
+  }, {
+    "tStartMs": 60260,
+    "dDurationMs": 3537,
+    "segs": [ {
+      "utf8": "However, this process unfolds much slower\nsince rocks"
+    } ]
+  }, {
+    "tStartMs": 63797,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "make their way to the Earth's surface\nover incredibly long timescales."
+    } ]
+  }, {
+    "tStartMs": 68101,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "But when we extract the minerals\nneeded to power our technologies,"
+    } ]
+  }, {
+    "tStartMs": 71571,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "these rocks are pulled to the surface\nat a much faster rate."
+    } ]
+  }, {
+    "tStartMs": 75075,
+    "dDurationMs": 4104,
+    "segs": [ {
+      "utf8": "And so we really expedite\na lot of that weathering in that process."
+    } ]
+  }, {
+    "tStartMs": 79245,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "There are an estimated 50,000 mines across"
+    } ]
+  }, {
+    "tStartMs": 82248,
+    "dDurationMs": 3137,
+    "segs": [ {
+      "utf8": "the American West that have yet\nto be assessed for remediation."
+    } ]
+  }, {
+    "tStartMs": 85618,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "And, can be very expensive\nto do so on the ground."
+    } ]
+  }, {
+    "tStartMs": 88254,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "ROCKET LAUNCH SOUNDS"
+    } ]
+  }, {
+    "tStartMs": 89222,
+    "dDurationMs": 4738,
+    "segs": [ {
+      "utf8": "Launched in 2022, NASA's EMIT\ninstrument is an imaging spectrometer,"
+    } ]
+  }, {
+    "tStartMs": 93993,
+    "dDurationMs": 4071,
+    "segs": [ {
+      "utf8": "a NASA invention that is used to measure\nlight that is both in the visible"
+    } ]
+  }, {
+    "tStartMs": 98064,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "and infrared wavelengths."
+    } ]
+  }, {
+    "tStartMs": 100633,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "An imaging spectrometer is basically kind of like a really fancy camera. "
+    } ]
+  }, {
+    "tStartMs": 104304,
+    "dDurationMs": 433,
+    "segs": [ {
+      "utf8": "CLICK"
+    } ]
+  }, {
+    "tStartMs": 104771,
+    "dDurationMs": 4204,
+    "segs": [ {
+      "utf8": "So your camera has a red, green, and blue channel. And those are often"
+    } ]
+  }, {
+    "tStartMs": 108975,
+    "dDurationMs": 4037,
+    "segs": [ {
+      "utf8": "really broad channels. But light is a continuum,"
+    } ]
+  }, {
+    "tStartMs": 113012,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "And it reflects at all these different wavelenghts. "
+    } ]
+  }, {
+    "tStartMs": 114781,
+    "dDurationMs": 4071,
+    "segs": [ {
+      "utf8": "And so if you can measure them in narrower and narrower intervals, "
+    } ]
+  }, {
+    "tStartMs": 118852,
+    "dDurationMs": 4471,
+    "segs": [ {
+      "utf8": "You get more and more information about exactly how light is "
+    } ]
+  }, {
+    "tStartMs": 123323,
+    "dDurationMs": 5105,
+    "segs": [ {
+      "utf8": "interacting with the chemical surface and the properties of whatever it is that it’s reflecting off of. "
+    } ]
+  }, {
+    "tStartMs": 128495,
+    "dDurationMs": 1601,
+    "segs": [ {
+      "utf8": "By using spectroscopy,"
+    } ]
+  }, {
+    "tStartMs": 130096,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "instruments like EMIT can map large regions"
+    } ]
+  }, {
+    "tStartMs": 132732,
+    "dDurationMs": 3504,
+    "segs": [ {
+      "utf8": "to detect mineral compositions\nindicative of acid mine drainage"
+    } ]
+  }, {
+    "tStartMs": 136236,
+    "dDurationMs": 3937,
+    "segs": [ {
+      "utf8": "and its sources.\nAnd it's not just for rocks and minerals."
+    } ]
+  }, {
+    "tStartMs": 140473,
+    "dDurationMs": 3871,
+    "segs": [ {
+      "utf8": "Spectroscopy can be used to greatly\nbroaden our understanding of our world."
+    } ]
+  }, {
+    "tStartMs": 145512,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "It’s like a Swiss Army knife."
+    } ]
+  }, {
+    "tStartMs": 147347,
+    "dDurationMs": 2369,
+    "segs": [ {
+      "utf8": "There are so many things\nthat people can use it for."
+    } ]
+  }, {
+    "tStartMs": 149716,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "We are doing things\nwhere people are looking at waste"
+    } ]
+  }, {
+    "tStartMs": 151818,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "water, people are looking at surface\nplastics and agriculture."
+    } ]
+  }, {
+    "tStartMs": 154287,
+    "dDurationMs": 2936,
+    "segs": [ {
+      "utf8": "People are looking at crop types\nand thinking about yields."
+    } ]
+  }, {
+    "tStartMs": 157223,
+    "dDurationMs": 3704,
+    "segs": [ {
+      "utf8": "And as with all NASA data,\nthis information is free"
+    } ]
+  }, {
+    "tStartMs": 160927,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "and open to the public. "
+    } ]
+  }, {
+    "tStartMs": 163096,
+    "dDurationMs": 4337,
+    "segs": [ {
+      "utf8": "And so we are, we really encourage people\nto check them out and think about,"
+    } ]
+  }, {
+    "tStartMs": 167433,
+    "dDurationMs": 501,
+    "segs": [ {
+      "utf8": "you know, how"
+    } ]
+  }, {
+    "tStartMs": 167934,
+    "dDurationMs": 3704,
+    "segs": [ {
+      "utf8": "they might want to be leveraging them\nfor a variety of, of different activities."
+    } ]
+  }, {
+    "tStartMs": 408341,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "Now, certain"
+    } ]
+  }, {
+    "tStartMs": 409442,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "types of rocks do experience\nthis kind of weathering naturally."
+    } ]
+  }, {
+    "tStartMs": 413279,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "However, this process unfolds much slower"
+    } ]
+  }, {
+    "tStartMs": 416449,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "since rocks\nmake their way to the Earth's surface over"
+    } ]
+  }, {
+    "tStartMs": 419252,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "incredibly long timescales."
+    } ]
+  }, {
+    "tStartMs": 424991,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "And with that expedites"
+    } ]
+  }, {
+    "tStartMs": 426659,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "a lot of the weathering in the process."
+    } ]
+  }, {
+    "tStartMs": 529662,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "What we're seeing here is water\ncontaminated"
+    } ]
+  }, {
+    "tStartMs": 532431,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "with sulfuric acid and toxic metals."
+    } ]
+  }, {
+    "tStartMs": 534834,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "Better known as acid mine drainage."
+    } ]
+  } ]
+}

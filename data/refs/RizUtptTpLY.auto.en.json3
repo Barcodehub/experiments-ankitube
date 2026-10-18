@@ -1,0 +1,5075 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "dDurationMs": 388480,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 5200,
+    "dDurationMs": 3970,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Welcome"
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 7150,
+    "dDurationMs": 2020,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 7160,
+    "dDurationMs": 2640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "America"
+    }, {
+      "utf8": " Act",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " training",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " series.",
+      "tOffsetMs": 1200
+    } ]
+  }, {
+    "tStartMs": 9160,
+    "dDurationMs": 640,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 9170,
+    "dDurationMs": 2670,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [music]",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 9790,
+    "dDurationMs": 2050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 9800,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Before",
+      "isSpeakerChange": 1
+    }, {
+      "utf8": " continuing,",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " please",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " watch",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 11830,
+    "dDurationMs": 1850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 11840,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other"
+    }, {
+      "utf8": " videos",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " within",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " our",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " training",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " series",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 13670,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 13680,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on"
+    }, {
+      "utf8": " FEMA's",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " website",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " ensure",
+      "tOffsetMs": 2080
+    } ]
+  }, {
+    "tStartMs": 16110,
+    "dDurationMs": 1450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 16120,
+    "dDurationMs": 2440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you"
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " essential",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " background",
+      "tOffsetMs": 880
+    } ]
+  }, {
+    "tStartMs": 17550,
+    "dDurationMs": 1010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 17560,
+    "dDurationMs": 3040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "knowledge."
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 125
+    } ]
+  }, {
+    "tStartMs": 18550,
+    "dDurationMs": 2050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 18560,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "As"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " other",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " training",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " videos",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " explained,",
+      "tOffsetMs": 1240
+    } ]
+  }, {
+    "tStartMs": 20590,
+    "dDurationMs": 2290,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 20600,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " Act",
+      "tOffsetMs": 1840
+    } ]
+  }, {
+    "tStartMs": 22870,
+    "dDurationMs": 1890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 22880,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mandates"
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 45
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " federal",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " agencies,",
+      "tOffsetMs": 1040
+    } ]
+  }, {
+    "tStartMs": 24750,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 24760,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "including"
+    }, {
+      "utf8": " FEMA,",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " must",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " ensure",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " all",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2120
+    } ]
+  }, {
+    "tStartMs": 26950,
+    "dDurationMs": 3330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 26960,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " iron,",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " steel,",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " manufactured",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " products,",
+      "tOffsetMs": 2360
+    } ]
+  }, {
+    "tStartMs": 30270,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 30280,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " construction",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " materials",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " incorporated",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 32230,
+    "dDurationMs": 1650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 32240,
+    "dDurationMs": 3400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 199
+    }, {
+      "utf8": " project",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " funded",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " by",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " federal",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 33870,
+    "dDurationMs": 1770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 33880,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "financial"
+    }, {
+      "utf8": " assistance",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 835
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " made",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1680
+    } ]
+  }, {
+    "tStartMs": 35630,
+    "dDurationMs": 2930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 35640,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " US.",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " But",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " remember,",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " FEMA's",
+      "tOffsetMs": 2040
+    }, {
+      "utf8": " disaster",
+      "tOffsetMs": 2400
+    } ]
+  }, {
+    "tStartMs": 38550,
+    "dDurationMs": 2130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 38560,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "financial"
+    }, {
+      "utf8": " assistance",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " grants",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " exempt",
+      "tOffsetMs": 1760
+    } ]
+  }, {
+    "tStartMs": 40670,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 40680,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from"
+    }, {
+      "utf8": " these",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " requirements.",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " The",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 42630,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 42640,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "America,"
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " Act",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " applies",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 2280
+    } ]
+  }, {
+    "tStartMs": 45030,
+    "dDurationMs": 2610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 45040,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "articles,"
+    }, {
+      "utf8": " materials,",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1880
+    }, {
+      "utf8": " supplies",
+      "tOffsetMs": 2000
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 2480
+    } ]
+  }, {
+    "tStartMs": 47630,
+    "dDurationMs": 2530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 47640,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are"
+    }, {
+      "utf8": " consumed",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " in,",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " incorporated",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " into,",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 2360
+    } ]
+  }, {
+    "tStartMs": 50150,
+    "dDurationMs": 1370,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 50160,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "affixed"
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 275
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " an",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " infrastructure",
+      "tOffsetMs": 760
+    } ]
+  }, {
+    "tStartMs": 51510,
+    "dDurationMs": 3050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 51520,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "project."
+    }, {
+      "utf8": " It",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " does",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " not",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " apply",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " Section",
+      "tOffsetMs": 2560
+    } ]
+  }, {
+    "tStartMs": 54550,
+    "dDurationMs": 1890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 54560,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "70917C"
+    } ]
+  }, {
+    "tStartMs": 56430,
+    "dDurationMs": 2610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 56440,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "materials,"
+    }, {
+      "utf8": " tools,",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " equipment,",
+      "tOffsetMs": 1880
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 2480
+    } ]
+  }, {
+    "tStartMs": 59030,
+    "dDurationMs": 1370,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 59040,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "supplies"
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " brought",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1280
+    } ]
+  }, {
+    "tStartMs": 60390,
+    "dDurationMs": 2370,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 60400,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "construction"
+    }, {
+      "utf8": " site",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " removed",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " at",
+      "tOffsetMs": 1800
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 2240
+    } ]
+  }, {
+    "tStartMs": 62750,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 62760,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " completion",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " project,",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 65070,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 65080,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "building"
+    }, {
+      "utf8": " equipment",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " furnishings,",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " such",
+      "tOffsetMs": 1960
+    } ]
+  }, {
+    "tStartMs": 67310,
+    "dDurationMs": 2530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 67320,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as"
+    }, {
+      "utf8": " movable",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " chairs,",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " desks,",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " portable",
+      "tOffsetMs": 2120
+    } ]
+  }, {
+    "tStartMs": 69830,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 69840,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "equipment."
+    }, {
+      "utf8": " The",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " classification",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2000
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 2120
+    } ]
+  }, {
+    "tStartMs": 71990,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 72000,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product"
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " determined",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " based",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " its",
+      "tOffsetMs": 1840
+    } ]
+  }, {
+    "tStartMs": 73990,
+    "dDurationMs": 1810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 74000,
+    "dDurationMs": 3640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "status"
+    }, {
+      "utf8": " at",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " time",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " it",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " brought",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1680
+    } ]
+  }, {
+    "tStartMs": 75790,
+    "dDurationMs": 1850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 75800,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "project"
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 180
+    }, {
+      "utf8": " site",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " for",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " incorporation",
+      "tOffsetMs": 1000
+    } ]
+  }, {
+    "tStartMs": 77630,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 77640,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " project.",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " This",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " video",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " will",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 79950,
+    "dDurationMs": 1930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 79960,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "discuss"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " categories",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " products",
+      "tOffsetMs": 1280
+    } ]
+  }, {
+    "tStartMs": 81870,
+    "dDurationMs": 1770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 81880,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "subject"
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 1560
+    } ]
+  }, {
+    "tStartMs": 83630,
+    "dDurationMs": 2610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 83640,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "America"
+    }, {
+      "utf8": " Act,",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " well",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " one",
+      "tOffsetMs": 1840
+    }, {
+      "utf8": " category",
+      "tOffsetMs": 2040
+    } ]
+  }, {
+    "tStartMs": 86230,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 86240,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that"
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " exempt",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " by",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " law",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " by",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " answering",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " these",
+      "tOffsetMs": 1920
+    } ]
+  }, {
+    "tStartMs": 88470,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 88480,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "five"
+    }, {
+      "utf8": " questions.",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " What",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " considered",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " an",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 90710,
+    "dDurationMs": 2130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 90720,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "iron"
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " steel",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " product",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " under",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 1840
+    } ]
+  }, {
+    "tStartMs": 92830,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 92840,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "America,"
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " Act?",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " What",
+      "tOffsetMs": 2000
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 95070,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 95080,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "considered"
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " construction",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " material",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " under",
+      "tOffsetMs": 1800
+    } ]
+  }, {
+    "tStartMs": 97070,
+    "dDurationMs": 2730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 97080,
+    "dDurationMs": 4446,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " Act?",
+      "tOffsetMs": 2000
+    }, {
+      "utf8": " What",
+      "tOffsetMs": 2600
+    } ]
+  }, {
+    "tStartMs": 99790,
+    "dDurationMs": 1736,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 99800,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is"
+    }, {
+      "utf8": " considered",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " manufactured",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " product",
+      "tOffsetMs": 1480
+    } ]
+  }, {
+    "tStartMs": 101516,
+    "dDurationMs": 1884,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 101526,
+    "dDurationMs": 5874,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[music]"
+    }, {
+      "utf8": " under",
+      "tOffsetMs": 354
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 514
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 634
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 914
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 1634
+    } ]
+  }, {
+    "tStartMs": 103390,
+    "dDurationMs": 4010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 103400,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "America"
+    }, {
+      "utf8": " Act?",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " What",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " Section",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " 70917C",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 107390,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 107400,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "materials?"
+    }, {
+      "utf8": " Where",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " find",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " more",
+      "tOffsetMs": 1800
+    } ]
+  }, {
+    "tStartMs": 109350,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 109360,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "information"
+    }, {
+      "utf8": " about",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 2120
+    } ]
+  }, {
+    "tStartMs": 111670,
+    "dDurationMs": 1530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 111680,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "America"
+    }, {
+      "utf8": " Act?",
+      "tOffsetMs": 480
+    } ]
+  }, {
+    "tStartMs": 113190,
+    "dDurationMs": 2810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 113200,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Now,"
+    }, {
+      "utf8": " let's",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " discuss",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " first",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " question.",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 115990,
+    "dDurationMs": 1850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 116000,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What"
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " considered",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " an",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " iron",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " steel",
+      "tOffsetMs": 1520
+    } ]
+  }, {
+    "tStartMs": 117830,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 117840,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product"
+    }, {
+      "utf8": " under",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 1800
+    } ]
+  }, {
+    "tStartMs": 119830,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 119840,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "America"
+    }, {
+      "utf8": " Act?",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " Iron",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " steel",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " products",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 2280
+    } ]
+  }, {
+    "tStartMs": 122270,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 122280,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "articles,"
+    }, {
+      "utf8": " materials,",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " supplies",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 124590,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 124600,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "consist"
+    }, {
+      "utf8": " wholly",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 879
+    }, {
+      "utf8": " predominantly",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2000
+    }, {
+      "utf8": " iron",
+      "tOffsetMs": 2240
+    } ]
+  }, {
+    "tStartMs": 127230,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 127240,
+    "dDurationMs": 3780,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or"
+    }, {
+      "utf8": " steel",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " combination",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " both.",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " A",
+      "tOffsetMs": 2280
+    } ]
+  }, {
+    "tStartMs": 129550,
+    "dDurationMs": 1470,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 129560,
+    "dDurationMs": 2000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product"
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " considered",
+      "tOffsetMs": 479
+    }, {
+      "utf8": " iron",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " steel",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 131010,
+    "dDurationMs": 550,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 131020,
+    "dDurationMs": 1980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[music]"
+    } ]
+  }, {
+    "tStartMs": 131550,
+    "dDurationMs": 1450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 131560,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " cost",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " iron",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " steel",
+      "tOffsetMs": 1200
+    } ]
+  }, {
+    "tStartMs": 132990,
+    "dDurationMs": 3370,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 133000,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "content"
+    }, {
+      "utf8": " exceeds",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " 50%",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2120
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2240
+    }, {
+      "utf8": " total",
+      "tOffsetMs": 2320
+    }, {
+      "utf8": " cost",
+      "tOffsetMs": 2600
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 3200
+    } ]
+  }, {
+    "tStartMs": 136350,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 136360,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " its",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " components.",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " For",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " an",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " iron",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 138350,
+    "dDurationMs": 1770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 138360,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "steel"
+    }, {
+      "utf8": " product",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " be",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " compliant",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1680
+    } ]
+  }, {
+    "tStartMs": 140110,
+    "dDurationMs": 2570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 140120,
+    "dDurationMs": 3981,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Build"
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " Act,",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " all",
+      "tOffsetMs": 2200
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2360
+    } ]
+  }, {
+    "tStartMs": 142670,
+    "dDurationMs": 1431,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 142680,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "iron"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 279
+    }, {
+      "utf8": " steel",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " used",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " product",
+      "tOffsetMs": 1279
+    } ]
+  }, {
+    "tStartMs": 144091,
+    "dDurationMs": 2149,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 144101,
+    "dDurationMs": 3739,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[music]"
+    }, {
+      "utf8": " must",
+      "tOffsetMs": 459
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 739
+    }, {
+      "utf8": " been",
+      "tOffsetMs": 858
+    }, {
+      "utf8": " made",
+      "tOffsetMs": 1019
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1219
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1339
+    }, {
+      "utf8": " US",
+      "tOffsetMs": 1459
+    } ]
+  }, {
+    "tStartMs": 146230,
+    "dDurationMs": 1610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 146240,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " final",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " product",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " must",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " been",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 147830,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 147840,
+    "dDurationMs": 3466,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manufactured"
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " US",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " initial",
+      "tOffsetMs": 1840
+    } ]
+  }, {
+    "tStartMs": 150030,
+    "dDurationMs": 1276,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 150040,
+    "dDurationMs": 1840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "melting"
+    }, {
+      "utf8": " stage",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " through",
+      "tOffsetMs": 919
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " application",
+      "tOffsetMs": 1240
+    } ]
+  }, {
+    "tStartMs": 151296,
+    "dDurationMs": 584,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 151306,
+    "dDurationMs": 2653,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[music]"
+    } ]
+  }, {
+    "tStartMs": 151870,
+    "dDurationMs": 2089,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 151880,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of"
+    }, {
+      "utf8": " coatings.",
+      "tOffsetMs": 120
+    } ]
+  }, {
+    "tStartMs": 153949,
+    "dDurationMs": 1651,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 153959,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A"
+    }, {
+      "utf8": " few",
+      "tOffsetMs": 41
+    }, {
+      "utf8": " examples",
+      "tOffsetMs": 241
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 761
+    }, {
+      "utf8": " iron",
+      "tOffsetMs": 961
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1281
+    }, {
+      "utf8": " steel",
+      "tOffsetMs": 1401
+    } ]
+  }, {
+    "tStartMs": 155590,
+    "dDurationMs": 3530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 155600,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "products"
+    }, {
+      "utf8": " include",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " lamp",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " posts,",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " wire",
+      "tOffsetMs": 2359
+    }, {
+      "utf8": " rods,",
+      "tOffsetMs": 2680
+    } ]
+  }, {
+    "tStartMs": 159110,
+    "dDurationMs": 3090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 159120,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manhole"
+    }, {
+      "utf8": " covers,",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " pipes,",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " structural",
+      "tOffsetMs": 2600
+    } ]
+  }, {
+    "tStartMs": 162190,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 162200,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "steel"
+    }, {
+      "utf8": " such",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " rebar.",
+      "tOffsetMs": 1040
+    } ]
+  }, {
+    "tStartMs": 164350,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 164360,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Now,"
+    }, {
+      "utf8": " let's",
+      "tOffsetMs": 599
+    }, {
+      "utf8": " move",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " next",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " question.",
+      "tOffsetMs": 1680
+    } ]
+  }, {
+    "tStartMs": 166790,
+    "dDurationMs": 1530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 166800,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What"
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 159
+    }, {
+      "utf8": " considered",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " construction",
+      "tOffsetMs": 920
+    } ]
+  }, {
+    "tStartMs": 168310,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 168320,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "material"
+    }, {
+      "utf8": " under",
+      "tOffsetMs": 639
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 170510,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 170520,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "America"
+    }, {
+      "utf8": " Act?",
+      "tOffsetMs": 520
+    } ]
+  }, {
+    "tStartMs": 172470,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 172480,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Construction"
+    }, {
+      "utf8": " materials",
+      "tOffsetMs": 479
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " articles,",
+      "tOffsetMs": 1240
+    } ]
+  }, {
+    "tStartMs": 174470,
+    "dDurationMs": 2530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 174480,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "materials,"
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " supplies",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " consist",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2320
+    } ]
+  }, {
+    "tStartMs": 176990,
+    "dDurationMs": 2890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 177000,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one"
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " more",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " following",
+      "tOffsetMs": 959
+    }, {
+      "utf8": " items.",
+      "tOffsetMs": 1480
+    } ]
+  }, {
+    "tStartMs": 179870,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 179880,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Non-ferrous"
+    }, {
+      "utf8": " metals,",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " plastic",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 181870,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 181880,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "polymer-based"
+    }, {
+      "utf8": " products,",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " glass,",
+      "tOffsetMs": 1359
+    }, {
+      "utf8": " fiber",
+      "tOffsetMs": 2079
+    } ]
+  }, {
+    "tStartMs": 184270,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 184280,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "optic"
+    }, {
+      "utf8": " cable,",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " optical",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " fiber,",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " lumber,",
+      "tOffsetMs": 2040
+    } ]
+  }, {
+    "tStartMs": 186910,
+    "dDurationMs": 3250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 186920,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "engineered"
+    }, {
+      "utf8": " wood,",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1039
+    }, {
+      "utf8": " drywall.",
+      "tOffsetMs": 1640
+    } ]
+  }, {
+    "tStartMs": 190150,
+    "dDurationMs": 1690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 190160,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Minor"
+    }, {
+      "utf8": " additions",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " articles,",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 1102
+    } ]
+  }, {
+    "tStartMs": 191830,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 191840,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "materials,"
+    }, {
+      "utf8": " supplies,",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 1840
+    }, {
+      "utf8": " binding",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " agents",
+      "tOffsetMs": 2360
+    } ]
+  }, {
+    "tStartMs": 194830,
+    "dDurationMs": 1730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 194840,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do"
+    }, {
+      "utf8": " not",
+      "tOffsetMs": 119
+    }, {
+      "utf8": " change",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " categorization",
+      "tOffsetMs": 679
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1640
+    } ]
+  }, {
+    "tStartMs": 196550,
+    "dDurationMs": 2530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 196560,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product"
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " construction",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " material.",
+      "tOffsetMs": 1360
+    } ]
+  }, {
+    "tStartMs": 199070,
+    "dDurationMs": 1570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 199080,
+    "dDurationMs": 3120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Now,"
+    }, {
+      "utf8": " let's",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " move",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " third",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 200630,
+    "dDurationMs": 1570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 200640,
+    "dDurationMs": 3520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "question."
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 447
+    }, {
+      "utf8": " What",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " considered",
+      "tOffsetMs": 879
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1480
+    } ]
+  }, {
+    "tStartMs": 202190,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 202200,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manufactured"
+    }, {
+      "utf8": " product",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " under",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 1680
+    } ]
+  }, {
+    "tStartMs": 204150,
+    "dDurationMs": 2930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 204160,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "America,"
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 1079
+    }, {
+      "utf8": " Act?",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " Manufactured",
+      "tOffsetMs": 2240
+    } ]
+  }, {
+    "tStartMs": 207070,
+    "dDurationMs": 1650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 207080,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "products"
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 557
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " articles,",
+      "tOffsetMs": 960
+    } ]
+  }, {
+    "tStartMs": 208710,
+    "dDurationMs": 2370,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 208720,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "materials,"
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 799
+    }, {
+      "utf8": " supplies",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " have",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " been",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 211070,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 211080,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "processed"
+    }, {
+      "utf8": " into",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " specific",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " form",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " shape",
+      "tOffsetMs": 2120
+    } ]
+  }, {
+    "tStartMs": 213710,
+    "dDurationMs": 2050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 213720,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or"
+    }, {
+      "utf8": " combined",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " other",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " articles,",
+      "tOffsetMs": 1280
+    } ]
+  }, {
+    "tStartMs": 215750,
+    "dDurationMs": 2370,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 215760,
+    "dDurationMs": 3667,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "materials,"
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " supplies",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " create",
+      "tOffsetMs": 2040
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 2280
+    } ]
+  }, {
+    "tStartMs": 218110,
+    "dDurationMs": 1317,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 218120,
+    "dDurationMs": 3280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product"
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " different",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " properties",
+      "tOffsetMs": 880
+    } ]
+  }, {
+    "tStartMs": 219417,
+    "dDurationMs": 1983,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 219427,
+    "dDurationMs": 4812,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[music]"
+    }, {
+      "utf8": " than",
+      "tOffsetMs": 253
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 373
+    }, {
+      "utf8": " individual",
+      "tOffsetMs": 493
+    }, {
+      "utf8": " articles,",
+      "tOffsetMs": 1213
+    } ]
+  }, {
+    "tStartMs": 221390,
+    "dDurationMs": 2849,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 221400,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "materials,"
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " supplies.",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " If",
+      "tOffsetMs": 2240
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 2320
+    }, {
+      "utf8": " product",
+      "tOffsetMs": 2400
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 2760
+    } ]
+  }, {
+    "tStartMs": 224229,
+    "dDurationMs": 2651,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 224239,
+    "dDurationMs": 4681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not"
+    }, {
+      "utf8": " primarily",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " iron",
+      "tOffsetMs": 881
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " steel",
+      "tOffsetMs": 1401
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 2121
+    }, {
+      "utf8": " not",
+      "tOffsetMs": 2401
+    } ]
+  }, {
+    "tStartMs": 226870,
+    "dDurationMs": 2050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 226880,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listed"
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 359
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " construction",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " material,",
+      "tOffsetMs": 1079
+    }, {
+      "utf8": " it",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1920
+    } ]
+  }, {
+    "tStartMs": 228910,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 228920,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "likely"
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " manufactured",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " product.",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " Examples",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 231350,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 231360,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of"
+    }, {
+      "utf8": " manufactured",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " products",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " include,",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " but",
+      "tOffsetMs": 2200
+    } ]
+  }, {
+    "tStartMs": 233670,
+    "dDurationMs": 2170,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 233680,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are"
+    }, {
+      "utf8": " not",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " limited",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " to,",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 812
+    }, {
+      "utf8": " pumps,",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 235830,
+    "dDurationMs": 3890,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 235840,
+    "dDurationMs": 6512,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "motors,"
+    }, {
+      "utf8": " transformers,",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " generators,",
+      "tOffsetMs": 2200
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 3200
+    } ]
+  }, {
+    "tStartMs": 239710,
+    "dDurationMs": 2642,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 239720,
+    "dDurationMs": 3360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instrumentation"
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " control",
+      "tOffsetMs": 1880
+    }, {
+      "utf8": " systems.",
+      "tOffsetMs": 2280
+    } ]
+  }, {
+    "tStartMs": 242342,
+    "dDurationMs": 738,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 242352,
+    "dDurationMs": 2768,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[music]"
+    } ]
+  }, {
+    "tStartMs": 243070,
+    "dDurationMs": 2050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 243080,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "All"
+    }, {
+      "utf8": " manufactured",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " products",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " purchased",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " with",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 245110,
+    "dDurationMs": 2090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 245120,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "FEMA"
+    }, {
+      "utf8": " financial",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " assistance",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " must",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " be",
+      "tOffsetMs": 1960
+    } ]
+  }, {
+    "tStartMs": 247190,
+    "dDurationMs": 2690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 247200,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "produced"
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " US.",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " This",
+      "tOffsetMs": 1840
+    }, {
+      "utf8": " means",
+      "tOffsetMs": 2080
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 2480
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2600
+    } ]
+  }, {
+    "tStartMs": 249870,
+    "dDurationMs": 1250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 249880,
+    "dDurationMs": 3360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cost"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 360
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " components",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1079
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1160
+    } ]
+  }, {
+    "tStartMs": 251110,
+    "dDurationMs": 2130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 251120,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manufactured"
+    }, {
+      "utf8": " product",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " mined,",
+      "tOffsetMs": 1520
+    } ]
+  }, {
+    "tStartMs": 253230,
+    "dDurationMs": 2570,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 253240,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "produced,"
+    }, {
+      "utf8": " or",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " manufactured",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " US",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " must",
+      "tOffsetMs": 2400
+    } ]
+  }, {
+    "tStartMs": 255790,
+    "dDurationMs": 3009,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 255800,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be"
+    }, {
+      "utf8": " greater",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " than",
+      "tOffsetMs": 439
+    }, {
+      "utf8": " 55%",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 2040
+    }, {
+      "utf8": " total",
+      "tOffsetMs": 2120
+    }, {
+      "utf8": " cost",
+      "tOffsetMs": 2439
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 2800
+    } ]
+  }, {
+    "tStartMs": 258789,
+    "dDurationMs": 2251,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 258799,
+    "dDurationMs": 3081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all"
+    }, {
+      "utf8": " components",
+      "tOffsetMs": 201
+    }, {
+      "utf8": " that",
+      "tOffsetMs": 1081
+    }, {
+      "utf8": " make",
+      "tOffsetMs": 1241
+    }, {
+      "utf8": " up",
+      "tOffsetMs": 1481
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1601
+    }, {
+      "utf8": " product.",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 261030,
+    "dDurationMs": 850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 261040,
+    "dDurationMs": 3240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "An"
+    }, {
+      "utf8": " example",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 307
+    } ]
+  }, {
+    "tStartMs": 261870,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 261880,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is"
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " manufacturing",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " facility",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " Missouri",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 264270,
+    "dDurationMs": 2090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 264280,
+    "dDurationMs": 4273,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that"
+    }, {
+      "utf8": " produces",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " generators.",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " The",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " materials",
+      "tOffsetMs": 1560
+    } ]
+  }, {
+    "tStartMs": 266350,
+    "dDurationMs": 2203,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 266360,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " facility",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " uses",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " account",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " for",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " 35%",
+      "tOffsetMs": 1600
+    } ]
+  }, {
+    "tStartMs": 268543,
+    "dDurationMs": 1977,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 268553,
+    "dDurationMs": 4087,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[music]"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 366
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 447
+    }, {
+      "utf8": " generator's",
+      "tOffsetMs": 567
+    }, {
+      "utf8": " cost.",
+      "tOffsetMs": 1047
+    }, {
+      "utf8": " Another",
+      "tOffsetMs": 1687
+    } ]
+  }, {
+    "tStartMs": 270510,
+    "dDurationMs": 2130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 270520,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "30%"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " cost",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " incurred",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " at",
+      "tOffsetMs": 1960
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 2080
+    } ]
+  }, {
+    "tStartMs": 272630,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 272640,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "facility"
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " Oregon,",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " remaining",
+      "tOffsetMs": 1560
+    } ]
+  }, {
+    "tStartMs": 274630,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 274640,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cost"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " components",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " sourced",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 1760
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 276590,
+    "dDurationMs": 2610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 276600,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "facility"
+    }, {
+      "utf8": " outside",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " US.",
+      "tOffsetMs": 1360
+    } ]
+  }, {
+    "tStartMs": 279190,
+    "dDurationMs": 1610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 279200,
+    "dDurationMs": 3763,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Once"
+    }, {
+      "utf8": " complete,",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " generator",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " is",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 280790,
+    "dDurationMs": 2173,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 280800,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "considered"
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 1800
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 282953,
+    "dDurationMs": 2207,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 282963,
+    "dDurationMs": 4197,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[music]"
+    }, {
+      "utf8": " Act",
+      "tOffsetMs": 357
+    }, {
+      "utf8": " compliant",
+      "tOffsetMs": 717
+    }, {
+      "utf8": " product",
+      "tOffsetMs": 1117
+    }, {
+      "utf8": " because,",
+      "tOffsetMs": 1517
+    } ]
+  }, {
+    "tStartMs": 285150,
+    "dDurationMs": 2010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 285160,
+    "dDurationMs": 3640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in"
+    }, {
+      "utf8": " this",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " specific",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " case,",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " product",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " was",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 287150,
+    "dDurationMs": 1650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 287160,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manufactured"
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " US",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 1043
+    } ]
+  }, {
+    "tStartMs": 288790,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 288800,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and"
+    }, {
+      "utf8": " over",
+      "tOffsetMs": 119
+    }, {
+      "utf8": " 55%",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " cost",
+      "tOffsetMs": 1400
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1800
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 290750,
+    "dDurationMs": 3050,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 290760,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "components"
+    }, {
+      "utf8": " were",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " produced",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " US.",
+      "tOffsetMs": 1560
+    } ]
+  }, {
+    "tStartMs": 293790,
+    "dDurationMs": 1730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 293800,
+    "dDurationMs": 2840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Next,"
+    }, {
+      "utf8": " we",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " will",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " discuss",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " fourth",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 295510,
+    "dDurationMs": 1130,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 295520,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "question."
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 543
+    } ]
+  }, {
+    "tStartMs": 296630,
+    "dDurationMs": 2930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 296640,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What"
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " Section",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " 709.17C",
+      "tOffsetMs": 960
+    } ]
+  }, {
+    "tStartMs": 299550,
+    "dDurationMs": 3690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 299560,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "materials?"
+    }, {
+      "utf8": " Section",
+      "tOffsetMs": 1440
+    }, {
+      "utf8": " 709.17C",
+      "tOffsetMs": 1920
+    } ]
+  }, {
+    "tStartMs": 303230,
+    "dDurationMs": 1530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 303240,
+    "dDurationMs": 3040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "materials,"
+    }, {
+      "utf8": " named",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " after",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 1338
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 304750,
+    "dDurationMs": 1530,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 304760,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "corresponding"
+    }, {
+      "utf8": " section",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1159
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 1280
+    } ]
+  }, {
+    "tStartMs": 306270,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 306280,
+    "dDurationMs": 4193,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "America,"
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " Act,",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " refer",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 2240
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 2400
+    } ]
+  }, {
+    "tStartMs": 308710,
+    "dDurationMs": 1763,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 308720,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "list"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " items",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " which",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " are",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " specifically",
+      "tOffsetMs": 1240
+    } ]
+  }, {
+    "tStartMs": 310463,
+    "dDurationMs": 2177,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 310473,
+    "dDurationMs": 4607,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[music]"
+    }, {
+      "utf8": " exempt",
+      "tOffsetMs": 247
+    }, {
+      "utf8": " by",
+      "tOffsetMs": 767
+    }, {
+      "utf8": " law",
+      "tOffsetMs": 927
+    }, {
+      "utf8": " from",
+      "tOffsetMs": 1446
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1567
+    }, {
+      "utf8": " domestic",
+      "tOffsetMs": 1647
+    } ]
+  }, {
+    "tStartMs": 312630,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 312640,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preference"
+    }, {
+      "utf8": " requirements.",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " These",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " include",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 315070,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 315080,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cement"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " cementitious",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " materials,",
+      "tOffsetMs": 1640
+    } ]
+  }, {
+    "tStartMs": 317710,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 317720,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aggregates"
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 613
+    }, {
+      "utf8": " such",
+      "tOffsetMs": 880
+    }, {
+      "utf8": " as",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " stone,",
+      "tOffsetMs": 1199
+    }, {
+      "utf8": " sand,",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 320350,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 320360,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or"
+    }, {
+      "utf8": " gravel,",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " aggregate",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " binding",
+      "tOffsetMs": 2120
+    }, {
+      "utf8": " agents",
+      "tOffsetMs": 2480
+    } ]
+  }, {
+    "tStartMs": 323350,
+    "dDurationMs": 2930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 323360,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or"
+    }, {
+      "utf8": " additives.",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " Now,",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " let's",
+      "tOffsetMs": 2160
+    }, {
+      "utf8": " discuss",
+      "tOffsetMs": 2400
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 2833
+    } ]
+  }, {
+    "tStartMs": 326270,
+    "dDurationMs": 2210,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 326280,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the"
+    }, {
+      "utf8": " last",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " question.",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " Where",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " I",
+      "tOffsetMs": 1680
+    }, {
+      "utf8": " find",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " more",
+      "tOffsetMs": 2000
+    } ]
+  }, {
+    "tStartMs": 328470,
+    "dDurationMs": 2250,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 328480,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "information"
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 2040
+    } ]
+  }, {
+    "tStartMs": 330710,
+    "dDurationMs": 1850,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 330720,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "America"
+    }, {
+      "utf8": " Act?",
+      "tOffsetMs": 520
+    } ]
+  }, {
+    "tStartMs": 332550,
+    "dDurationMs": 1730,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 332560,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You"
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 120
+    }, {
+      "utf8": " find",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " information",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " FEMA's",
+      "tOffsetMs": 1320
+    } ]
+  }, {
+    "tStartMs": 334270,
+    "dDurationMs": 2330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 334280,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "implementation"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 2160
+    } ]
+  }, {
+    "tStartMs": 336590,
+    "dDurationMs": 1810,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 336600,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "America"
+    }, {
+      "utf8": " Act",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " our",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " website",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 1383
+    } ]
+  }, {
+    "tStartMs": 338390,
+    "dDurationMs": 2090,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 338400,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "located"
+    }, {
+      "utf8": " under",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " Preference",
+      "tOffsetMs": 1640
+    } ]
+  }, {
+    "tStartMs": 340470,
+    "dDurationMs": 3330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 340480,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tab"
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " fema.gov.",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " This",
+      "tOffsetMs": 2200
+    }, {
+      "utf8": " website",
+      "tOffsetMs": 2439
+    }, {
+      "utf8": " includes",
+      "tOffsetMs": 2880
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 3280
+    } ]
+  }, {
+    "tStartMs": 343790,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 343800,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "list"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " all",
+      "tOffsetMs": 560
+    }, {
+      "utf8": " FEMA",
+      "tOffsetMs": 800
+    }, {
+      "utf8": " grant",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " programs",
+      "tOffsetMs": 1360
+    }, {
+      "utf8": " subject",
+      "tOffsetMs": 1960
+    } ]
+  }, {
+    "tStartMs": 346190,
+    "dDurationMs": 2690,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 346200,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " not",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " subject",
+      "tOffsetMs": 1080
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1560
+    }, {
+      "utf8": " Build",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 1920
+    } ]
+  }, {
+    "tStartMs": 348870,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 348880,
+    "dDurationMs": 3400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Buy"
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 200
+    }, {
+      "utf8": " Act.",
+      "tOffsetMs": 680
+    } ]
+  }, {
+    "tStartMs": 350830,
+    "dDurationMs": 1450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 350840,
+    "dDurationMs": 2760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You"
+    }, {
+      "utf8": " can",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " also",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " find",
+      "tOffsetMs": 520
+    }, {
+      "utf8": " more",
+      "tOffsetMs": 920
+    }, {
+      "utf8": " program",
+      "tOffsetMs": 1080
+    } ]
+  }, {
+    "tStartMs": 352270,
+    "dDurationMs": 1330,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 352280,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definitions,"
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 113
+    } ]
+  }, {
+    "tStartMs": 353590,
+    "dDurationMs": 3610,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 353600,
+    "dDurationMs": 5344,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "flyers,"
+    }, {
+      "utf8": " and",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " a",
+      "tOffsetMs": 1240
+    }, {
+      "utf8": " helpful",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " decision",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " road",
+      "tOffsetMs": 2040
+    }, {
+      "utf8": " map.",
+      "tOffsetMs": 2280
+    } ]
+  }, {
+    "tStartMs": 357190,
+    "dDurationMs": 1754,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 357200,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "The"
+    }, {
+      "utf8": " Code",
+      "tOffsetMs": 40
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 320
+    }, {
+      "utf8": " Federal",
+      "tOffsetMs": 440
+    }, {
+      "utf8": " Regulations",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " website",
+      "tOffsetMs": 1440
+    } ]
+  }, {
+    "tStartMs": 358934,
+    "dDurationMs": 1826,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 358944,
+    "dDurationMs": 4456,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[music]"
+    }, {
+      "utf8": " provides",
+      "tOffsetMs": 416
+    }, {
+      "utf8": " more",
+      "tOffsetMs": 736
+    }, {
+      "utf8": " information",
+      "tOffsetMs": 936
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1616
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1736
+    } ]
+  }, {
+    "tStartMs": 360750,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 360760,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Build"
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 1120
+    }, {
+      "utf8": " Act",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " policy",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 363390,
+    "dDurationMs": 3290,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 363400,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "under"
+    }, {
+      "utf8": " 2",
+      "tOffsetMs": 280
+    }, {
+      "utf8": " CFR",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " part",
+      "tOffsetMs": 1600
+    }, {
+      "utf8": " 184.",
+      "tOffsetMs": 1920
+    }, {
+      "utf8": " [music]",
+      "tOffsetMs": 2094
+    } ]
+  }, {
+    "tStartMs": 366670,
+    "dDurationMs": 1770,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 366680,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Thank"
+    }, {
+      "utf8": " you",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " for",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " watching",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " this",
+      "tOffsetMs": 760
+    }, {
+      "utf8": " video",
+      "tOffsetMs": 960
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1480
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1640
+    } ]
+  }, {
+    "tStartMs": 368430,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 368440,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Build"
+    }, {
+      "utf8": " America,",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 1200
+    }, {
+      "utf8": " Act",
+      "tOffsetMs": 1720
+    } ]
+  }, {
+    "tStartMs": 370830,
+    "dDurationMs": 2450,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 370840,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "categories"
+    }, {
+      "utf8": " of",
+      "tOffsetMs": 600
+    }, {
+      "utf8": " products.",
+      "tOffsetMs": 680
+    }, {
+      "utf8": " To",
+      "tOffsetMs": 1840
+    }, {
+      "utf8": " continue",
+      "tOffsetMs": 1960
+    } ]
+  }, {
+    "tStartMs": 373270,
+    "dDurationMs": 1970,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 373280,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learning,"
+    }, {
+      "utf8": " be",
+      "tOffsetMs": 840
+    }, {
+      "utf8": " sure",
+      "tOffsetMs": 1000
+    }, {
+      "utf8": " to",
+      "tOffsetMs": 1160
+    }, {
+      "utf8": " check",
+      "tOffsetMs": 1280
+    }, {
+      "utf8": " out",
+      "tOffsetMs": 1520
+    }, {
+      "utf8": " the",
+      "tOffsetMs": 1640
+    }, {
+      "utf8": " other",
+      "tOffsetMs": 1760
+    } ]
+  }, {
+    "tStartMs": 375230,
+    "dDurationMs": 2650,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 375240,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "videos"
+    }, {
+      "utf8": " in",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " this",
+      "tOffsetMs": 480
+    }, {
+      "utf8": " training",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " series.",
+      "tOffsetMs": 1000
+    } ]
+  }, {
+    "tStartMs": 377870,
+    "dDurationMs": 1930,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 377880,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "For"
+    }, {
+      "utf8": " more",
+      "tOffsetMs": 80
+    }, {
+      "utf8": " information,",
+      "tOffsetMs": 240
+    }, {
+      "utf8": " please",
+      "tOffsetMs": 1320
+    }, {
+      "utf8": " visit",
+      "tOffsetMs": 1600
+    } ]
+  }, {
+    "tStartMs": 379790,
+    "dDurationMs": 3290,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 379800,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "FEMA's"
+    }, {
+      "utf8": " Buy",
+      "tOffsetMs": 400
+    }, {
+      "utf8": " America",
+      "tOffsetMs": 640
+    }, {
+      "utf8": " website",
+      "tOffsetMs": 1040
+    }, {
+      "utf8": " on",
+      "tOffsetMs": 1720
+    }, {
+      "utf8": " fema.gov",
+      "tOffsetMs": 1880
+    } ]
+  }, {
+    "tStartMs": 383070,
+    "dDurationMs": 2410,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 383080,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or"
+    }, {
+      "utf8": " contact",
+      "tOffsetMs": 160
+    }, {
+      "utf8": " us",
+      "tOffsetMs": 720
+    }, {
+      "utf8": " at",
+      "tOffsetMs": 1200
+    } ]
+  }, {
+    "tStartMs": 385470,
+    "dDurationMs": 3010,
+    "wWinId": 1,
+    "aAppend": 1,
+    "segs": [ {
+      "utf8": "\n"
+    } ]
+  }, {
+    "tStartMs": 385480,
+    "dDurationMs": 3000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fema-grants-buyamerica@fema.dhs.gov."
+    } ]
+  } ]
+}

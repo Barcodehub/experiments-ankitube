@@ -1,0 +1,187 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 5933,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "Greetings from the International Space\nStation."
+    } ]
+  }, {
+    "tStartMs": 9133,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "On behalf of the expedition 74 crew,\ncoming to you from 250 miles above Earth,"
+    } ]
+  }, {
+    "tStartMs": 15200,
+    "dDurationMs": 3033,
+    "segs": [ {
+      "utf8": "we are excited to celebrate\nthe FIFA World Cup"
+    } ]
+  }, {
+    "tStartMs": 18233,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "with people from all over the world."
+    } ]
+  }, {
+    "tStartMs": 21233,
+    "dDurationMs": 4033,
+    "segs": [ {
+      "utf8": "Here on the space station,\nwe conduct research that drives"
+    } ]
+  }, {
+    "tStartMs": 25266,
+    "dDurationMs": 4234,
+    "segs": [ {
+      "utf8": "exploration and innovation\nthat impacts life on Earth."
+    } ]
+  }, {
+    "tStartMs": 29500,
+    "dDurationMs": 5300,
+    "segs": [ {
+      "utf8": "Even in sports performance,\nmaterial sciences, and human endurance."
+    } ]
+  }, {
+    "tStartMs": 34900,
+    "dDurationMs": 4133,
+    "segs": [ {
+      "utf8": "In fact, because of research\nconducted on the space station,"
+    } ]
+  }, {
+    "tStartMs": 39233,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "electronics are now included in\nmajor tournament soccer balls"
+    } ]
+  }, {
+    "tStartMs": 42833,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "for the 2026 World Cup,\nwhich ensure the soccer ball is balanced"
+    } ]
+  }, {
+    "tStartMs": 46933,
+    "dDurationMs": 3167,
+    "segs": [ {
+      "utf8": "statically and dynamically\nfor best performance."
+    } ]
+  }, {
+    "tStartMs": 50133,
+    "dDurationMs": 1867,
+    "segs": [ {
+      "utf8": "The World Cup is more than a tournament."
+    } ]
+  }, {
+    "tStartMs": 52000,
+    "dDurationMs": 4100,
+    "segs": [ {
+      "utf8": "It's a global phenomenon\nthat pushes the boundaries of innovation,"
+    } ]
+  }, {
+    "tStartMs": 56133,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "pioneers new technology, and drives\nhuman performance"
+    } ]
+  }, {
+    "tStartMs": 59833,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "similar to what we do here at NASA\nduring the Artemis two mission."
+    } ]
+  }, {
+    "tStartMs": 63600,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "Astronauts traveled farther than any human\nhas traveled in over 50 years,"
+    } ]
+  }, {
+    "tStartMs": 68000,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "and that was just the beginning."
+    } ]
+  }, {
+    "tStartMs": 71233,
+    "dDurationMs": 5033,
+    "segs": [ {
+      "utf8": "We are focused on sending humans\nto the surface of the moon and to Mars."
+    } ]
+  }, {
+    "tStartMs": 76466,
+    "dDurationMs": 3434,
+    "segs": [ {
+      "utf8": "But whether on the soccer pitch\nor in orbit,"
+    } ]
+  }, {
+    "tStartMs": 79933,
+    "dDurationMs": 3567,
+    "segs": [ {
+      "utf8": "it's the connection to each other\nthat is so special."
+    } ]
+  }, {
+    "tStartMs": 84133,
+    "dDurationMs": 3000,
+    "segs": [ {
+      "utf8": "From our view above planet Earth."
+    } ]
+  }, {
+    "tStartMs": 87200,
+    "dDurationMs": 3900,
+    "segs": [ {
+      "utf8": "As we gather with the same passion\nand excitement for the game,"
+    } ]
+  }, {
+    "tStartMs": 91100,
+    "dDurationMs": 3133,
+    "segs": [ {
+      "utf8": "the world doesn't look like a collection\nof opposing sites."
+    } ]
+  }, {
+    "tStartMs": 94233,
+    "dDurationMs": 3700,
+    "segs": [ {
+      "utf8": "It looks like a masterpiece\nof cooperation."
+    } ]
+  }, {
+    "tStartMs": 98400,
+    "dDurationMs": 2500,
+    "segs": [ {
+      "utf8": "Different teams. Same planet."
+    } ]
+  }, {
+    "tStartMs": 100900,
+    "dDurationMs": 966,
+    "segs": [ {
+      "utf8": "One crew."
+    } ]
+  }, {
+    "tStartMs": 101866,
+    "dDurationMs": 1767,
+    "segs": [ {
+      "utf8": "No matter who you're cheering for."
+    } ]
+  }, {
+    "tStartMs": 103633,
+    "dDurationMs": 1433,
+    "segs": [ {
+      "utf8": "Cheer with all your heart."
+    } ]
+  }, {
+    "tStartMs": 105066,
+    "dDurationMs": 3467,
+    "segs": [ {
+      "utf8": "Because we want to hear that excitement\nall the way up here."
+    } ]
+  } ]
+}

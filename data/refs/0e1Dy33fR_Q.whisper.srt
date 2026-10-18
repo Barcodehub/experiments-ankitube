@@ -1,0 +1,316 @@
+1
+00:00:01,230 --> 00:00:05,230
+Welcome to the Build America, Buy America Act training series.
+
+2
+00:00:05,230 --> 00:00:14,230
+Before continuing, please watch the other videos within our training series on FEMA's Buy America website to ensure you have the essential background knowledge.
+
+3
+00:00:14,230 --> 00:00:22,230
+As those training videos explain, the Build America, Buy America Act mandates that federal agencies, including FEMA,
+
+4
+00:00:22,230 --> 00:00:29,230
+ensure that all materials used in infrastructure projects funded by federal financial assistance are made in the U.S.
+
+5
+00:00:29,230 --> 00:00:35,230
+But remember, FEMA's disaster financial assistance grants are exempt from these requirements.
+
+6
+00:00:35,230 --> 00:00:42,230
+The Build America, Buy America Act grants FEMA the authority to waive the requirements under certain circumstances.
+
+7
+00:00:42,230 --> 00:00:51,230
+As you previously learned, there are two categories of waivers, project-specific waivers, which apply to one specific infrastructure project,
+
+8
+00:00:51,230 --> 00:00:56,230
+and general applicability waivers, which can be applied more broadly.
+
+9
+00:00:56,230 --> 00:01:02,230
+This video will discuss FEMA's general applicability waivers by answering the following questions.
+
+10
+00:01:02,230 --> 00:01:05,230
+What is a general applicability waiver?
+
+11
+00:01:05,230 --> 00:01:09,230
+What general applicability waivers has FEMA issued?
+
+12
+00:01:09,230 --> 00:01:15,230
+Do recipients or subrecipients need to apply to use a FEMA-approved general applicability waiver?
+
+13
+00:01:15,230 --> 00:01:20,230
+Where can you find more information about the Build America, Buy America Act?
+
+14
+00:01:20,230 --> 00:01:22,230
+Let's start with the first question.
+
+15
+00:01:22,230 --> 00:01:25,230
+What is a general applicability waiver?
+
+16
+00:01:25,230 --> 00:01:33,230
+The term general applicability waiver refers to a waiver that applies across multiple agency projects or awards.
+
+17
+00:01:33,230 --> 00:01:38,230
+They are targeted to either a specific product or category of products,
+
+18
+00:01:38,230 --> 00:01:44,230
+or to all products under the covered projects or awards, and always have an expiration date.
+
+19
+00:01:44,230 --> 00:01:47,230
+Now, let's discuss the second question.
+
+20
+00:01:47,230 --> 00:01:51,230
+What general applicability waivers has FEMA issued?
+
+21
+00:01:51,230 --> 00:01:56,230
+FEMA has issued several general applicability waivers to ease the burden of compliance
+
+22
+00:01:56,230 --> 00:02:00,230
+for its recipients and subrecipients as appropriate.
+
+23
+00:02:00,230 --> 00:02:07,230
+The full list of FEMA's general applicability waivers can be found on FEMA's Buy America website at FEMA.gov.
+
+24
+00:02:07,230 --> 00:02:13,230
+This video will cover the waivers most likely to be used by recipients and subrecipients.
+
+25
+00:02:13,230 --> 00:02:17,230
+Small projects waiver and de minimis waiver.
+
+26
+00:02:17,230 --> 00:02:24,230
+The small projects general applicability waiver allows FEMA to waive the Build America, Buy America Act requirements for projects
+
+27
+00:02:24,230 --> 00:02:30,230
+where the total project costs do not exceed the current federal simplified acquisition threshold.
+
+28
+00:02:30,230 --> 00:02:37,230
+The total project costs includes all funding applied toward the infrastructure project, regardless of source.
+
+29
+00:02:37,230 --> 00:02:41,230
+When using the small projects general applicability waiver,
+
+30
+00:02:41,230 --> 00:02:45,230
+recipients must maintain documentation showing that the total project costs
+
+31
+00:02:45,230 --> 00:02:51,230
+are less than the current federal simplified acquisition threshold for the life of the award.
+
+32
+00:02:51,230 --> 00:02:55,230
+If there are unplanned cost overruns that increase the project cost,
+
+33
+00:02:55,230 --> 00:03:00,230
+all excess costs and additional purchases over the current federal simplified acquisition threshold
+
+34
+00:03:00,230 --> 00:03:06,230
+must comply with the Build America, Buy America Act, unless otherwise waived.
+
+35
+00:03:06,230 --> 00:03:08,230
+Let's look at a quick example.
+
+36
+00:03:08,230 --> 00:03:15,230
+A city plans to renovate a fire station and the total project cost comes to $200,000.
+
+37
+00:03:15,230 --> 00:03:19,230
+The project includes funding from one of the FEMA grant programs,
+
+38
+00:03:19,230 --> 00:03:25,230
+subject to the Build America, Buy America Act, in the amount of $150,000,
+
+39
+00:03:25,230 --> 00:03:29,230
+with the other $50,000 coming from bonds sold by the city.
+
+40
+00:03:29,230 --> 00:03:35,230
+Since the total project cost is less than the current federal simplified acquisition threshold,
+
+41
+00:03:35,230 --> 00:03:40,230
+the project qualifies for FEMA's small project general applicability waiver.
+
+42
+00:03:40,230 --> 00:03:47,230
+It is important to know that while the Build America, Buy America Act requirements are waived for small projects,
+
+43
+00:03:47,230 --> 00:03:54,230
+all recipients are encouraged to purchase items produced in the United States to the greatest extent practicable.
+
+44
+00:03:54,230 --> 00:03:59,230
+The next FEMA waiver we will cover is the de minimis general applicability waiver.
+
+45
+00:03:59,230 --> 00:04:07,230
+This waiver waives the requirements for up to 5% of the total material costs subject to the Build America, Buy America Act,
+
+46
+00:04:07,230 --> 00:04:10,230
+with a maximum limit of $1 million.
+
+47
+00:04:10,230 --> 00:04:17,230
+Recipients and sub-recipients that use this waiver must maintain documentation demonstrating compliance.
+
+48
+00:04:17,230 --> 00:04:21,230
+This includes tracking the costs of products claimed under the waiver,
+
+49
+00:04:21,230 --> 00:04:25,230
+as well as the total applicable project costs.
+
+50
+00:04:25,230 --> 00:04:30,230
+Let's consider this example of using the de minimis general applicability waiver.
+
+51
+00:04:30,230 --> 00:04:36,230
+A city plans to construct a new emergency operation center with a total cost of $20 million.
+
+52
+00:04:36,230 --> 00:04:42,230
+The project includes $10 million in labor costs and $10 million in total material costs,
+
+53
+00:04:42,230 --> 00:04:46,230
+subject to the Build America, Buy America Act.
+
+54
+00:04:46,230 --> 00:04:49,230
+The project would be eligible to apply the de minimis waiver
+
+55
+00:04:49,230 --> 00:04:56,230
+towards $500,000 worth of material costs, which represents 5% of the total $10 million
+
+56
+00:04:56,230 --> 00:05:01,230
+in total material costs subject to the Build America, Buy America Act.
+
+57
+00:05:01,230 --> 00:05:04,230
+Now let's discuss the third question.
+
+58
+00:05:04,230 --> 00:05:11,230
+Do recipients or sub-recipients need to apply to use a FEMA approved general applicability waiver?
+
+59
+00:05:11,230 --> 00:05:16,230
+No, there was no application process to use the general applicability waivers
+
+60
+00:05:16,230 --> 00:05:20,230
+that FEMA has issued and listed on FEMA.gov.
+
+61
+00:05:20,230 --> 00:05:26,230
+Any projects that are funded by a FEMA grant program, subject to the Build America, Buy America Act,
+
+62
+00:05:26,230 --> 00:05:30,230
+can use a relevant FEMA approved general applicability waiver.
+
+63
+00:05:30,230 --> 00:05:35,230
+As a best practice, recipients and sub-recipients who use these waivers
+
+64
+00:05:35,230 --> 00:05:39,230
+are encouraged to maintain proper documentation of their use,
+
+65
+00:05:39,230 --> 00:05:43,230
+as these waivers do expire and are not guaranteed to be renewed.
+
+66
+00:05:43,230 --> 00:05:46,230
+Now let's discuss the last question.
+
+67
+00:05:46,230 --> 00:05:51,230
+Where can I find more information on the Build America, Buy America Act?
+
+68
+00:05:51,230 --> 00:05:58,230
+You can find information on FEMA's implementation of the Build America, Buy America Act on their website,
+
+69
+00:05:58,230 --> 00:06:02,230
+located under the Buy America preference tab on FEMA.gov.
+
+70
+00:06:02,230 --> 00:06:07,230
+This website includes a list of all FEMA grant programs subject to
+
+71
+00:06:07,230 --> 00:06:11,230
+and not subject to the Build America, Buy America Act.
+
+72
+00:06:11,230 --> 00:06:17,230
+You can also find more program definitions, flyers, and a helpful decision roadmap.
+
+73
+00:06:17,230 --> 00:06:21,230
+The Code of Federal Regulations website provides more information
+
+74
+00:06:21,230 --> 00:06:27,230
+on the Build America, Buy America Act policy under to CFR Part 184.
+
+75
+00:06:27,230 --> 00:06:32,230
+Thank you for watching this video on FEMA's general applicability waivers.
+
+76
+00:06:32,230 --> 00:06:35,230
+To continue learning about the Build America, Buy America Act,
+
+77
+00:06:35,230 --> 00:06:39,230
+be sure to check out the other videos in this training series.
+
+78
+00:06:39,230 --> 00:06:44,230
+For more information, please visit FEMA's Buy America website on FEMA.gov
+
+79
+00:06:44,230 --> 00:06:55,230
+or contact us at FEMA-grants-buyamerica.fema.dhs.gov.
+

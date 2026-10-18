@@ -1,0 +1,415 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 266,
+    "dDurationMs": 3237,
+    "segs": [ {
+      "utf8": "Packing for a journey to the Moon\nis kind of like any other road trip."
+    } ]
+  }, {
+    "tStartMs": 3903,
+    "dDurationMs": 3671,
+    "segs": [ {
+      "utf8": "You need clothes, food, a map,\nyour favorite toy."
+    } ]
+  }, {
+    "tStartMs": 7874,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "Really!"
+    } ]
+  }, {
+    "tStartMs": 9009,
+    "dDurationMs": 4871,
+    "segs": [ {
+      "utf8": "Except this toy has a job to do up there\nbecause this is a zero-gravity indicator."
+    } ]
+  }, {
+    "tStartMs": 14414,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "While not a scientific instrument,\nthis safe and soft object"
+    } ]
+  }, {
+    "tStartMs": 17884,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "tells the strapped-in astronauts\nthat they’ve reached weightlessness."
+    } ]
+  }, {
+    "tStartMs": 21755,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "For Artemis\nII, the crew wanted a one-of-a-kind ZGI"
+    } ]
+  }, {
+    "tStartMs": 25658,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "so we asked you to come up with it."
+    } ]
+  }, {
+    "tStartMs": 34634,
+    "dDurationMs": 3036,
+    "segs": [ {
+      "utf8": "Thanks, everyone, for sending\nin your entries from around the world."
+    } ]
+  }, {
+    "tStartMs": 37670,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "Over 2,600 of you submitted."
+    } ]
+  }, {
+    "tStartMs": 40473,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "And we loved\nseeing all of your contributions."
+    } ]
+  }, {
+    "tStartMs": 42909,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "It was a really difficult decision"
+    } ]
+  }, {
+    "tStartMs": 44611,
+    "dDurationMs": 2969,
+    "segs": [ {
+      "utf8": "because each design had a unique quality\nthat stood out to our crew."
+    } ]
+  }, {
+    "tStartMs": 49015,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "In the end, we were able to narrow it down"
+    } ]
+  }, {
+    "tStartMs": 50750,
+    "dDurationMs": 3837,
+    "segs": [ {
+      "utf8": "to a top five from Finland, Canada, Peru,"
+    } ]
+  }, {
+    "tStartMs": 54821,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "and two from the United States: Kansas\nand California."
+    } ]
+  }, {
+    "tStartMs": 58224,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "In the end, we went with one called Rise."
+    } ]
+  }, {
+    "tStartMs": 61294,
+    "dDurationMs": 3771,
+    "segs": [ {
+      "utf8": "It was a design inspired\nby the Earthrise photo taken on Apollo 8,"
+    } ]
+  }, {
+    "tStartMs": 65065,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "which is very special to our crew."
+    } ]
+  }, {
+    "tStartMs": 67867,
+    "dDurationMs": 4872,
+    "segs": [ {
+      "utf8": "[Sewing and machine sounds]"
+    } ]
+  }, {
+    "tStartMs": 73173,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "With the winner"
+    } ]
+  }, {
+    "tStartMs": 73840,
+    "dDurationMs": 3036,
+    "segs": [ {
+      "utf8": "chosen, next came\nthe task of bringing it to life"
+    } ]
+  }, {
+    "tStartMs": 77010,
+    "dDurationMs": 3904,
+    "segs": [ {
+      "utf8": "here in the Thermal Blanket Lab at NASA’s\nGoddard Space Flight Center."
+    } ]
+  }, {
+    "tStartMs": 81381,
+    "dDurationMs": 4104,
+    "segs": [ {
+      "utf8": "This lab specializes in custom materials\nto protect sensitive spacecraft"
+    } ]
+  }, {
+    "tStartMs": 85485,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "equipment,\nand is perfect for creating a ZGI"
+    } ]
+  }, {
+    "tStartMs": 88321,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "that meets the rigorous safety\nstandards of NASA."
+    } ]
+  }, {
+    "tStartMs": 91758,
+    "dDurationMs": 3804,
+    "segs": [ {
+      "utf8": "Because you have to be concerned with\nwhether the thread is going to outgas"
+    } ]
+  }, {
+    "tStartMs": 95562,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "or if it will hold up,\nif it’s flame retardant."
+    } ]
+  }, {
+    "tStartMs": 98731,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "This is the Rise ZGI doll."
+    } ]
+  }, {
+    "tStartMs": 101801,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "All I have left to do\nis to close the opening here and hand"
+    } ]
+  }, {
+    "tStartMs": 105138,
+    "dDurationMs": 5539,
+    "segs": [ {
+      "utf8": "sew the hat on, make sure it’s\nstuffing is stuffed in there,"
+    } ]
+  }, {
+    "tStartMs": 111077,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "and we have our pocket here\nfor the SD card."
+    } ]
+  }, {
+    "tStartMs": 114781,
+    "dDurationMs": 3203,
+    "segs": [ {
+      "utf8": "And on that tiny SD card\nwill be millions of names"
+    } ]
+  }, {
+    "tStartMs": 117984,
+    "dDurationMs": 3871,
+    "segs": [ {
+      "utf8": "submitted to virtually\njoin the crew aboard Orion."
+    } ]
+  }, {
+    "tStartMs": 144611,
+    "dDurationMs": 3236,
+    "segs": [ {
+      "utf8": "Packing for a journey to the moon\nis kind of like any other road trip."
+    } ]
+  }, {
+    "tStartMs": 148248,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "You need clothes, food, a map,\nyour favorite toy."
+    } ]
+  }, {
+    "tStartMs": 152218,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "Really!"
+    } ]
+  }, {
+    "tStartMs": 153353,
+    "dDurationMs": 4871,
+    "segs": [ {
+      "utf8": "Except this toy has a job to do up there\nbecause this is a zero-gravity indicator."
+    } ]
+  }, {
+    "tStartMs": 158758,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "While not a scientific instrument,\nthis safe and soft object"
+    } ]
+  }, {
+    "tStartMs": 162228,
+    "dDurationMs": 3170,
+    "segs": [ {
+      "utf8": "tells the strapped-in astronauts\nthat they’ve reached weightlessness."
+    } ]
+  }, {
+    "tStartMs": 166099,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "For Artemis\nII, the crew wanted a one-of-a-kind CGI,"
+    } ]
+  }, {
+    "tStartMs": 170003,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "so we asked you to come up with it."
+    } ]
+  }, {
+    "tStartMs": 178978,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "Thanks, everyone, for sending\nin your entries from around the world."
+    } ]
+  }, {
+    "tStartMs": 182015,
+    "dDurationMs": 2802,
+    "segs": [ {
+      "utf8": "Over 2600 of you submitted."
+    } ]
+  }, {
+    "tStartMs": 184817,
+    "dDurationMs": 2436,
+    "segs": [ {
+      "utf8": "And we loved\nseeing all of your contributions."
+    } ]
+  }, {
+    "tStartMs": 187253,
+    "dDurationMs": 1702,
+    "segs": [ {
+      "utf8": "It was a really difficult decision"
+    } ]
+  }, {
+    "tStartMs": 188955,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "because each design had a unique quality\nthat stood out to our crew."
+    } ]
+  }, {
+    "tStartMs": 193359,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "In the end, we were able to narrow it down"
+    } ]
+  }, {
+    "tStartMs": 195094,
+    "dDurationMs": 3838,
+    "segs": [ {
+      "utf8": "to a top five from Finland, Canada, Peru,"
+    } ]
+  }, {
+    "tStartMs": 199165,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "and two from the United States: Kansas\nand California."
+    } ]
+  }, {
+    "tStartMs": 202569,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "In the end, we went with one called Rise."
+    } ]
+  }, {
+    "tStartMs": 205638,
+    "dDurationMs": 3771,
+    "segs": [ {
+      "utf8": "It was a design inspired\nby the Earthrise photo taken on Apollo 8,"
+    } ]
+  }, {
+    "tStartMs": 209409,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "which is very special to our crew."
+    } ]
+  }, {
+    "tStartMs": 217517,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "With the winner"
+    } ]
+  }, {
+    "tStartMs": 218184,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "chosen, next came\nthe task of bringing it to life"
+    } ]
+  }, {
+    "tStartMs": 221354,
+    "dDurationMs": 3904,
+    "segs": [ {
+      "utf8": "here in the Thermal Blanket Lab at NASA’s\nGoddard Space Flight Center."
+    } ]
+  }, {
+    "tStartMs": 225725,
+    "dDurationMs": 4104,
+    "segs": [ {
+      "utf8": "This lab specializes in custom materials\nto protect sensitive spacecraft"
+    } ]
+  }, {
+    "tStartMs": 229829,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "equipment,\nand is perfect for creating a ZGI"
+    } ]
+  }, {
+    "tStartMs": 232665,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "that meets the rigorous safety\nstandards of NASA."
+    } ]
+  }, {
+    "tStartMs": 236102,
+    "dDurationMs": 3804,
+    "segs": [ {
+      "utf8": "Because you have to be concerned with\nwhether the thread is going to outgas"
+    } ]
+  }, {
+    "tStartMs": 239906,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "or if it will hold up\nif it’s flame retardant."
+    } ]
+  }, {
+    "tStartMs": 243076,
+    "dDurationMs": 2969,
+    "segs": [ {
+      "utf8": "This is the Rise ZGI doll."
+    } ]
+  }, {
+    "tStartMs": 246145,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "All I have left to do\nis to close the opening here and hand"
+    } ]
+  }, {
+    "tStartMs": 249482,
+    "dDurationMs": 5539,
+    "segs": [ {
+      "utf8": "so the hat on, make sure it’s\nstuffing is stuffed in there,"
+    } ]
+  }, {
+    "tStartMs": 255421,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "and we have our pocket here\nfor the SD card."
+    } ]
+  }, {
+    "tStartMs": 259125,
+    "dDurationMs": 3203,
+    "segs": [ {
+      "utf8": "And on that tiny SD card\nwill be millions of names"
+    } ]
+  }, {
+    "tStartMs": 262328,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "submitted to virtually\njoin the crew aboard Orion."
+    } ]
+  } ]
+}

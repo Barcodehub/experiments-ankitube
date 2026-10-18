@@ -1,0 +1,9 @@
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+{'id': 'jWA3_lz2uFw', 't': 20.533519300006446, 'mb': 15.8, 'ok': True}
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+{'id': '83DJv429PXE', 't': 20.704665099998238, 'mb': 17.6, 'ok': True}
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+{'id': '0e1Dy33fR_Q', 't': 11.751336599991191, 'mb': 10.9, 'ok': True}

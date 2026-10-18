@@ -1,0 +1,116 @@
+1
+00:00:15,310 --> 00:00:22,950
+Centennial Challenges is a great platform to ideate and come up with new innovative technologies
+
+2
+00:00:22,950 --> 00:00:28,230
+and we have demonstrated it through various challenges in the past and including Break
+
+3
+00:00:28,230 --> 00:00:34,950
+the Ice Challenge where we're actually testing a robot at the TRL-7 in the lunar environmental
+
+4
+00:00:34,950 --> 00:00:39,150
+conditions which is a perfect example of how we run Centennial Challenges and how
+
+5
+00:00:39,150 --> 00:00:43,430
+we can use excellent facilities across Marshall Space Flight Center.
+
+6
+00:00:43,430 --> 00:00:49,590
+Break the Ice gave us a roadmap during a very young stage of our company to really put deadlines
+
+7
+00:00:49,590 --> 00:00:56,550
+to work towards some goals and to like flow well as a team with our timelines.
+
+8
+00:00:56,550 --> 00:01:01,150
+So what this is allowed us to do is iterate very rapidly and kind of remove our fear
+
+9
+00:01:01,150 --> 00:01:06,670
+of failure which has been super advantageous for us being able to test hardware really
+
+10
+00:01:06,670 --> 00:01:10,070
+quickly and you know make the best quality products.
+
+11
+00:01:10,070 --> 00:01:13,750
+The Marshall Challenges has been really huge for Starbath you know starting out as a very
+
+12
+00:01:13,750 --> 00:01:18,950
+small company these challenges set forth by the Centennial program particularly for lunar
+
+13
+00:01:18,950 --> 00:01:25,230
+mobility were really really core to shaping the design philosophy behind the rover.
+
+14
+00:01:25,230 --> 00:01:30,950
+The main goal is to really ground how we move forward from this test to our next
+
+15
+00:01:30,950 --> 00:01:31,950
+future designs.
+
+16
+00:01:31,950 --> 00:01:37,030
+Rover 9 to 10 never went into a thermal vacuum shaper so this is our first time
+
+17
+00:01:37,030 --> 00:01:42,750
+actually testing the full system at scale and this will let us analyze and ground our
+
+18
+00:01:42,750 --> 00:01:44,550
+future rover models.
+
+19
+00:01:44,550 --> 00:01:49,310
+The first phase of the test is really important for us to understand how heat flows through
+
+20
+00:01:49,310 --> 00:01:50,310
+our rover.
+
+21
+00:01:50,310 --> 00:01:53,950
+So we've done some really really advanced thermal modeling and made some really educated
+
+22
+00:01:53,950 --> 00:01:57,510
+guesses about how heat is going to go from one component to another and then eventually
+
+23
+00:01:57,510 --> 00:02:02,990
+get rejected out to the ambient environment but doing this test allows us to actually
+
+24
+00:02:02,990 --> 00:02:07,630
+say hey was our guess right, was it wrong, how much is it off by and we'll use those
+
+25
+00:02:07,630 --> 00:02:11,230
+correlation factors in the design of our next rover.
+
+26
+00:02:11,230 --> 00:02:15,110
+And then the driving part where we come off the stand and move around and mine concrete
+
+27
+00:02:15,110 --> 00:02:16,310
+that's more of a functional test.
+
+28
+00:02:16,310 --> 00:02:20,030
+It's confirmed that the rover can traverse those slopes, it can go over those rocks,
+
+29
+00:02:20,030 --> 00:02:23,030
+it has an abstraction on the sand and it can mine that concrete.
+

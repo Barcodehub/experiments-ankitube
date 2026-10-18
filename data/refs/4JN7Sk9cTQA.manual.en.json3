@@ -1,0 +1,211 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1110,
+    "dDurationMs": 2680,
+    "segs": [ {
+      "utf8": "Marcia Burton: Saturn is sending us mixed\nsignals."
+    } ]
+  }, {
+    "tStartMs": 3790,
+    "dDurationMs": 1650,
+    "segs": [ {
+      "utf8": "Mixed radio signals, that is."
+    } ]
+  }, {
+    "tStartMs": 5440,
+    "dDurationMs": 8159,
+    "segs": [ {
+      "utf8": "I'm Marcia Burton, Cassini fields and particles\nscientist, at NASA's Jet Propulsion Lab."
+    } ]
+  }, {
+    "tStartMs": 13599,
+    "dDurationMs": 2901,
+    "segs": [ {
+      "utf8": "Cassini has been in orbit around Saturn for\nmore than six years."
+    } ]
+  }, {
+    "tStartMs": 16500,
+    "dDurationMs": 4330,
+    "segs": [ {
+      "utf8": "And new data tells scientiststhat the sixth\nplanet from the sun is weirder than we've"
+    } ]
+  }, {
+    "tStartMs": 20830,
+    "dDurationMs": 1970,
+    "segs": [ {
+      "utf8": "even imagined."
+    } ]
+  }, {
+    "tStartMs": 22800,
+    "dDurationMs": 6690,
+    "segs": [ {
+      "utf8": "Ever since we arrived, Cassini has been measuring\nradio waves called 'Saturn kilometric radiation.'"
+    } ]
+  }, {
+    "tStartMs": 29490,
+    "dDurationMs": 5301,
+    "segs": [ {
+      "utf8": "Cassini's radio and plasma wave instrument\nrecently determined that the variation in"
+    } ]
+  }, {
+    "tStartMs": 34791,
+    "dDurationMs": 3929,
+    "segs": [ {
+      "utf8": "radio wavesis different in the northern and\nsouthern hemispheres of Saturn."
+    } ]
+  }, {
+    "tStartMs": 38720,
+    "dDurationMs": 5410,
+    "segs": [ {
+      "utf8": "And the northern and southern rotational variations\nalso appear to change with the Saturnian seasons."
+    } ]
+  }, {
+    "tStartMs": 44130,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "Sound: Radio waves\nBurton: The radio wave patterns are controlled"
+    } ]
+  }, {
+    "tStartMs": 48840,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "by the rotation of the planetSo, to Cassini,\nSaturn's radio waves sound a bit like bursts"
+    } ]
+  }, {
+    "tStartMs": 54090,
+    "dDurationMs": 2710,
+    "segs": [ {
+      "utf8": "of a spinning air raid siren."
+    } ]
+  }, {
+    "tStartMs": 56800,
+    "dDurationMs": 6550,
+    "segs": [ {
+      "utf8": "Sound: Radio waves\nBurton: We can't normally hear these radio"
+    } ]
+  }, {
+    "tStartMs": 63350,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "wave patterns."
+    } ]
+  }, {
+    "tStartMs": 64350,
+    "dDurationMs": 5460,
+    "segs": [ {
+      "utf8": "But Cassini scientistshave translated the\npatterns into the human audio range."
+    } ]
+  }, {
+    "tStartMs": 69810,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "In this video you actually hear the radio\nwave patterns coming from the two hemispheresswap"
+    } ]
+  }, {
+    "tStartMs": 74050,
+    "dDurationMs": 2950,
+    "segs": [ {
+      "utf8": "rates over the course of several years."
+    } ]
+  }, {
+    "tStartMs": 77000,
+    "dDurationMs": 6580,
+    "segs": [ {
+      "utf8": "The crossover happened a few months after\nspring began in the northern hemisphere."
+    } ]
+  }, {
+    "tStartMs": 83580,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "Scientists don't think the radio wave patterns\nindicate hemispheres actually rotating at"
+    } ]
+  }, {
+    "tStartMs": 87420,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "different rates."
+    } ]
+  }, {
+    "tStartMs": 88420,
+    "dDurationMs": 5129,
+    "segs": [ {
+      "utf8": "It has more to do with variations in high-altitude\nwinds."
+    } ]
+  }, {
+    "tStartMs": 93549,
+    "dDurationMs": 4691,
+    "segs": [ {
+      "utf8": "A recently result from the Hubble Space Telescope\nalso gives us clues."
+    } ]
+  }, {
+    "tStartMs": 98240,
+    "dDurationMs": 4541,
+    "segs": [ {
+      "utf8": "Scientists found that the northern and southern\nauroras wobbled back and forthin a pattern"
+    } ]
+  }, {
+    "tStartMs": 102781,
+    "dDurationMs": 3189,
+    "segs": [ {
+      "utf8": "matching the radio wave variations."
+    } ]
+  }, {
+    "tStartMs": 105970,
+    "dDurationMs": 5800,
+    "segs": [ {
+      "utf8": "The Cassini magnetometer also found that Saturn's\nmagnetic field over the north and south poleswobbled"
+    } ]
+  }, {
+    "tStartMs": 111770,
+    "dDurationMs": 2480,
+    "segs": [ {
+      "utf8": "in a similar pattern."
+    } ]
+  }, {
+    "tStartMs": 114250,
+    "dDurationMs": 3710,
+    "segs": [ {
+      "utf8": "These signals are connected because they're\nall affected by the behavior of the magnetic"
+    } ]
+  }, {
+    "tStartMs": 117960,
+    "dDurationMs": 5869,
+    "segs": [ {
+      "utf8": "bubble around Saturnand the sun's influence\non the whole Saturnian system."
+    } ]
+  }, {
+    "tStartMs": 123829,
+    "dDurationMs": 4710,
+    "segs": [ {
+      "utf8": "For those of us watching Saturn, these findings\nall help explain the complicated dance between"
+    } ]
+  }, {
+    "tStartMs": 128539,
+    "dDurationMs": 6271,
+    "segs": [ {
+      "utf8": "the sun andSaturn's magnetic bubble, something\nnormally invisible to the human eye and imperceptible"
+    } ]
+  }, {
+    "tStartMs": 134810,
+    "dDurationMs": 1000,
+    "segs": [ {
+      "utf8": "to the human ear."
+    } ]
+  }, {
+    "tStartMs": 135810,
+    "dDurationMs": 3,
+    "segs": [ {
+      "utf8": "Sound: Radio waves"
+    } ]
+  } ]
+}

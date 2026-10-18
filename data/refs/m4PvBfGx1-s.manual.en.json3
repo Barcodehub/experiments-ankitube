@@ -1,0 +1,541 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 15615,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "Centennial Challenges"
+    } ]
+  }, {
+    "tStartMs": 16583,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "is a great platform"
+    } ]
+  }, {
+    "tStartMs": 17751,
+    "dDurationMs": 1584,
+    "segs": [ {
+      "utf8": "to, ideate."
+    } ]
+  }, {
+    "tStartMs": 19335,
+    "dDurationMs": 835,
+    "segs": [ {
+      "utf8": "And,"
+    } ]
+  }, {
+    "tStartMs": 20170,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "they'll come up with new"
+    } ]
+  }, {
+    "tStartMs": 21438,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "innovative technologies."
+    } ]
+  }, {
+    "tStartMs": 22839,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "And we have demonstrated it"
+    } ]
+  }, {
+    "tStartMs": 24340,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "through various,"
+    } ]
+  }, {
+    "tStartMs": 25575,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "challenges in the past"
+    } ]
+  }, {
+    "tStartMs": 27410,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "and including Break"
+    } ]
+  }, {
+    "tStartMs": 28211,
+    "dDurationMs": 1285,
+    "segs": [ {
+      "utf8": "the Ice Challenge, where"
+    } ]
+  }, {
+    "tStartMs": 29496,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "but actually testing a robot"
+    } ]
+  }, {
+    "tStartMs": 32265,
+    "dDurationMs": 717,
+    "segs": [ {
+      "utf8": "at TRL"
+    } ]
+  }, {
+    "tStartMs": 32982,
+    "dDurationMs": 1118,
+    "segs": [ {
+      "utf8": "seven in the lunar"
+    } ]
+  }, {
+    "tStartMs": 34100,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "environmental conditions,"
+    } ]
+  }, {
+    "tStartMs": 35835,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "which is a perfect example of how"
+    } ]
+  }, {
+    "tStartMs": 37337,
+    "dDurationMs": 384,
+    "segs": [ {
+      "utf8": "we run"
+    } ]
+  }, {
+    "tStartMs": 37721,
+    "dDurationMs": 1017,
+    "segs": [ {
+      "utf8": "Centennial Challenges"
+    } ]
+  }, {
+    "tStartMs": 38738,
+    "dDurationMs": 1418,
+    "segs": [ {
+      "utf8": "and how we can use"
+    } ]
+  }, {
+    "tStartMs": 40156,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "excellent facilities across,"
+    } ]
+  }, {
+    "tStartMs": 41958,
+    "dDurationMs": 1518,
+    "segs": [ {
+      "utf8": "Marshall Space Flight Center "
+    } ]
+  }, {
+    "tStartMs": 43476,
+    "dDurationMs": 501,
+    "segs": [ {
+      "utf8": "Break the Ice"
+    } ]
+  }, {
+    "tStartMs": 43977,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "gave us a roadmap"
+    } ]
+  }, {
+    "tStartMs": 45779,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "during a very young stage"
+    } ]
+  }, {
+    "tStartMs": 46980,
+    "dDurationMs": 1251,
+    "segs": [ {
+      "utf8": "of our company to,"
+    } ]
+  }, {
+    "tStartMs": 48231,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "to really put deadlines,"
+    } ]
+  }, {
+    "tStartMs": 49466,
+    "dDurationMs": 1651,
+    "segs": [ {
+      "utf8": "to work towards some goals"
+    } ]
+  }, {
+    "tStartMs": 51117,
+    "dDurationMs": 1685,
+    "segs": [ {
+      "utf8": "and to"
+    } ]
+  }, {
+    "tStartMs": 52802,
+    "dDurationMs": 751,
+    "segs": [ {
+      "utf8": "like flow"
+    } ]
+  }, {
+    "tStartMs": 53553,
+    "dDurationMs": 2753,
+    "segs": [ {
+      "utf8": "well as a team and with our timelines."
+    } ]
+  }, {
+    "tStartMs": 56306,
+    "dDurationMs": 1618,
+    "segs": [ {
+      "utf8": "So what this has allowed us to do"
+    } ]
+  }, {
+    "tStartMs": 57924,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "is iterate very rapidly"
+    } ]
+  }, {
+    "tStartMs": 59459,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "and kind of remove our fear of failure,"
+    } ]
+  }, {
+    "tStartMs": 62128,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "which has been super"
+    } ]
+  }, {
+    "tStartMs": 63930,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "advantageous for us"
+    } ]
+  }, {
+    "tStartMs": 64764,
+    "dDurationMs": 417,
+    "segs": [ {
+      "utf8": "being able"
+    } ]
+  }, {
+    "tStartMs": 65181,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "to test hardware"
+    } ]
+  }, {
+    "tStartMs": 66449,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "really quickly and,"
+    } ]
+  }, {
+    "tStartMs": 67584,
+    "dDurationMs": 1918,
+    "segs": [ {
+      "utf8": "you know, make the best quality products."
+    } ]
+  }, {
+    "tStartMs": 69502,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "Centennial Challenges"
+    } ]
+  }, {
+    "tStartMs": 70587,
+    "dDurationMs": 1751,
+    "segs": [ {
+      "utf8": "has been really huge for Starpath."
+    } ]
+  }, {
+    "tStartMs": 72338,
+    "dDurationMs": 1102,
+    "segs": [ {
+      "utf8": "And you know, starting out"
+    } ]
+  }, {
+    "tStartMs": 73440,
+    "dDurationMs": 1267,
+    "segs": [ {
+      "utf8": "as a very small company."
+    } ]
+  }, {
+    "tStartMs": 74707,
+    "dDurationMs": 1619,
+    "segs": [ {
+      "utf8": "These challenges set forth"
+    } ]
+  }, {
+    "tStartMs": 76326,
+    "dDurationMs": 1651,
+    "segs": [ {
+      "utf8": "by the Centennial program,"
+    } ]
+  }, {
+    "tStartMs": 77977,
+    "dDurationMs": 1719,
+    "segs": [ {
+      "utf8": "particularly for lunar mobility,"
+    } ]
+  }, {
+    "tStartMs": 79696,
+    "dDurationMs": 1551,
+    "segs": [ {
+      "utf8": "were really, really core"
+    } ]
+  }, {
+    "tStartMs": 81247,
+    "dDurationMs": 985,
+    "segs": [ {
+      "utf8": "to shaping,"
+    } ]
+  }, {
+    "tStartMs": 82232,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "the design philosophy behind the rover."
+    } ]
+  }, {
+    "tStartMs": 85068,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "The main goal is to really ground"
+    } ]
+  }, {
+    "tStartMs": 87170,
+    "dDurationMs": 3220,
+    "segs": [ {
+      "utf8": "how we move forward from this test"
+    } ]
+  }, {
+    "tStartMs": 90390,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "to our next future designs."
+    } ]
+  }, {
+    "tStartMs": 91958,
+    "dDurationMs": 1351,
+    "segs": [ {
+      "utf8": "Rover nine and ten"
+    } ]
+  }, {
+    "tStartMs": 93309,
+    "dDurationMs": 2052,
+    "segs": [ {
+      "utf8": "never went into a thermal vacuum chamber."
+    } ]
+  }, {
+    "tStartMs": 95361,
+    "dDurationMs": 1552,
+    "segs": [ {
+      "utf8": "So this is our first time"
+    } ]
+  }, {
+    "tStartMs": 96913,
+    "dDurationMs": 1985,
+    "segs": [ {
+      "utf8": "actually testing the full system"
+    } ]
+  }, {
+    "tStartMs": 98898,
+    "dDurationMs": 918,
+    "segs": [ {
+      "utf8": "at scale."
+    } ]
+  }, {
+    "tStartMs": 99816,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "And this will let us analyze"
+    } ]
+  }, {
+    "tStartMs": 101684,
+    "dDurationMs": 2653,
+    "segs": [ {
+      "utf8": "and and ground our future rover models."
+    } ]
+  }, {
+    "tStartMs": 104337,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "the first phase of the test"
+    } ]
+  }, {
+    "tStartMs": 105438,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "is really important"
+    } ]
+  }, {
+    "tStartMs": 106406,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "for us to understand"
+    } ]
+  }, {
+    "tStartMs": 107907,
+    "dDurationMs": 2253,
+    "segs": [ {
+      "utf8": "how heat flows through our rover."
+    } ]
+  }, {
+    "tStartMs": 110160,
+    "dDurationMs": 867,
+    "segs": [ {
+      "utf8": "So you've done some really,"
+    } ]
+  }, {
+    "tStartMs": 111027,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "really advanced"
+    } ]
+  }, {
+    "tStartMs": 112112,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "thermal modeling"
+    } ]
+  }, {
+    "tStartMs": 112862,
+    "dDurationMs": 1068,
+    "segs": [ {
+      "utf8": "and made some really educated"
+    } ]
+  }, {
+    "tStartMs": 113930,
+    "dDurationMs": 551,
+    "segs": [ {
+      "utf8": "guesses about"
+    } ]
+  }, {
+    "tStartMs": 114481,
+    "dDurationMs": 800,
+    "segs": [ {
+      "utf8": "how heat is going to go"
+    } ]
+  }, {
+    "tStartMs": 115281,
+    "dDurationMs": 1018,
+    "segs": [ {
+      "utf8": "from one component"
+    } ]
+  }, {
+    "tStartMs": 116299,
+    "dDurationMs": 601,
+    "segs": [ {
+      "utf8": "to another"
+    } ]
+  }, {
+    "tStartMs": 116900,
+    "dDurationMs": 1618,
+    "segs": [ {
+      "utf8": "and then eventually get rejected out"
+    } ]
+  }, {
+    "tStartMs": 118518,
+    "dDurationMs": 2286,
+    "segs": [ {
+      "utf8": "to the ambient environments."
+    } ]
+  }, {
+    "tStartMs": 120804,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "But doing this test"
+    } ]
+  }, {
+    "tStartMs": 121938,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "allows us to actually say,"
+    } ]
+  }, {
+    "tStartMs": 123173,
+    "dDurationMs": 2319,
+    "segs": [ {
+      "utf8": "hey, was our guess right? Was it wrong?"
+    } ]
+  }, {
+    "tStartMs": 125492,
+    "dDurationMs": 1351,
+    "segs": [ {
+      "utf8": "How much is it off by?"
+    } ]
+  }, {
+    "tStartMs": 126843,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "And we'll use those correlation factors"
+    } ]
+  }, {
+    "tStartMs": 128812,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "in the design of our next rover."
+    } ]
+  }, {
+    "tStartMs": 130914,
+    "dDurationMs": 1384,
+    "segs": [ {
+      "utf8": "And then the driving part"
+    } ]
+  }, {
+    "tStartMs": 132298,
+    "dDurationMs": 1085,
+    "segs": [ {
+      "utf8": "where we come off the stand"
+    } ]
+  }, {
+    "tStartMs": 133383,
+    "dDurationMs": 1685,
+    "segs": [ {
+      "utf8": "and move around and mine concrete,"
+    } ]
+  }, {
+    "tStartMs": 135068,
+    "dDurationMs": 1351,
+    "segs": [ {
+      "utf8": "that's more of a functional test."
+    } ]
+  }, {
+    "tStartMs": 136419,
+    "dDurationMs": 417,
+    "segs": [ {
+      "utf8": "It's confirmed"
+    } ]
+  }, {
+    "tStartMs": 136836,
+    "dDurationMs": 1769,
+    "segs": [ {
+      "utf8": "that the rover can traverse those slopes."
+    } ]
+  }, {
+    "tStartMs": 138605,
+    "dDurationMs": 1551,
+    "segs": [ {
+      "utf8": "It can go over those rocks."
+    } ]
+  }, {
+    "tStartMs": 140156,
+    "dDurationMs": 1785,
+    "segs": [ {
+      "utf8": "It has enough traction on the sand"
+    } ]
+  }, {
+    "tStartMs": 141941,
+    "dDurationMs": 784,
+    "segs": [ {
+      "utf8": "and it can mine that concrete."
+    } ]
+  } ]
+}

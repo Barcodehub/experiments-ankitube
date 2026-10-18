@@ -1,0 +1,529 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 3,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "(upbeat music)"
+    } ]
+  }, {
+    "tStartMs": 5542,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "- [Narrator] Aloha! Welcome\nto the Hawaiian Islands."
+    } ]
+  }, {
+    "tStartMs": 8345,
+    "dDurationMs": 3937,
+    "segs": [ {
+      "utf8": "NOAA is a dynamic agency\nwith many offices, assets,"
+    } ]
+  }, {
+    "tStartMs": 12282,
+    "dDurationMs": 3437,
+    "segs": [ {
+      "utf8": "and staff throughout the Hawaiian Islands."
+    } ]
+  }, {
+    "tStartMs": 15719,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "NOAA shares the traditions and knowledge"
+    } ]
+  }, {
+    "tStartMs": 18221,
+    "dDurationMs": 3704,
+    "segs": [ {
+      "utf8": "of our ocean connection\nand inspires stewardship."
+    } ]
+  }, {
+    "tStartMs": 21925,
+    "dDurationMs": 2903,
+    "segs": [ {
+      "utf8": "We collect upper air observations."
+    } ]
+  }, {
+    "tStartMs": 24828,
+    "dDurationMs": 3403,
+    "segs": [ {
+      "utf8": "(upbeat music)"
+    } ]
+  }, {
+    "tStartMs": 28231,
+    "dDurationMs": 2970,
+    "segs": [ {
+      "utf8": "And issue timely and\naccurate weather, water,"
+    } ]
+  }, {
+    "tStartMs": 31201,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "and climate data forecasts,"
+    } ]
+  }, {
+    "tStartMs": 33103,
+    "dDurationMs": 3603,
+    "segs": [ {
+      "utf8": "plus warnings for the\nprotection of life and property."
+    } ]
+  }, {
+    "tStartMs": 37574,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "We help communities to\nadapt and be resilient"
+    } ]
+  }, {
+    "tStartMs": 40310,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "as our coast changes,"
+    } ]
+  }, {
+    "tStartMs": 42112,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "promote safe and sustainable communities"
+    } ]
+  }, {
+    "tStartMs": 44314,
+    "dDurationMs": 1502,
+    "segs": [ {
+      "utf8": "for generations to come,"
+    } ]
+  }, {
+    "tStartMs": 46783,
+    "dDurationMs": 2503,
+    "segs": [ {
+      "utf8": "and investigate and\nprevent the adverse impacts"
+    } ]
+  }, {
+    "tStartMs": 49286,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "of marine debris."
+    } ]
+  }, {
+    "tStartMs": 50954,
+    "dDurationMs": 3036,
+    "segs": [ {
+      "utf8": "We define, maintain, and provide access"
+    } ]
+  }, {
+    "tStartMs": 53990,
+    "dDurationMs": 2236,
+    "segs": [ {
+      "utf8": "to a consistent coordinate system"
+    } ]
+  }, {
+    "tStartMs": 56226,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "to meet our nation's economic, social,"
+    } ]
+  }, {
+    "tStartMs": 58428,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "and environmental needs."
+    } ]
+  }, {
+    "tStartMs": 60263,
+    "dDurationMs": 3204,
+    "segs": [ {
+      "utf8": "NOAA Identifies, produces,\nand delivers reliable"
+    } ]
+  }, {
+    "tStartMs": 63467,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "and timely information"
+    } ]
+  }, {
+    "tStartMs": 65135,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "about climate variations,\ntrends, and impacts."
+    } ]
+  }, {
+    "tStartMs": 69139,
+    "dDurationMs": 4037,
+    "segs": [ {
+      "utf8": "We ensure ecological integrity,\nprotection, and perpetuation"
+    } ]
+  }, {
+    "tStartMs": 73176,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "of the Northwestern\nHawaiian Islands' ecosystems"
+    } ]
+  }, {
+    "tStartMs": 76213,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "and Native Hawaiian culture,"
+    } ]
+  }, {
+    "tStartMs": 78315,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "and protect the environment"
+    } ]
+  }, {
+    "tStartMs": 79816,
+    "dDurationMs": 3570,
+    "segs": [ {
+      "utf8": "by using a variety of data\ninformation and collection."
+    } ]
+  }, {
+    "tStartMs": 83386,
+    "dDurationMs": 3838,
+    "segs": [ {
+      "utf8": "NOAA is a steward of ocean\nresources and their habitat"
+    } ]
+  }, {
+    "tStartMs": 87224,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "through science and\necosystem-based management,"
+    } ]
+  }, {
+    "tStartMs": 89860,
+    "dDurationMs": 2769,
+    "segs": [ {
+      "utf8": "while enforcing laws that conserve"
+    } ]
+  }, {
+    "tStartMs": 92629,
+    "dDurationMs": 3670,
+    "segs": [ {
+      "utf8": "and protect those marine\nresources and their habitats."
+    } ]
+  }, {
+    "tStartMs": 96299,
+    "dDurationMs": 2570,
+    "segs": [ {
+      "utf8": "(upbeat music)"
+    } ]
+  }, {
+    "tStartMs": 102172,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "We protect Hawai'i humpback whales"
+    } ]
+  }, {
+    "tStartMs": 104508,
+    "dDurationMs": 2235,
+    "segs": [ {
+      "utf8": "and their habitat in Hawai'i"
+    } ]
+  }, {
+    "tStartMs": 106743,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "through education,\nresearch and conservation."
+    } ]
+  }, {
+    "tStartMs": 114084,
+    "dDurationMs": 3303,
+    "segs": [ {
+      "utf8": "Provide weather briefings\nduring the Kilauea eruption."
+    } ]
+  }, {
+    "tStartMs": 117387,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "And measure particles in the atmosphere"
+    } ]
+  }, {
+    "tStartMs": 119189,
+    "dDurationMs": 2836,
+    "segs": [ {
+      "utf8": "that affect our climate and ozone layer."
+    } ]
+  }, {
+    "tStartMs": 122025,
+    "dDurationMs": 2870,
+    "segs": [ {
+      "utf8": "We interpret the natural\nscience, culture, and history"
+    } ]
+  }, {
+    "tStartMs": 124895,
+    "dDurationMs": 2168,
+    "segs": [ {
+      "utf8": "of the Northwestern Hawaiian Islands."
+    } ]
+  }, {
+    "tStartMs": 129599,
+    "dDurationMs": 3070,
+    "segs": [ {
+      "utf8": "Talofa! Welcome to American Samoa."
+    } ]
+  }, {
+    "tStartMs": 132669,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "We work with our local\ncommunities and government"
+    } ]
+  }, {
+    "tStartMs": 135405,
+    "dDurationMs": 2202,
+    "segs": [ {
+      "utf8": "to help manage natural resources in a way"
+    } ]
+  }, {
+    "tStartMs": 137607,
+    "dDurationMs": 4038,
+    "segs": [ {
+      "utf8": "that supports Samoan cultural\ntraditions and practices."
+    } ]
+  }, {
+    "tStartMs": 141645,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "By protecting pristine coral reefs,"
+    } ]
+  }, {
+    "tStartMs": 143947,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "hydrothermal vent communities,"
+    } ]
+  }, {
+    "tStartMs": 145882,
+    "dDurationMs": 2569,
+    "segs": [ {
+      "utf8": "and rare marine archeological resources"
+    } ]
+  }, {
+    "tStartMs": 149519,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "and integrating cutting edge science"
+    } ]
+  }, {
+    "tStartMs": 151621,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "into policy and decision-making,"
+    } ]
+  }, {
+    "tStartMs": 153924,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "to conserve and manage domestic"
+    } ]
+  }, {
+    "tStartMs": 155859,
+    "dDurationMs": 3370,
+    "segs": [ {
+      "utf8": "and international marine\nresources and their habitats,"
+    } ]
+  }, {
+    "tStartMs": 159229,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "While providing valuable forecasts"
+    } ]
+  }, {
+    "tStartMs": 161264,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "and warnings in English and Samoan"
+    } ]
+  }, {
+    "tStartMs": 164267,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "and taking the pulse of the planet."
+    } ]
+  }, {
+    "tStartMs": 168538,
+    "dDurationMs": 934,
+    "segs": [ {
+      "utf8": "Hafa adai!"
+    } ]
+  }, {
+    "tStartMs": 169472,
+    "dDurationMs": 1469,
+    "segs": [ {
+      "utf8": "Welcome to Guam,"
+    } ]
+  }, {
+    "tStartMs": 171708,
+    "dDurationMs": 2035,
+    "segs": [ {
+      "utf8": "known for its white sand beaches"
+    } ]
+  }, {
+    "tStartMs": 173743,
+    "dDurationMs": 2303,
+    "segs": [ {
+      "utf8": "and crystal clear ocean water."
+    } ]
+  }, {
+    "tStartMs": 176046,
+    "dDurationMs": 4905,
+    "segs": [ {
+      "utf8": "We operate 24/7 providing\nmulti-international support,"
+    } ]
+  }, {
+    "tStartMs": 180951,
+    "dDurationMs": 3236,
+    "segs": [ {
+      "utf8": "weather, and water, and\nclimate data to the public"
+    } ]
+  }, {
+    "tStartMs": 184187,
+    "dDurationMs": 3270,
+    "segs": [ {
+      "utf8": "and support the management\nof coastal ecosystems"
+    } ]
+  }, {
+    "tStartMs": 187457,
+    "dDurationMs": 3237,
+    "segs": [ {
+      "utf8": "through partnerships with\nlocal and federal stakeholders."
+    } ]
+  }, {
+    "tStartMs": 190694,
+    "dDurationMs": 3637,
+    "segs": [ {
+      "utf8": "NOAA works to reduce\nland-based sources of pollution"
+    } ]
+  }, {
+    "tStartMs": 194331,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "and restore viable coral populations"
+    } ]
+  }, {
+    "tStartMs": 196600,
+    "dDurationMs": 2535,
+    "segs": [ {
+      "utf8": "using a multidisciplinary approach."
+    } ]
+  }, {
+    "tStartMs": 200170,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "Hafa adai and Tirow!"
+    } ]
+  }, {
+    "tStartMs": 201705,
+    "dDurationMs": 3536,
+    "segs": [ {
+      "utf8": "Welcome to the Commonwealth of\nthe Northern Mariana Islands,"
+    } ]
+  }, {
+    "tStartMs": 205241,
+    "dDurationMs": 3337,
+    "segs": [ {
+      "utf8": "where the land and the sea\nare the pride of culture."
+    } ]
+  }, {
+    "tStartMs": 208578,
+    "dDurationMs": 2603,
+    "segs": [ {
+      "utf8": "We protect, restore,\nand promote stewardship"
+    } ]
+  }, {
+    "tStartMs": 211181,
+    "dDurationMs": 2102,
+    "segs": [ {
+      "utf8": "of marine and coastal habitats"
+    } ]
+  }, {
+    "tStartMs": 213283,
+    "dDurationMs": 3203,
+    "segs": [ {
+      "utf8": "that supports fisheries\nand protected resources"
+    } ]
+  }, {
+    "tStartMs": 216486,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "and work collaboratively with partners"
+    } ]
+  }, {
+    "tStartMs": 218822,
+    "dDurationMs": 4004,
+    "segs": [ {
+      "utf8": "to target local issues that\nimpact coral reef ecosystems."
+    } ]
+  }, {
+    "tStartMs": 223960,
+    "dDurationMs": 2536,
+    "segs": [ {
+      "utf8": "Ran annim, Kaselehlie,"
+    } ]
+  }, {
+    "tStartMs": 226496,
+    "dDurationMs": 2669,
+    "segs": [ {
+      "utf8": "Alii, Mogethin, Iọkwe!"
+    } ]
+  }, {
+    "tStartMs": 229165,
+    "dDurationMs": 2937,
+    "segs": [ {
+      "utf8": "Welcome to the Federated\nStates of Micronesia,"
+    } ]
+  }, {
+    "tStartMs": 232102,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "the Republic of the Marshall Islands,"
+    } ]
+  }, {
+    "tStartMs": 234371,
+    "dDurationMs": 4537,
+    "segs": [ {
+      "utf8": "and Palau, known for\nrich marine ecosystems."
+    } ]
+  }, {
+    "tStartMs": 238908,
+    "dDurationMs": 3037,
+    "segs": [ {
+      "utf8": "We provide surface and\nupper air observations"
+    } ]
+  }, {
+    "tStartMs": 241945,
+    "dDurationMs": 2736,
+    "segs": [ {
+      "utf8": "and local forecasts and warnings."
+    } ]
+  }, {
+    "tStartMs": 244681,
+    "dDurationMs": 2703,
+    "segs": [ {
+      "utf8": "Together, we all support NOAA's mission"
+    } ]
+  }, {
+    "tStartMs": 247384,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "of Science, Service, and Stewardship"
+    } ]
+  }, {
+    "tStartMs": 250020,
+    "dDurationMs": 2502,
+    "segs": [ {
+      "utf8": "in the Pacific Islands Region."
+    } ]
+  }, {
+    "tStartMs": 253123,
+    "dDurationMs": 2602,
+    "segs": [ {
+      "utf8": "(upbeat music)"
+    } ]
+  } ]
+}

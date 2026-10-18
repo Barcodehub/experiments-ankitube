@@ -1,0 +1,631 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 5166,
+    "dDurationMs": 750,
+    "segs": [ {
+      "utf8": "Welcome to the"
+    } ]
+  }, {
+    "tStartMs": 5916,
+    "dDurationMs": 3375,
+    "segs": [ {
+      "utf8": "Build America, Buy America\nAct training series!"
+    } ]
+  }, {
+    "tStartMs": 9791,
+    "dDurationMs": 2708,
+    "segs": [ {
+      "utf8": "Before continuing,\nplease watch the other videos"
+    } ]
+  }, {
+    "tStartMs": 12499,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "within our training series on FEMA’s\nBuy America website to ensure"
+    } ]
+  }, {
+    "tStartMs": 16166,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "you have the essential background\nknowledge."
+    } ]
+  }, {
+    "tStartMs": 17999,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "As the other training videos\nexplained, the Build America, Buy America"
+    } ]
+  }, {
+    "tStartMs": 22499,
+    "dDurationMs": 3292,
+    "segs": [ {
+      "utf8": "Act mandates that federal agencies,\nincluding FEMA,"
+    } ]
+  }, {
+    "tStartMs": 25833,
+    "dDurationMs": 5250,
+    "segs": [ {
+      "utf8": "must ensure that all of the iron, steel,\nmanufactured products, and construction"
+    } ]
+  }, {
+    "tStartMs": 31083,
+    "dDurationMs": 4125,
+    "segs": [ {
+      "utf8": "materials incorporated into the project\nfunded by federal financial assistance"
+    } ]
+  }, {
+    "tStartMs": 35208,
+    "dDurationMs": 1666,
+    "segs": [ {
+      "utf8": "are made in the U.S."
+    } ]
+  }, {
+    "tStartMs": 36874,
+    "dDurationMs": 834,
+    "segs": [ {
+      "utf8": "But remember,"
+    } ]
+  }, {
+    "tStartMs": 37708,
+    "dDurationMs": 3791,
+    "segs": [ {
+      "utf8": "FEMA’s disaster financial assistance\ngrants are exempt from these requirements."
+    } ]
+  }, {
+    "tStartMs": 41916,
+    "dDurationMs": 3958,
+    "segs": [ {
+      "utf8": "The Build America, Buy America\nAct applies to articles,"
+    } ]
+  }, {
+    "tStartMs": 45916,
+    "dDurationMs": 4125,
+    "segs": [ {
+      "utf8": "materials and supplies\nthat are consumed in, incorporated into,"
+    } ]
+  }, {
+    "tStartMs": 50083,
+    "dDurationMs": 2375,
+    "segs": [ {
+      "utf8": "or affixed to an infrastructure project."
+    } ]
+  }, {
+    "tStartMs": 52458,
+    "dDurationMs": 5125,
+    "segs": [ {
+      "utf8": "It does not apply to: Section 70917(c) materials,"
+    } ]
+  }, {
+    "tStartMs": 57666,
+    "dDurationMs": 3708,
+    "segs": [ {
+      "utf8": "tools, equipment and supplies\nthat are brought to the construction site"
+    } ]
+  }, {
+    "tStartMs": 61374,
+    "dDurationMs": 4625,
+    "segs": [ {
+      "utf8": "and removed at or before the completion\nof the project, or building equipment"
+    } ]
+  }, {
+    "tStartMs": 65999,
+    "dDurationMs": 4834,
+    "segs": [ {
+      "utf8": "and furnishings, such as movable\nchairs, desks or portable equipment."
+    } ]
+  }, {
+    "tStartMs": 70999,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "The classification of a product\nis determined based on its status"
+    } ]
+  }, {
+    "tStartMs": 74666,
+    "dDurationMs": 4333,
+    "segs": [ {
+      "utf8": "at the time it is brought to the project\nsite for incorporation into the project."
+    } ]
+  }, {
+    "tStartMs": 79124,
+    "dDurationMs": 1375,
+    "segs": [ {
+      "utf8": "This video will discuss"
+    } ]
+  }, {
+    "tStartMs": 80499,
+    "dDurationMs": 4375,
+    "segs": [ {
+      "utf8": "the categories of products\nsubject to the Build America, Buy America Act,"
+    } ]
+  }, {
+    "tStartMs": 84874,
+    "dDurationMs": 4875,
+    "segs": [ {
+      "utf8": "as well as one category that is exempt by\n law by answering these five questions:"
+    } ]
+  }, {
+    "tStartMs": 89749,
+    "dDurationMs": 4334,
+    "segs": [ {
+      "utf8": "What is considered an iron or steel product \nunder the Build America, Buy America Act?"
+    } ]
+  }, {
+    "tStartMs": 94916,
+    "dDurationMs": 4292,
+    "segs": [ {
+      "utf8": "What is considered a construction material \nunder the Build America, Buy America Act?"
+    } ]
+  }, {
+    "tStartMs": 99416,
+    "dDurationMs": 5083,
+    "segs": [ {
+      "utf8": "What is considered a manufactured product\nunder the Build America, Buy America Act?"
+    } ]
+  }, {
+    "tStartMs": 104541,
+    "dDurationMs": 3958,
+    "segs": [ {
+      "utf8": "What are Section 70917(c) materials?"
+    } ]
+  }, {
+    "tStartMs": 108541,
+    "dDurationMs": 4375,
+    "segs": [ {
+      "utf8": "Where can you find more information\nabout the Build America, Buy America Act?"
+    } ]
+  }, {
+    "tStartMs": 113083,
+    "dDurationMs": 3750,
+    "segs": [ {
+      "utf8": "Now, let’s discuss the first question:"
+    } ]
+  }, {
+    "tStartMs": 116833,
+    "dDurationMs": 4041,
+    "segs": [ {
+      "utf8": "What is considered an iron or steel product\nunder the Build America, Buy America Act?"
+    } ]
+  }, {
+    "tStartMs": 120916,
+    "dDurationMs": 4583,
+    "segs": [ {
+      "utf8": "Iron or steel products are articles,\nmaterials or supplies that consist wholly"
+    } ]
+  }, {
+    "tStartMs": 125499,
+    "dDurationMs": 3959,
+    "segs": [ {
+      "utf8": "or predominantly of iron or steel\nor a combination of both."
+    } ]
+  }, {
+    "tStartMs": 129499,
+    "dDurationMs": 3625,
+    "segs": [ {
+      "utf8": "A product is considered iron or steel\nif the cost of the iron and steel"
+    } ]
+  }, {
+    "tStartMs": 133124,
+    "dDurationMs": 4084,
+    "segs": [ {
+      "utf8": "content exceeds 50% of the total\ncost of all its components."
+    } ]
+  }, {
+    "tStartMs": 137208,
+    "dDurationMs": 3416,
+    "segs": [ {
+      "utf8": "For an iron and steel product\nto be compliant with the Build America,"
+    } ]
+  }, {
+    "tStartMs": 140624,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Buy America Act,\nall the iron and steel used in the product"
+    } ]
+  }, {
+    "tStartMs": 144624,
+    "dDurationMs": 1459,
+    "segs": [ {
+      "utf8": "must have been made in the U.S.,"
+    } ]
+  }, {
+    "tStartMs": 146083,
+    "dDurationMs": 3291,
+    "segs": [ {
+      "utf8": "and the final product\nmust have been manufactured in the U.S.,"
+    } ]
+  }, {
+    "tStartMs": 149374,
+    "dDurationMs": 3584,
+    "segs": [ {
+      "utf8": "from the initial melting stage\nthrough the application of coatings."
+    } ]
+  }, {
+    "tStartMs": 153999,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "A few examples of iron and \nsteel products include:"
+    } ]
+  }, {
+    "tStartMs": 156958,
+    "dDurationMs": 958,
+    "segs": [ {
+      "utf8": "lamp posts,"
+    } ]
+  }, {
+    "tStartMs": 157999,
+    "dDurationMs": 2959,
+    "segs": [ {
+      "utf8": "wire rods, manhole covers, pipes,"
+    } ]
+  }, {
+    "tStartMs": 160958,
+    "dDurationMs": 3458,
+    "segs": [ {
+      "utf8": "and structural steel, such as rebar."
+    } ]
+  }, {
+    "tStartMs": 164416,
+    "dDurationMs": 1833,
+    "segs": [ {
+      "utf8": "Now, let’s move on to the next question:"
+    } ]
+  }, {
+    "tStartMs": 166791,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "What is considered a construction material\nunder the Build America, Buy America Act?"
+    } ]
+  }, {
+    "tStartMs": 172374,
+    "dDurationMs": 2792,
+    "segs": [ {
+      "utf8": "Construction materials are articles, materials"
+    } ]
+  }, {
+    "tStartMs": 175166,
+    "dDurationMs": 4167,
+    "segs": [ {
+      "utf8": "or supplies that consist of one\nor more of the following items:"
+    } ]
+  }, {
+    "tStartMs": 179874,
+    "dDurationMs": 5209,
+    "segs": [ {
+      "utf8": "non-ferrous metals, plastic and \npolymer-based products, glass, fiber optic cable,"
+    } ]
+  }, {
+    "tStartMs": 185083,
+    "dDurationMs": 4125,
+    "segs": [ {
+      "utf8": "optical fiber, lumber,\nengineered wood, and drywall."
+    } ]
+  }, {
+    "tStartMs": 190083,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "Minor additions of articles,\nmaterials, supplies or binding agents"
+    } ]
+  }, {
+    "tStartMs": 194833,
+    "dDurationMs": 3958,
+    "segs": [ {
+      "utf8": "do not change the categorization of\nthe product as a construction material."
+    } ]
+  }, {
+    "tStartMs": 198874,
+    "dDurationMs": 2584,
+    "segs": [ {
+      "utf8": "Now, let’s move on to the third question:"
+    } ]
+  }, {
+    "tStartMs": 201458,
+    "dDurationMs": 4916,
+    "segs": [ {
+      "utf8": "What is considered a manufactured product\nunder the Build America, Buy America Act?"
+    } ]
+  }, {
+    "tStartMs": 206416,
+    "dDurationMs": 3958,
+    "segs": [ {
+      "utf8": "Manufactured products are articles,\nmaterials or supplies"
+    } ]
+  }, {
+    "tStartMs": 210374,
+    "dDurationMs": 3792,
+    "segs": [ {
+      "utf8": "that have been: processed\ninto a specific form and shape, or"
+    } ]
+  }, {
+    "tStartMs": 214207,
+    "dDurationMs": 1625,
+    "segs": [ {
+      "utf8": "combined with other articles,"
+    } ]
+  }, {
+    "tStartMs": 215832,
+    "dDurationMs": 3875,
+    "segs": [ {
+      "utf8": "materials, or supplies to create a product\nwith different properties"
+    } ]
+  }, {
+    "tStartMs": 219707,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "than the individual articles, materials\nor supplies."
+    } ]
+  }, {
+    "tStartMs": 223624,
+    "dDurationMs": 3375,
+    "segs": [ {
+      "utf8": "If a product is not primarily\niron or steel, or not"
+    } ]
+  }, {
+    "tStartMs": 226999,
+    "dDurationMs": 3917,
+    "segs": [ {
+      "utf8": "listed as a construction material,\nit is likely a manufactured product."
+    } ]
+  }, {
+    "tStartMs": 230957,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Examples of manufactured products include,\nbut are not limited to: pumps,"
+    } ]
+  }, {
+    "tStartMs": 235457,
+    "dDurationMs": 3375,
+    "segs": [ {
+      "utf8": "motors, transformers, generators,"
+    } ]
+  }, {
+    "tStartMs": 238832,
+    "dDurationMs": 3625,
+    "segs": [ {
+      "utf8": "and\ninstrumentation or control systems."
+    } ]
+  }, {
+    "tStartMs": 242457,
+    "dDurationMs": 3084,
+    "segs": [ {
+      "utf8": "All manufactured products\npurchased with FEMA"
+    } ]
+  }, {
+    "tStartMs": 245541,
+    "dDurationMs": 3125,
+    "segs": [ {
+      "utf8": "financial assistance\nmust be produced in the U.S."
+    } ]
+  }, {
+    "tStartMs": 249082,
+    "dDurationMs": 3334,
+    "segs": [ {
+      "utf8": "This means that the cost of the components\nof the manufactured product"
+    } ]
+  }, {
+    "tStartMs": 252416,
+    "dDurationMs": 3875,
+    "segs": [ {
+      "utf8": "that are mined, produced\nor manufactured in the U.S. must be greater"
+    } ]
+  }, {
+    "tStartMs": 256291,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "than 55% of the total cost of all\ncomponents that make up the product."
+    } ]
+  }, {
+    "tStartMs": 261082,
+    "dDurationMs": 4667,
+    "segs": [ {
+      "utf8": "An example is a manufacturing facility\nin Missouri that produces generators."
+    } ]
+  }, {
+    "tStartMs": 265791,
+    "dDurationMs": 4416,
+    "segs": [ {
+      "utf8": "The materials the facility uses account\nfor 35% of the generator’s cost."
+    } ]
+  }, {
+    "tStartMs": 270249,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Another 30% of the cost is incurred\nat a facility in Oregon, and the remaining"
+    } ]
+  }, {
+    "tStartMs": 274749,
+    "dDurationMs": 3667,
+    "segs": [ {
+      "utf8": "cost of the components is sourced\nfrom a facility outside the U.S."
+    } ]
+  }, {
+    "tStartMs": 278416,
+    "dDurationMs": 3083,
+    "segs": [ {
+      "utf8": "Once complete,\nthe generator is considered"
+    } ]
+  }, {
+    "tStartMs": 281499,
+    "dDurationMs": 3042,
+    "segs": [ {
+      "utf8": "a Build America, Buy\nAmerica Act-compliant product"
+    } ]
+  }, {
+    "tStartMs": 284541,
+    "dDurationMs": 4166,
+    "segs": [ {
+      "utf8": "because, in this specific case,\nthe product was manufactured in the U.S."
+    } ]
+  }, {
+    "tStartMs": 288707,
+    "dDurationMs": 4375,
+    "segs": [ {
+      "utf8": "and over 55% of the cost of the components\nwere produced in the U.S."
+    } ]
+  }, {
+    "tStartMs": 293624,
+    "dDurationMs": 2750,
+    "segs": [ {
+      "utf8": "Next, we will discuss the\nfourth question:"
+    } ]
+  }, {
+    "tStartMs": 296541,
+    "dDurationMs": 3625,
+    "segs": [ {
+      "utf8": "What are Section 70917(c) materials?"
+    } ]
+  }, {
+    "tStartMs": 300374,
+    "dDurationMs": 5500,
+    "segs": [ {
+      "utf8": "Section 70917(c) materials, named \nafter the corresponding section"
+    } ]
+  }, {
+    "tStartMs": 305874,
+    "dDurationMs": 3792,
+    "segs": [ {
+      "utf8": "of the Build America, Buy America Act,\nrefer to a list of items,"
+    } ]
+  }, {
+    "tStartMs": 309666,
+    "dDurationMs": 4250,
+    "segs": [ {
+      "utf8": "which are specifically exempt by law\nfrom the domestic preference requirements."
+    } ]
+  }, {
+    "tStartMs": 313957,
+    "dDurationMs": 4625,
+    "segs": [ {
+      "utf8": "These include: cement\nand cementitious materials; aggregates"
+    } ]
+  }, {
+    "tStartMs": 318582,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "such as stone, sand or gravel; and\naggregate binding agents or additives."
+    } ]
+  }, {
+    "tStartMs": 324791,
+    "dDurationMs": 4500,
+    "segs": [ {
+      "utf8": "Now, let’s discuss the last question:"
+    } ]
+  }, {
+    "tStartMs": 329291,
+    "dDurationMs": 3291,
+    "segs": [ {
+      "utf8": "Where can I find more information on the \nBuild America, Buy America Act?"
+    } ]
+  }, {
+    "tStartMs": 332874,
+    "dDurationMs": 1500,
+    "segs": [ {
+      "utf8": "You can find information on FEMA’s"
+    } ]
+  }, {
+    "tStartMs": 334374,
+    "dDurationMs": 4042,
+    "segs": [ {
+      "utf8": "implementation of the Build America,\nBuy America Act on our website,"
+    } ]
+  }, {
+    "tStartMs": 338416,
+    "dDurationMs": 4291,
+    "segs": [ {
+      "utf8": "located under the “Buy America”\npreference tab on FEMA.gov."
+    } ]
+  }, {
+    "tStartMs": 342749,
+    "dDurationMs": 3833,
+    "segs": [ {
+      "utf8": "This website includes a list of all FEMA\ngrant programs subject to"
+    } ]
+  }, {
+    "tStartMs": 346582,
+    "dDurationMs": 3709,
+    "segs": [ {
+      "utf8": "and not subject to the Build America, Buy\nAmerica Act."
+    } ]
+  }, {
+    "tStartMs": 350791,
+    "dDurationMs": 2833,
+    "segs": [ {
+      "utf8": "You can also find more program\ndefinitions,"
+    } ]
+  }, {
+    "tStartMs": 353624,
+    "dDurationMs": 3042,
+    "segs": [ {
+      "utf8": "flyers and a helpful decision roadmap."
+    } ]
+  }, {
+    "tStartMs": 357124,
+    "dDurationMs": 1542,
+    "segs": [ {
+      "utf8": "The Code of Federal Regulations"
+    } ]
+  }, {
+    "tStartMs": 358666,
+    "dDurationMs": 4125,
+    "segs": [ {
+      "utf8": "website provides more information\non the Build America, Buy America Act "
+    } ]
+  }, {
+    "tStartMs": 362791,
+    "dDurationMs": 3541,
+    "segs": [ {
+      "utf8": "policy under 2 C.F.R. Part 184."
+    } ]
+  }, {
+    "tStartMs": 366332,
+    "dDurationMs": 1834,
+    "segs": [ {
+      "utf8": "Thank you for watching this video"
+    } ]
+  }, {
+    "tStartMs": 368166,
+    "dDurationMs": 4291,
+    "segs": [ {
+      "utf8": "on the Build America, Buy\nAmerica Act-Categories of Products."
+    } ]
+  }, {
+    "tStartMs": 372499,
+    "dDurationMs": 1667,
+    "segs": [ {
+      "utf8": "To continue learning,"
+    } ]
+  }, {
+    "tStartMs": 374166,
+    "dDurationMs": 3041,
+    "segs": [ {
+      "utf8": "be sure to check out the other videos\nin this training series."
+    } ]
+  }, {
+    "tStartMs": 377749,
+    "dDurationMs": 2542,
+    "segs": [ {
+      "utf8": "For more information, please visit FEMA’s"
+    } ]
+  }, {
+    "tStartMs": 380291,
+    "dDurationMs": 4750,
+    "segs": [ {
+      "utf8": "Buy America\nwebsite on FEMA.gov or contact us at:"
+    } ]
+  }, {
+    "tStartMs": 385332,
+    "dDurationMs": 6375,
+    "segs": [ {
+      "utf8": "FEMA-Grants-BuyAmerica@fema.dhs.gov"
+    } ]
+  } ]
+}

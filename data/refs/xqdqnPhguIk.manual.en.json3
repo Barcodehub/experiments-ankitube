@@ -1,0 +1,271 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 1680,
+    "dDurationMs": 5120,
+    "segs": [ {
+      "utf8": "Today we are celebrating a major milestone in \nthe life of the International Space Station."
+    } ]
+  }, {
+    "tStartMs": 6800,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "25 years ago, on March 19th, 2001, the team at \nthe Payload Operations Integration Center at the  "
+    } ]
+  }, {
+    "tStartMs": 12400,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "Marshall Space Flight Center in Huntsville, \nAlabama, began 24/7 payload operations."
+    } ]
+  }, {
+    "tStartMs": 17600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "This was the beginning of a partnership \nbetween the ground and the crew that has  "
+    } ]
+  }, {
+    "tStartMs": 21600,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "enabled more than 4,000 different scientific \ninvestigations over the course of 25 years.  "
+    } ]
+  }, {
+    "tStartMs": 26800,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "Those investigations have resulted in over \n4,400 papers published in scientific journals."
+    } ]
+  }, {
+    "tStartMs": 33760,
+    "dDurationMs": 5280,
+    "segs": [ {
+      "utf8": "It has taken incredible coordination both \non Earth and in orbit to make this possible,  "
+    } ]
+  }, {
+    "tStartMs": 39040,
+    "dDurationMs": 5600,
+    "segs": [ {
+      "utf8": "and now is the perfect time to highlight \nsome key milestones along the way."
+    } ]
+  }, {
+    "tStartMs": 44640,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "More than 27,000 shifts have been operated by over  "
+    } ]
+  }, {
+    "tStartMs": 48400,
+    "dDurationMs": 5200,
+    "segs": [ {
+      "utf8": "400 certified flight controllers to \nkeep operations going continuously."
+    } ]
+  }, {
+    "tStartMs": 53600,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Hundreds of ops experts have authored \nthousands of procedures and planning  "
+    } ]
+  }, {
+    "tStartMs": 57600,
+    "dDurationMs": 7120,
+    "segs": [ {
+      "utf8": "products for an expansive community of payload \ndevelopers and scientists around the world."
+    } ]
+  }, {
+    "tStartMs": 64720,
+    "dDurationMs": 6960,
+    "segs": [ {
+      "utf8": "Payload facilities on orbit have been powered on \nfor a collective total of over 2.6 million hours,  "
+    } ]
+  }, {
+    "tStartMs": 71680,
+    "dDurationMs": 4400,
+    "segs": [ {
+      "utf8": "providing essential resources for \na wide variety of experiments."
+    } ]
+  }, {
+    "tStartMs": 76080,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "In 2019 during Expedition 61, a time I \npersonally remember very well, we set  "
+    } ]
+  }, {
+    "tStartMs": 82480,
+    "dDurationMs": 9840,
+    "segs": [ {
+      "utf8": "the record for most science hours performed \nby the crew in a single week at 153 hours."
+    } ]
+  }, {
+    "tStartMs": 92320,
+    "dDurationMs": 9120,
+    "segs": [ {
+      "utf8": "The crew has performed a total of over 43,000 \nhours of NASA, ESA, JAXA, and CSA science ops. The  "
+    } ]
+  }, {
+    "tStartMs": 101440,
+    "dDurationMs": 7520,
+    "segs": [ {
+      "utf8": "Alpha Magnetic Spectrometer has collected over 260 \nbillion cosmic rays in the search for dark matter."
+    } ]
+  }, {
+    "tStartMs": 108960,
+    "dDurationMs": 4720,
+    "segs": [ {
+      "utf8": "Cold Atom Lab achieved temperatures \ncolder than space, reaching hundreds  "
+    } ]
+  }, {
+    "tStartMs": 113680,
+    "dDurationMs": 5840,
+    "segs": [ {
+      "utf8": "of nano Kelvin - mere fractions \nof a degree above absolute zero."
+    } ]
+  }, {
+    "tStartMs": 119520,
+    "dDurationMs": 3600,
+    "segs": [ {
+      "utf8": "Over a million students have \nparticipated in ham radio contacts,  "
+    } ]
+  }, {
+    "tStartMs": 123120,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "inspiring the next generation \nof scientists and explorers."
+    } ]
+  }, {
+    "tStartMs": 127120,
+    "dDurationMs": 3440,
+    "segs": [ {
+      "utf8": "Astronauts have grown more than \n50 species of plants on Station,  "
+    } ]
+  }, {
+    "tStartMs": 130560,
+    "dDurationMs": 6000,
+    "segs": [ {
+      "utf8": "including tomatoes, bok choi, romaine \nlettuce, and chili peppers - delicious!"
+    } ]
+  }, {
+    "tStartMs": 136560,
+    "dDurationMs": 4240,
+    "segs": [ {
+      "utf8": "I'll never forget how fresh that mizuna \nlettuce tasted and how excited I was to  "
+    } ]
+  }, {
+    "tStartMs": 140800,
+    "dDurationMs": 5520,
+    "segs": [ {
+      "utf8": "have a fresh space salad for the \nfirst time during Expedition 61."
+    } ]
+  }, {
+    "tStartMs": 146320,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "The Space Acceleration Measurement \nSystem, SAMS 2, has been operating  "
+    } ]
+  }, {
+    "tStartMs": 150800,
+    "dDurationMs": 5360,
+    "segs": [ {
+      "utf8": "since Increment 2 and has collected nearly \n1 million hours of acceleration data."
+    } ]
+  }, {
+    "tStartMs": 157200,
+    "dDurationMs": 5920,
+    "segs": [ {
+      "utf8": "MSG has supported 72 different payloads \nwith nearly 100,000 operational hours,  "
+    } ]
+  }, {
+    "tStartMs": 163120,
+    "dDurationMs": 3280,
+    "segs": [ {
+      "utf8": "and it was built and specked for only 10,000."
+    } ]
+  }, {
+    "tStartMs": 166400,
+    "dDurationMs": 3840,
+    "segs": [ {
+      "utf8": "The NASA Rodent research program, \nanother one close to my heart,  "
+    } ]
+  }, {
+    "tStartMs": 170240,
+    "dDurationMs": 6400,
+    "segs": [ {
+      "utf8": "conducted 21 successful science missions over \na period of 11 years. Scientific objectives  "
+    } ]
+  }, {
+    "tStartMs": 176640,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "included efforts to improve health outcomes \non Earth and inform basic physiological  "
+    } ]
+  }, {
+    "tStartMs": 181120,
+    "dDurationMs": 5760,
+    "segs": [ {
+      "utf8": "changes which may be applied to astronaut \nhealth during future exploration missions."
+    } ]
+  }, {
+    "tStartMs": 186880,
+    "dDurationMs": 4320,
+    "segs": [ {
+      "utf8": "All of this dedication and hard \nwork has led to breakthroughs in  "
+    } ]
+  }, {
+    "tStartMs": 191200,
+    "dDurationMs": 7200,
+    "segs": [ {
+      "utf8": "fields as diverse as 3D bio-printing, laser \ncommunications, pharmaceuticals, fiber optics,  "
+    } ]
+  }, {
+    "tStartMs": 198400,
+    "dDurationMs": 5440,
+    "segs": [ {
+      "utf8": "and crew health , which all foster the \ncommercial economy in low Earth orbit."
+    } ]
+  }, {
+    "tStartMs": 204480,
+    "dDurationMs": 3760,
+    "segs": [ {
+      "utf8": "We want to send our deepest thanks to the \nteam in Huntsville - a spot we have passed  "
+    } ]
+  }, {
+    "tStartMs": 208240,
+    "dDurationMs": 4080,
+    "segs": [ {
+      "utf8": "overhead at least 40,000 times now - \nfor their incredible partnership in  "
+    } ]
+  }, {
+    "tStartMs": 212320,
+    "dDurationMs": 3520,
+    "segs": [ {
+      "utf8": "operating this orbiting laboratory. \nWe’re looking forward to many more  "
+    } ]
+  }, {
+    "tStartMs": 215840,
+    "dDurationMs": 4480,
+    "segs": [ {
+      "utf8": "milestones as we prepare for missions \nto the Moon and then onward to Mars,  "
+    } ]
+  }, {
+    "tStartMs": 220320,
+    "dDurationMs": 7040,
+    "segs": [ {
+      "utf8": "pushing out the boundaries of human exploration \nand our understanding of the universe."
+    } ]
+  }, {
+    "tStartMs": 227360,
+    "dDurationMs": 4000,
+    "segs": [ {
+      "utf8": "Thank you Huntsville!"
+    } ]
+  } ]
+}

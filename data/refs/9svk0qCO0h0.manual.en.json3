@@ -1,0 +1,685 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  } ],
+  "wpWinPositions": [ {
+  
+  } ],
+  "events": [ {
+    "tStartMs": 233,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "Smoke is not a monolithic thing."
+    } ]
+  }, {
+    "tStartMs": 2202,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "Smoke is a mixture of gases,"
+    } ]
+  }, {
+    "tStartMs": 4070,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "liquids, and primarily particles,"
+    } ]
+  }, {
+    "tStartMs": 6039,
+    "dDurationMs": 2469,
+    "segs": [ {
+      "utf8": "which are also known as aerosols."
+    } ]
+  }, {
+    "tStartMs": 8508,
+    "dDurationMs": 2269,
+    "segs": [ {
+      "utf8": "PACE is gathering data on these aerosols"
+    } ]
+  }, {
+    "tStartMs": 10777,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "so that we can get a better picture"
+    } ]
+  }, {
+    "tStartMs": 12512,
+    "dDurationMs": 1602,
+    "segs": [ {
+      "utf8": "of how smoke interacts"
+    } ]
+  }, {
+    "tStartMs": 14114,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "with the atmosphere,"
+    } ]
+  }, {
+    "tStartMs": 15181,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "and all kinds of far-reaching effects."
+    } ]
+  }, {
+    "tStartMs": 17984,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "What a fire emits"
+    } ]
+  }, {
+    "tStartMs": 19119,
+    "dDurationMs": 1801,
+    "segs": [ {
+      "utf8": "is highly variable,"
+    } ]
+  }, {
+    "tStartMs": 20920,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "and it can depend"
+    } ]
+  }, {
+    "tStartMs": 21821,
+    "dDurationMs": 1235,
+    "segs": [ {
+      "utf8": "on the number of factors"
+    } ]
+  }, {
+    "tStartMs": 23056,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "such as fuel, moisture,"
+    } ]
+  }, {
+    "tStartMs": 25358,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "and the efficiency of the combustion."
+    } ]
+  }, {
+    "tStartMs": 28661,
+    "dDurationMs": 1402,
+    "segs": [ {
+      "utf8": "An efficiently burning fire"
+    } ]
+  }, {
+    "tStartMs": 30063,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "can have dark-colored smoke,"
+    } ]
+  }, {
+    "tStartMs": 31431,
+    "dDurationMs": 1101,
+    "segs": [ {
+      "utf8": "releasing a lot of carbon"
+    } ]
+  }, {
+    "tStartMs": 32532,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "monoxide and carbon dioxide."
+    } ]
+  }, {
+    "tStartMs": 36469,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "A less efficient burning fire"
+    } ]
+  }, {
+    "tStartMs": 38371,
+    "dDurationMs": 2136,
+    "segs": [ {
+      "utf8": "can have different colored smoke,"
+    } ]
+  }, {
+    "tStartMs": 40507,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "a lighter-colored smoke,"
+    } ]
+  }, {
+    "tStartMs": 41741,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "and in addition to the carbon"
+    } ]
+  }, {
+    "tStartMs": 43710,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "monoxide and carbon dioxide,"
+    } ]
+  }, {
+    "tStartMs": 45478,
+    "dDurationMs": 801,
+    "segs": [ {
+      "utf8": "also releases"
+    } ]
+  }, {
+    "tStartMs": 46279,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "a number of other chemical compounds"
+    } ]
+  }, {
+    "tStartMs": 47947,
+    "dDurationMs": 1569,
+    "segs": [ {
+      "utf8": "into the atmosphere."
+    } ]
+  }, {
+    "tStartMs": 49516,
+    "dDurationMs": 1201,
+    "segs": [ {
+      "utf8": "Soot, or black"
+    } ]
+  }, {
+    "tStartMs": 50717,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "carbon, is a result of efficient burning,"
+    } ]
+  }, {
+    "tStartMs": 53219,
+    "dDurationMs": 3470,
+    "segs": [ {
+      "utf8": "and soot consists of chains of elemental carbon,"
+    } ]
+  }, {
+    "tStartMs": 56723,
+    "dDurationMs": 1134,
+    "segs": [ {
+      "utf8": "sort of like graphite."
+    } ]
+  }, {
+    "tStartMs": 57857,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "Because they’re dark,"
+    } ]
+  }, {
+    "tStartMs": 58858,
+    "dDurationMs": 768,
+    "segs": [ {
+      "utf8": "soot particles"
+    } ]
+  }, {
+    "tStartMs": 59626,
+    "dDurationMs": 1935,
+    "segs": [ {
+      "utf8": "absorb energy from the Sun"
+    } ]
+  }, {
+    "tStartMs": 61561,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "and warm up the air"
+    } ]
+  }, {
+    "tStartMs": 62862,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "surrounding the particle."
+    } ]
+  }, {
+    "tStartMs": 65098,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "Emitted alongside"
+    } ]
+  }, {
+    "tStartMs": 66066,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "black carbon are volatile"
+    } ]
+  }, {
+    "tStartMs": 67801,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "organic compounds."
+    } ]
+  }, {
+    "tStartMs": 69302,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "These are gases,"
+    } ]
+  }, {
+    "tStartMs": 70437,
+    "dDurationMs": 1768,
+    "segs": [ {
+      "utf8": "which can condense downwind"
+    } ]
+  }, {
+    "tStartMs": 72205,
+    "dDurationMs": 2069,
+    "segs": [ {
+      "utf8": "from a fire onto the soot."
+    } ]
+  }, {
+    "tStartMs": 74274,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "These created particles are called"
+    } ]
+  }, {
+    "tStartMs": 76109,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "secondary organic aerosols,"
+    } ]
+  }, {
+    "tStartMs": 78111,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "which means that there are not emitted"
+    } ]
+  }, {
+    "tStartMs": 79979,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "at the source."
+    } ]
+  }, {
+    "tStartMs": 81147,
+    "dDurationMs": 1835,
+    "segs": [ {
+      "utf8": "Secondary organic aerosols"
+    } ]
+  }, {
+    "tStartMs": 82982,
+    "dDurationMs": 1802,
+    "segs": [ {
+      "utf8": "also form when smoke interacts"
+    } ]
+  }, {
+    "tStartMs": 84784,
+    "dDurationMs": 1135,
+    "segs": [ {
+      "utf8": "with the atmosphere."
+    } ]
+  }, {
+    "tStartMs": 86119,
+    "dDurationMs": 1401,
+    "segs": [ {
+      "utf8": "So one way in which"
+    } ]
+  }, {
+    "tStartMs": 87520,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "secondary organic"
+    } ]
+  }, {
+    "tStartMs": 88822,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "aerosols are formed is through"
+    } ]
+  }, {
+    "tStartMs": 90957,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "photochemical reactions."
+    } ]
+  }, {
+    "tStartMs": 92592,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "That means sunlight interacts"
+    } ]
+  }, {
+    "tStartMs": 94561,
+    "dDurationMs": 667,
+    "segs": [ {
+      "utf8": "with gases"
+    } ]
+  }, {
+    "tStartMs": 95228,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "emitted from smoke,"
+    } ]
+  }, {
+    "tStartMs": 96229,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "and those gases condense to form"
+    } ]
+  }, {
+    "tStartMs": 98565,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "either particles in their own right,"
+    } ]
+  }, {
+    "tStartMs": 100633,
+    "dDurationMs": 2937,
+    "segs": [ {
+      "utf8": "or form onto existing particles,"
+    } ]
+  }, {
+    "tStartMs": 103570,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "such as the soot"
+    } ]
+  }, {
+    "tStartMs": 104871,
+    "dDurationMs": 1501,
+    "segs": [ {
+      "utf8": "which was emitted originally."
+    } ]
+  }, {
+    "tStartMs": 107107,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "Another type of aerosol from fires"
+    } ]
+  }, {
+    "tStartMs": 109409,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "is called brown carbon,"
+    } ]
+  }, {
+    "tStartMs": 111344,
+    "dDurationMs": 1001,
+    "segs": [ {
+      "utf8": "and in this case,"
+    } ]
+  }, {
+    "tStartMs": 112345,
+    "dDurationMs": 2002,
+    "segs": [ {
+      "utf8": "the smoke is, as one could expect,"
+    } ]
+  }, {
+    "tStartMs": 114347,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "brownish in color,"
+    } ]
+  }, {
+    "tStartMs": 115648,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "meaning it’s absorbing more light"
+    } ]
+  }, {
+    "tStartMs": 117383,
+    "dDurationMs": 735,
+    "segs": [ {
+      "utf8": "towards the blue"
+    } ]
+  }, {
+    "tStartMs": 118118,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "and ultraviolet portion"
+    } ]
+  }, {
+    "tStartMs": 119486,
+    "dDurationMs": 2636,
+    "segs": [ {
+      "utf8": "of the electromagnetic spectrum."
+    } ]
+  }, {
+    "tStartMs": 122122,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "Brown carbon is formed"
+    } ]
+  }, {
+    "tStartMs": 123423,
+    "dDurationMs": 1334,
+    "segs": [ {
+      "utf8": "when vegetation burns,"
+    } ]
+  }, {
+    "tStartMs": 124757,
+    "dDurationMs": 3471,
+    "segs": [ {
+      "utf8": "and incorporated into the smoke are"
+    } ]
+  }, {
+    "tStartMs": 128728,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "what are called humic substances,"
+    } ]
+  }, {
+    "tStartMs": 130463,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "and these are"
+    } ]
+  }, {
+    "tStartMs": 131631,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "the remnants of vegetation material."
+    } ]
+  }, {
+    "tStartMs": 133967,
+    "dDurationMs": 1067,
+    "segs": [ {
+      "utf8": "Imagine the pigments"
+    } ]
+  }, {
+    "tStartMs": 135034,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "that are in leaves as they decompose."
+    } ]
+  }, {
+    "tStartMs": 139339,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "All of these different smoke"
+    } ]
+  }, {
+    "tStartMs": 140640,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "components have different"
+    } ]
+  }, {
+    "tStartMs": 142509,
+    "dDurationMs": 1167,
+    "segs": [ {
+      "utf8": "optical properties,"
+    } ]
+  }, {
+    "tStartMs": 143676,
+    "dDurationMs": 1168,
+    "segs": [ {
+      "utf8": "and these optical properties"
+    } ]
+  }, {
+    "tStartMs": 144844,
+    "dDurationMs": 2403,
+    "segs": [ {
+      "utf8": "describe how those particles interact"
+    } ]
+  }, {
+    "tStartMs": 147247,
+    "dDurationMs": 901,
+    "segs": [ {
+      "utf8": "with light."
+    } ]
+  }, {
+    "tStartMs": 151217,
+    "dDurationMs": 1302,
+    "segs": [ {
+      "utf8": "The instruments on PACE"
+    } ]
+  }, {
+    "tStartMs": 152519,
+    "dDurationMs": 1668,
+    "segs": [ {
+      "utf8": "can measure some of those properties,"
+    } ]
+  }, {
+    "tStartMs": 154187,
+    "dDurationMs": 1568,
+    "segs": [ {
+      "utf8": "including at different"
+    } ]
+  }, {
+    "tStartMs": 155755,
+    "dDurationMs": 1969,
+    "segs": [ {
+      "utf8": "wavelengths of light, at different"
+    } ]
+  }, {
+    "tStartMs": 157724,
+    "dDurationMs": 1635,
+    "segs": [ {
+      "utf8": "geometries and angles,"
+    } ]
+  }, {
+    "tStartMs": 159359,
+    "dDurationMs": 1234,
+    "segs": [ {
+      "utf8": "and from that data,"
+    } ]
+  }, {
+    "tStartMs": 160593,
+    "dDurationMs": 1735,
+    "segs": [ {
+      "utf8": "we can figure out the quantity,"
+    } ]
+  }, {
+    "tStartMs": 162328,
+    "dDurationMs": 1035,
+    "segs": [ {
+      "utf8": "the color,"
+    } ]
+  }, {
+    "tStartMs": 163363,
+    "dDurationMs": 3003,
+    "segs": [ {
+      "utf8": "the composition, the shape and the size"
+    } ]
+  }, {
+    "tStartMs": 166366,
+    "dDurationMs": 1868,
+    "segs": [ {
+      "utf8": "of aerosols in the atmosphere,"
+    } ]
+  }, {
+    "tStartMs": 168234,
+    "dDurationMs": 1902,
+    "segs": [ {
+      "utf8": "including smoke aerosols."
+    } ]
+  }, {
+    "tStartMs": 170136,
+    "dDurationMs": 2302,
+    "segs": [ {
+      "utf8": "We use all of that information together,"
+    } ]
+  }, {
+    "tStartMs": 172438,
+    "dDurationMs": 1869,
+    "segs": [ {
+      "utf8": "and we use that to differentiate"
+    } ]
+  }, {
+    "tStartMs": 174307,
+    "dDurationMs": 1301,
+    "segs": [ {
+      "utf8": "between smoke"
+    } ]
+  }, {
+    "tStartMs": 175608,
+    "dDurationMs": 1535,
+    "segs": [ {
+      "utf8": "and other types of particles"
+    } ]
+  }, {
+    "tStartMs": 177143,
+    "dDurationMs": 768,
+    "segs": [ {
+      "utf8": "in the atmosphere,"
+    } ]
+  }, {
+    "tStartMs": 177911,
+    "dDurationMs": 900,
+    "segs": [ {
+      "utf8": "such as dust,"
+    } ]
+  }, {
+    "tStartMs": 178811,
+    "dDurationMs": 1335,
+    "segs": [ {
+      "utf8": "or different types"
+    } ]
+  }, {
+    "tStartMs": 180146,
+    "dDurationMs": 1368,
+    "segs": [ {
+      "utf8": "of smoke from each other."
+    } ]
+  }, {
+    "tStartMs": 182982,
+    "dDurationMs": 2336,
+    "segs": [ {
+      "utf8": "The data from PACE will help inform"
+    } ]
+  }, {
+    "tStartMs": 185318,
+    "dDurationMs": 1268,
+    "segs": [ {
+      "utf8": "wildfire models,"
+    } ]
+  }, {
+    "tStartMs": 186586,
+    "dDurationMs": 2135,
+    "segs": [ {
+      "utf8": "but also give us a general better"
+    } ]
+  }, {
+    "tStartMs": 188721,
+    "dDurationMs": 2803,
+    "segs": [ {
+      "utf8": "sense of how aerosols from smoke impact"
+    } ]
+  }, {
+    "tStartMs": 191524,
+    "dDurationMs": 434,
+    "segs": [ {
+      "utf8": "things like"
+    } ]
+  }, {
+    "tStartMs": 191958,
+    "dDurationMs": 968,
+    "segs": [ {
+      "utf8": "air quality,"
+    } ]
+  }, {
+    "tStartMs": 192926,
+    "dDurationMs": 3503,
+    "segs": [ {
+      "utf8": "human health, weather, cloud formation"
+    } ]
+  }, {
+    "tStartMs": 196429,
+    "dDurationMs": 2169,
+    "segs": [ {
+      "utf8": "and other aspects of how"
+    } ]
+  }, {
+    "tStartMs": 198598,
+    "dDurationMs": 1468,
+    "segs": [ {
+      "utf8": "our planet Earth works."
+    } ]
+  } ]
+}

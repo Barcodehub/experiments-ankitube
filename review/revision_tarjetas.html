@@ -1,0 +1,1010 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Revisión de tarjetas</title>
+<style>
+:root{--bg:#f6f7f9;--fg:#1c2330;--card:#fff;--line:#d9dee7;--acc:#2f6bff;--dim:#667085}
+@media (prefers-color-scheme:dark){:root{--bg:#12161d;--fg:#e8ecf3;--card:#1b212b;--line:#2c3544;--acc:#6b95ff;--dim:#98a2b3}}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,sans-serif}
+main{max-width:46rem;margin:0 auto;padding:16px}
+header{position:sticky;top:0;background:var(--bg);padding:10px 0;border-bottom:1px solid var(--line);z-index:2}
+.bar{height:6px;background:var(--line);border-radius:4px;overflow:hidden;margin-top:6px}
+.bar i{display:block;height:100%;width:0;background:var(--acc)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:14px 0}
+.head{display:flex;justify-content:space-between;color:var(--dim);font-size:.9rem}
+.text{font-size:1.05rem;margin:8px 0 12px;white-space:pre-wrap}
+.q{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center;margin:6px 0}
+.q span{flex:1 1 18rem}
+label{cursor:pointer;padding:4px 10px;border:1px solid var(--line);border-radius:6px}
+label:has(input:checked){background:var(--acc);color:#fff;border-color:var(--acc)}
+input[type=radio]{margin-right:4px}
+.note{width:100%;box-sizing:border-box;margin-top:8px;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:transparent;color:var(--fg)}
+button{background:var(--acc);color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:1rem;cursor:pointer}
+small{color:var(--dim)}
+</style></head><body><main>
+<header><b>Revisión de tarjetas</b> · <span id="cnt">0</span> de 80 respondidas
+<div class="bar"><i id="bar"></i></div></header>
+<p>Lee cada tarjeta como si fuera una tarjeta de estudio: <b>solo el texto</b>, sin ver el video ni la duración.
+Responde Sí o No en las dos preguntas. No sabes qué método generó cada una, a propósito.
+Tus respuestas se guardan solas en este navegador; al terminar pulsa <i>Descargar respuestas</i>.</p>
+
+<section class="card" id="c1">
+  <div class="head"><b>Tarjeta 1</b></div>
+  <p class="text">During my working during Katrina, I had to bridge the gap between NOAA, local governments and the community. We had tremendous partnerships initiatives championed by NOAA National Weather Service.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a1" value="1"> Sí</label>
+    <label><input type="radio" name="a1" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b1" value="1"> Sí</label>
+    <label><input type="radio" name="b1" value="0"> No</label></div>
+  <input class="note" name="n1" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c2">
+  <div class="head"><b>Tarjeta 2</b></div>
+  <p class="text">The last 50 years of NOAA, all the quantum leaps in science and technology and also all the modernization has taken place. They&#x27;ve utilized the commonality of research that&#x27;s done through other agencies like NASA. Also some of the things with the Doppler radar and with some</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a2" value="1"> Sí</label>
+    <label><input type="radio" name="a2" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b2" value="1"> Sí</label>
+    <label><input type="radio" name="b2" value="0"> No</label></div>
+  <input class="note" name="n2" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c3">
+  <div class="head"><b>Tarjeta 3</b></div>
+  <p class="text">Here for 43 years I&#x27;ve seen regulation after regulation come along thinking oh boy here comes somebody else that&#x27;s going to be watching everything we do. A lot of people are concerned with what it&#x27;ll do to certain property rights. Nobody really knows what to expect. What&#x27;s this process really going to be about? Can we trust these feds and is this going to be a good program?</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a3" value="1"> Sí</label>
+    <label><input type="radio" name="a3" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b3" value="1"> Sí</label>
+    <label><input type="radio" name="b3" value="0"> No</label></div>
+  <input class="note" name="n3" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c4">
+  <div class="head"><b>Tarjeta 4</b></div>
+  <p class="text">I think for the Mrs. Coy it was pretty apparent that there was some special values to us right away. And really the third test that we take very seriously is community empowerment. I think there was some concern that, you know, since this is a federal designation that the government was going to take over control of the development and activity along the river. But since it really included only federal permits, I think people at the end of the days saw the utility of the designation, so it passed pretty quickly. We are an invited guest and we have to behave that way.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a4" value="1"> Sí</label>
+    <label><input type="radio" name="a4" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b4" value="1"> Sí</label>
+    <label><input type="radio" name="b4" value="0"> No</label></div>
+  <input class="note" name="n4" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c5">
+  <div class="head"><b>Tarjeta 5</b></div>
+  <p class="text">Earth&#x27;s Grand Canyon is actually a large network of interconnecting canyons. The same can be said for Valles Marineris on Mars.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a5" value="1"> Sí</label>
+    <label><input type="radio" name="a5" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b5" value="1"> Sí</label>
+    <label><input type="radio" name="b5" value="0"> No</label></div>
+  <input class="note" name="n5" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c6">
+  <div class="head"><b>Tarjeta 6</b></div>
+  <p class="text">These flows built temporary dams that created lakes that partially filled the canyon in its past. To the northwest of Valles Marineris, we also find volcanoes, the giant Tharsus Shield Volcanoes, which played key roles in the formation of the canyon. These mountains include Olympus Mons, the greatest volcano in the solar system, standing three times the height of Mount Everest and with a base 370 miles across. Flowing Water played a critical role in the Grand Canyon&#x27;s formation with the Colorado River cutting the canyon&#x27;s deep gorge. Flowing Water also played a role in Valles Marineris.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a6" value="1"> Sí</label>
+    <label><input type="radio" name="a6" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b6" value="1"> Sí</label>
+    <label><input type="radio" name="b6" value="0"> No</label></div>
+  <input class="note" name="n6" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c7">
+  <div class="head"><b>Tarjeta 7</b></div>
+  <p class="text">advisory warnings. The major problem I can see right now is still resources. Challenge communities and people are still at risk.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a7" value="1"> Sí</label>
+    <label><input type="radio" name="a7" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b7" value="1"> Sí</label>
+    <label><input type="radio" name="b7" value="0"> No</label></div>
+  <input class="note" name="n7" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c8">
+  <div class="head"><b>Tarjeta 8</b></div>
+  <p class="text">This is a relay race. It takes an army to pull a mission together like this, right? Across all ten of our centers, all of our commercial partners, the international partners that come together to make this possible.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a8" value="1"> Sí</label>
+    <label><input type="radio" name="a8" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b8" value="1"> Sí</label>
+    <label><input type="radio" name="b8" value="0"> No</label></div>
+  <input class="note" name="n8" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c9">
+  <div class="head"><b>Tarjeta 9</b></div>
+  <p class="text">the efficiency of the combustion. An efficiently burning fire can have dark colored smoke, releasing a lot of carbon monoxide and carbon dioxide. A less</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a9" value="1"> Sí</label>
+    <label><input type="radio" name="a9" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b9" value="1"> Sí</label>
+    <label><input type="radio" name="b9" value="0"> No</label></div>
+  <input class="note" name="n9" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c10">
+  <div class="head"><b>Tarjeta 10</b></div>
+  <p class="text">In 2019, during Expedition 61, a time I personally remember very well, we set the record for most science hours performed by the crew in a single week at 153 hours. The crew has performed a total of over 43,000 hours of NASA, ESA, JAXA and CSA science arms.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a10" value="1"> Sí</label>
+    <label><input type="radio" name="a10" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b10" value="1"> Sí</label>
+    <label><input type="radio" name="b10" value="0"> No</label></div>
+  <input class="note" name="n10" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c11">
+  <div class="head"><b>Tarjeta 11</b></div>
+  <p class="text">leaves as they decompose. All of these different smoke components have different optical properties, and these optical properties describe how those particles interact with light. The instruments on pace can measure some of those</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a11" value="1"> Sí</label>
+    <label><input type="radio" name="a11" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b11" value="1"> Sí</label>
+    <label><input type="radio" name="b11" value="0"> No</label></div>
+  <input class="note" name="n11" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c12">
+  <div class="head"><b>Tarjeta 12</b></div>
+  <p class="text">Yeah. Oh, this, oh, but notice that&#x27;s a frozen lump of water. So this had to be the, not nice. Yeah, the ice crystal. It was a student experiment. It was a fast experiment.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a12" value="1"> Sí</label>
+    <label><input type="radio" name="a12" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b12" value="1"> Sí</label>
+    <label><input type="radio" name="b12" value="0"> No</label></div>
+  <input class="note" name="n12" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c13">
+  <div class="head"><b>Tarjeta 13</b></div>
+  <p class="text">I highly recommend that people come to the river and just sit and listen and watch and listen to the birds and watch the river roll by and feel the vibration, meditate, hum, sing, dance. It&#x27;s all about giving thanks for being alive and you really feel being alive when you&#x27;re outside. I think people are amazed that this exists in Central Florida and that if they haven&#x27;t heard of it before they&#x27;re surprised, they haven&#x27;t heard of it and if they have heard of it before they&#x27;re kind of wondering why they hadn&#x27;t come out sooner and explored it. So I think we feel disconnected somehow and we&#x27;ve been told that we&#x27;re maybe disconnected from nature but I would say that that is not true, that we&#x27;re all connected. If you live here, your water is spring water so we&#x27;re all involved and invested whether we think we are or not.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a13" value="1"> Sí</label>
+    <label><input type="radio" name="a13" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b13" value="1"> Sí</label>
+    <label><input type="radio" name="b13" value="0"> No</label></div>
+  <input class="note" name="n13" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c14">
+  <div class="head"><b>Tarjeta 14</b></div>
+  <p class="text">It&#x27;s like docking on another phase. They taught them the handshake, didn&#x27;t they?</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a14" value="1"> Sí</label>
+    <label><input type="radio" name="a14" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b14" value="1"> Sí</label>
+    <label><input type="radio" name="b14" value="0"> No</label></div>
+  <input class="note" name="n14" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c15">
+  <div class="head"><b>Tarjeta 15</b></div>
+  <p class="text">We look like we&#x27;re smiling at you like a little Cheshire cat. Oh, we feel it too, but we&#x27;ll be happy to have you back</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a15" value="1"> Sí</label>
+    <label><input type="radio" name="a15" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b15" value="1"> Sí</label>
+    <label><input type="radio" name="b15" value="0"> No</label></div>
+  <input class="note" name="n15" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c16">
+  <div class="head"><b>Tarjeta 16</b></div>
+  <p class="text">In fact, because of research conducted on the Space Station, electronics are now included in major tournament soccer balls for the 2026 World Cup, which ensure the soccer ball is balanced statically and dynamically for best performance. The World Cup is more than a tournament. It&#x27;s a global phenomenon that pushes the boundaries of innovation, pioneers new technology, and drives human performance, similar to what we do here at NASA.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a16" value="1"> Sí</label>
+    <label><input type="radio" name="a16" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b16" value="1"> Sí</label>
+    <label><input type="radio" name="b16" value="0"> No</label></div>
+  <input class="note" name="n16" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c17">
+  <div class="head"><b>Tarjeta 17</b></div>
+  <p class="text">That intrigued me because it was a way, as an undergraduate, to put into practical use what I was learning in books. I got my hands dirty, and it was in cutting-edge technologies that really inspired me. And that led me to NASA. I&#x27;ve been with NASA since 1999. So it&#x27;s been a bit over 25 years now, and it&#x27;s been quite a ride.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a17" value="1"> Sí</label>
+    <label><input type="radio" name="a17" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b17" value="1"> Sí</label>
+    <label><input type="radio" name="b17" value="0"> No</label></div>
+  <input class="note" name="n17" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c18">
+  <div class="head"><b>Tarjeta 18</b></div>
+  <p class="text">And there go the first series of parachutes</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a18" value="1"> Sí</label>
+    <label><input type="radio" name="a18" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b18" value="1"> Sí</label>
+    <label><input type="radio" name="b18" value="0"> No</label></div>
+  <input class="note" name="n18" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c19">
+  <div class="head"><b>Tarjeta 19</b></div>
+  <p class="text">The deep cut made by the Colorado River has been significantly widened by numerous landslides along the Grand Canyon&#x27;s steep walls.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a19" value="1"> Sí</label>
+    <label><input type="radio" name="a19" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b19" value="1"> Sí</label>
+    <label><input type="radio" name="b19" value="0"> No</label></div>
+  <input class="note" name="n19" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c20">
+  <div class="head"><b>Tarjeta 20</b></div>
+  <p class="text">You get in the kayak and head downstream and see some of the most pristine wild Florida, the alligators, the turtles, the bald eagles, the cranes. Just the wildlife in itself is just remarkable. What it feels like when I&#x27;m in my kayak and I&#x27;m just pushing out to get out into the river is excitement, just pure delight. I just wish more people could experience it. The river system really does offer something for everyone.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a20" value="1"> Sí</label>
+    <label><input type="radio" name="a20" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b20" value="1"> Sí</label>
+    <label><input type="radio" name="b20" value="0"> No</label></div>
+  <input class="note" name="n20" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c21">
+  <div class="head"><b>Tarjeta 21</b></div>
+  <p class="text">Now, in view of this entire disfranchisement of one half the people of this country and because women do feel themselves aggrieved, oppressed, and fraudulently deprived of their most sacred rights, we insist that they have immediate mission to all the rights and privileges which belong to them as citizens of these United States.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a21" value="1"> Sí</label>
+    <label><input type="radio" name="a21" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b21" value="1"> Sí</label>
+    <label><input type="radio" name="b21" value="0"> No</label></div>
+  <input class="note" name="n21" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c22">
+  <div class="head"><b>Tarjeta 22</b></div>
+  <p class="text">They learn about a multifaceted job pool of the park.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a22" value="1"> Sí</label>
+    <label><input type="radio" name="a22" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b22" value="1"> Sí</label>
+    <label><input type="radio" name="b22" value="0"> No</label></div>
+  <input class="note" name="n22" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c23">
+  <div class="head"><b>Tarjeta 23</b></div>
+  <p class="text">For more information, please visit FEMA&#x27;s Buy America website on FEMA.gov or contact us at FEMA-grants-buyamerica.fema.dhs.gov.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a23" value="1"> Sí</label>
+    <label><input type="radio" name="a23" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b23" value="1"> Sí</label>
+    <label><input type="radio" name="b23" value="0"> No</label></div>
+  <input class="note" name="n23" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c24">
+  <div class="head"><b>Tarjeta 24</b></div>
+  <p class="text">Minor additions of articles, materials, supplies, or binding agents do not change the categorization of the product as a construction material.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a24" value="1"> Sí</label>
+    <label><input type="radio" name="a24" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b24" value="1"> Sí</label>
+    <label><input type="radio" name="b24" value="0"> No</label></div>
+  <input class="note" name="n24" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c25">
+  <div class="head"><b>Tarjeta 25</b></div>
+  <p class="text">Houston integrity, greet you. This is a test flight and so every single system aboard Orion is getting tested by humans for the first time.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a25" value="1"> Sí</label>
+    <label><input type="radio" name="a25" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b25" value="1"> Sí</label>
+    <label><input type="radio" name="b25" value="0"> No</label></div>
+  <input class="note" name="n25" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c26">
+  <div class="head"><b>Tarjeta 26</b></div>
+  <p class="text">I try to cultivate a very fun environment, because life doesn&#x27;t have to be serious all of the time. Recreation-wise, I would probably say whitewater rafting. That whole day was very, very fun. Sleeping under the stars and putting up bareboxes with my friends. We did a Dragonfly larva collection day, and that was really fun.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a26" value="1"> Sí</label>
+    <label><input type="radio" name="a26" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b26" value="1"> Sí</label>
+    <label><input type="radio" name="b26" value="0"> No</label></div>
+  <input class="note" name="n26" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c27">
+  <div class="head"><b>Tarjeta 27</b></div>
+  <p class="text">Here for 43 years I&#x27;ve seen regulation after regulation come along thinking oh boy here comes somebody else that&#x27;s going to be watching everything we do.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a27" value="1"> Sí</label>
+    <label><input type="radio" name="a27" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b27" value="1"> Sí</label>
+    <label><input type="radio" name="b27" value="0"> No</label></div>
+  <input class="note" name="n27" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c28">
+  <div class="head"><b>Tarjeta 28</b></div>
+  <p class="text">Saturn is sending us mixed signals, mixed radio signals, that is. I&#x27;m Marsha Burton, Cassini Fields and Particles Scientist at NASA&#x27;s Jet Propulsion Lab. Cassini has been in orbit around Saturn for more than six years, and new data tell scientists that the sixth planet from the Sun is weirder than we&#x27;ve even imagined. Ever since we arrived, Cassini has been measuring radio waves called Saturn Kilometric Radiation. Cassini&#x27;s radio and plasma wave instrument recently determined that the variation in radio waves is different in the northern and southern hemispheres of Saturn.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a28" value="1"> Sí</label>
+    <label><input type="radio" name="a28" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b28" value="1"> Sí</label>
+    <label><input type="radio" name="b28" value="0"> No</label></div>
+  <input class="note" name="n28" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c29">
+  <div class="head"><b>Tarjeta 29</b></div>
+  <p class="text">The last 50 years of NOAA, all the quantum leaps in science and technology and also all the modernization has taken place. They&#x27;ve utilized the commonality of research that&#x27;s done through other agencies like NASA. Also some of the things with the Doppler radar and with some</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a29" value="1"> Sí</label>
+    <label><input type="radio" name="a29" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b29" value="1"> Sí</label>
+    <label><input type="radio" name="b29" value="0"> No</label></div>
+  <input class="note" name="n29" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c30">
+  <div class="head"><b>Tarjeta 30</b></div>
+  <p class="text">Mrs. Goy is a very special place, I think.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a30" value="1"> Sí</label>
+    <label><input type="radio" name="a30" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b30" value="1"> Sí</label>
+    <label><input type="radio" name="b30" value="0"> No</label></div>
+  <input class="note" name="n30" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c31">
+  <div class="head"><b>Tarjeta 31</b></div>
+  <p class="text">Taking their first steps outside for their historic test flight. Four brave explorers ready to ride the most powerful rocket NASA has ever launched.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a31" value="1"> Sí</label>
+    <label><input type="radio" name="a31" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b31" value="1"> Sí</label>
+    <label><input type="radio" name="b31" value="0"> No</label></div>
+  <input class="note" name="n31" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c32">
+  <div class="head"><b>Tarjeta 32</b></div>
+  <p class="text">A lot of people are concerned with what it&#x27;ll do to certain property rights. Nobody really knows what to expect. What&#x27;s this process really going to be about? Can we trust these feds and is this going to be a good program? And there&#x27;s a lot of sort of suspicion and feeling out and rightly so. Initially I had some concerns as well and talked to a lot of people. One of the reasons I really perked up when I heard about this is I wanted to make sure that this wasn&#x27;t another layer of bureaucracy that I&#x27;d need to deal with for what I do on our farm.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a32" value="1"> Sí</label>
+    <label><input type="radio" name="a32" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b32" value="1"> Sí</label>
+    <label><input type="radio" name="b32" value="0"> No</label></div>
+  <input class="note" name="n32" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c33">
+  <div class="head"><b>Tarjeta 33</b></div>
+  <p class="text">planet, hurtling through space, covered by more than 70% water, our ocean is bursting with life. And it gives life, producing half the oxygen we breathe and critical food for half the world&#x27;s population. It connects us, serving as a super highway for international trade. And it inspires us, providing open space for recreation and exploration. For more than 50 years, NOAA has been at the forefront of conserving, managing, and exploring this vast resource to benefit Americans now and for generations to come.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a33" value="1"> Sí</label>
+    <label><input type="radio" name="a33" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b33" value="1"> Sí</label>
+    <label><input type="radio" name="b33" value="0"> No</label></div>
+  <input class="note" name="n33" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c34">
+  <div class="head"><b>Tarjeta 34</b></div>
+  <p class="text">We help communities to adapt and be resilient as our coast changes, promote safe and sustainable communities for generations to come, and investigate and prevent the adverse impacts of marine debris. We define, maintain, and provide access to a consistent coordinate system to meet our nation&#x27;s economic, social, and environmental needs.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a34" value="1"> Sí</label>
+    <label><input type="radio" name="a34" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b34" value="1"> Sí</label>
+    <label><input type="radio" name="b34" value="0"> No</label></div>
+  <input class="note" name="n34" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c35">
+  <div class="head"><b>Tarjeta 35</b></div>
+  <p class="text">Now, in view of this entire disfranchisement of one half the people of this country and because women do feel themselves aggrieved, oppressed, and fraudulently deprived of their most sacred rights, we insist that they have immediate mission to all the rights and privileges which belong to them as citizens of these United States. Are the great principles of political freedom and of natural justice embodied in that declaration of independence extended to us?</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a35" value="1"> Sí</label>
+    <label><input type="radio" name="a35" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b35" value="1"> Sí</label>
+    <label><input type="radio" name="b35" value="0"> No</label></div>
+  <input class="note" name="n35" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c36">
+  <div class="head"><b>Tarjeta 36</b></div>
+  <p class="text">I love all aspects of the operations. I like getting my hands dirty. I like seeing the erector set go together with SLS. We are putting vehicles together. On Artemis One, I was the operations lead, and I was able to establish the operations architecture for SLS, which I hadn&#x27;t ever done before, so that was a great new experience for me.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a36" value="1"> Sí</label>
+    <label><input type="radio" name="a36" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b36" value="1"> Sí</label>
+    <label><input type="radio" name="b36" value="0"> No</label></div>
+  <input class="note" name="n36" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c37">
+  <div class="head"><b>Tarjeta 37</b></div>
+  <p class="text">And so being on a team, like the volleyball team at the Air Force Academy really taught me how to take care of other people, especially in high pressure situations and how to care about those around you, even when you&#x27;re struggling or when you need someone on for the day. And so things just generally learning how to live and work on a team is so important and it will get you anywhere you want.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a37" value="1"> Sí</label>
+    <label><input type="radio" name="a37" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b37" value="1"> Sí</label>
+    <label><input type="radio" name="b37" value="0"> No</label></div>
+  <input class="note" name="n37" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c38">
+  <div class="head"><b>Tarjeta 38</b></div>
+  <p class="text">It connects us, serving as a super highway for international trade. And it inspires us, providing open space for recreation and exploration.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a38" value="1"> Sí</label>
+    <label><input type="radio" name="a38" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b38" value="1"> Sí</label>
+    <label><input type="radio" name="b38" value="0"> No</label></div>
+  <input class="note" name="n38" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c39">
+  <div class="head"><b>Tarjeta 39</b></div>
+  <p class="text">As a result, the US has emerged as a global leader in sustainable seafood. Wild caught and farmed seafood generate billions of dollars annually, employing millions of Americans. As seafood demand grows, so will economic opportunities. NOAA is working with fishermen and ocean farmers to drive innovation and job growth.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a39" value="1"> Sí</label>
+    <label><input type="radio" name="a39" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b39" value="1"> Sí</label>
+    <label><input type="radio" name="b39" value="0"> No</label></div>
+  <input class="note" name="n39" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c40">
+  <div class="head"><b>Tarjeta 40</b></div>
+  <p class="text">As I reflect back and the Hurricane Katrina 15 years later, our forecasts have gotten much better resulting in significant trust. The various models, computer aids and forecast accuracy</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a40" value="1"> Sí</label>
+    <label><input type="radio" name="a40" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b40" value="1"> Sí</label>
+    <label><input type="radio" name="b40" value="0"> No</label></div>
+  <input class="note" name="n40" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c41">
+  <div class="head"><b>Tarjeta 41</b></div>
+  <p class="text">Here on the Space Station, we conduct research that drives exploration and innovation that impacts life on Earth, even in sports performance, material sciences, and human endurance. In fact, because of research conducted on the Space Station, electronics are now included in major tournament soccer balls for the 2026 World Cup, which ensure the soccer ball is balanced statically and dynamically for best performance.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a41" value="1"> Sí</label>
+    <label><input type="radio" name="a41" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b41" value="1"> Sí</label>
+    <label><input type="radio" name="b41" value="0"> No</label></div>
+  <input class="note" name="n41" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c42">
+  <div class="head"><b>Tarjeta 42</b></div>
+  <p class="text">It&#x27;s very expensive to take anything to the surface of the moon. So if we are able to reuse or recycle the materials we have there, then we will be able to be much more sustainable and be able to stay there longer and do more work while we&#x27;re there.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a42" value="1"> Sí</label>
+    <label><input type="radio" name="a42" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b42" value="1"> Sí</label>
+    <label><input type="radio" name="b42" value="0"> No</label></div>
+  <input class="note" name="n42" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c43">
+  <div class="head"><b>Tarjeta 43</b></div>
+  <p class="text">Do recipients or subrecipients need to apply to use a FEMA-approved general applicability waiver?</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a43" value="1"> Sí</label>
+    <label><input type="radio" name="a43" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b43" value="1"> Sí</label>
+    <label><input type="radio" name="b43" value="0"> No</label></div>
+  <input class="note" name="n43" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c44">
+  <div class="head"><b>Tarjeta 44</b></div>
+  <p class="text">With this burn to the moon, we do not leave Earth. That is something we have never seen before. It&#x27;s hard to wrap your mind around, like I mean that sincerely, it really bends your mind. Copy moonjoy, her little thumbs up.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a44" value="1"> Sí</label>
+    <label><input type="radio" name="a44" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b44" value="1"> Sí</label>
+    <label><input type="radio" name="b44" value="0"> No</label></div>
+  <input class="note" name="n44" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c45">
+  <div class="head"><b>Tarjeta 45</b></div>
+  <p class="text">To continue learning about the Build America, Buy America Act, be sure to check out the other videos in this training series. For more information, please visit FEMA&#x27;s Buy America website on FEMA.gov or contact us at FEMA-grants-buyamerica.fema.dhs.gov.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a45" value="1"> Sí</label>
+    <label><input type="radio" name="a45" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b45" value="1"> Sí</label>
+    <label><input type="radio" name="b45" value="0"> No</label></div>
+  <input class="note" name="n45" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c46">
+  <div class="head"><b>Tarjeta 46</b></div>
+  <p class="text">I think for the Mrs. Coy it was pretty apparent that there was some special values to us right away. And really the third test that we take very seriously is community empowerment. I think there was some concern that, you know, since this is a federal designation that the government was going to take over control of the development and activity along the river. But since it really included only federal permits, I think people at the end of the days saw the utility of the designation, so it passed pretty quickly.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a46" value="1"> Sí</label>
+    <label><input type="radio" name="a46" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b46" value="1"> Sí</label>
+    <label><input type="radio" name="b46" value="0"> No</label></div>
+  <input class="note" name="n46" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c47">
+  <div class="head"><b>Tarjeta 47</b></div>
+  <p class="text">On Artemis One, I was the operations lead, and I was able to establish the operations architecture for SLS, which I hadn&#x27;t ever done before, so that was a great new experience for me.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a47" value="1"> Sí</label>
+    <label><input type="radio" name="a47" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b47" value="1"> Sí</label>
+    <label><input type="radio" name="b47" value="0"> No</label></div>
+  <input class="note" name="n47" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c48">
+  <div class="head"><b>Tarjeta 48</b></div>
+  <p class="text">geometries and angles, and from that data we can figure out the quantity, the color, the composition, the shape, and the size of aerosols in the atmosphere, including smoke aerosols. We use all of that information together and we use that to differentiate between smoke and other types of particles in the atmosphere such as dust or different types of smoke from each other. The data</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a48" value="1"> Sí</label>
+    <label><input type="radio" name="a48" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b48" value="1"> Sí</label>
+    <label><input type="radio" name="b48" value="0"> No</label></div>
+  <input class="note" name="n48" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c49">
+  <div class="head"><b>Tarjeta 49</b></div>
+  <p class="text">Okay, it looks like you&#x27;re rolling dice with the universe. Take a picture of the Christmas. Yeah. Oh, this, oh, but notice that&#x27;s a frozen lump of water. So this had to be the,</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a49" value="1"> Sí</label>
+    <label><input type="radio" name="a49" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b49" value="1"> Sí</label>
+    <label><input type="radio" name="b49" value="0"> No</label></div>
+  <input class="note" name="n49" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c50">
+  <div class="head"><b>Tarjeta 50</b></div>
+  <p class="text">In general, I&#x27;ve grown a lot just from being a YCC and then being a park ranger this year and also being a YCC just gets your foot in the door. It doesn&#x27;t really matter your background. The skills that you gain from the Youth Conservation Corps translate in any job. This is what I want to do with the rest of my life. It&#x27;s so rewarding and so amazing and incredible.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a50" value="1"> Sí</label>
+    <label><input type="radio" name="a50" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b50" value="1"> Sí</label>
+    <label><input type="radio" name="b50" value="0"> No</label></div>
+  <input class="note" name="n50" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c51">
+  <div class="head"><b>Tarjeta 51</b></div>
+  <p class="text">We must reflect, understand, and respond to the broad range of communities, partners, and stakeholders we serve.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a51" value="1"> Sí</label>
+    <label><input type="radio" name="a51" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b51" value="1"> Sí</label>
+    <label><input type="radio" name="b51" value="0"> No</label></div>
+  <input class="note" name="n51" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c52">
+  <div class="head"><b>Tarjeta 52</b></div>
+  <p class="text">Techities astronauts back on We took your hearts with us and your hearts lifted our hearts The golden age of exploration has begun and we are just getting started</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a52" value="1"> Sí</label>
+    <label><input type="radio" name="a52" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b52" value="1"> Sí</label>
+    <label><input type="radio" name="b52" value="0"> No</label></div>
+  <input class="note" name="n52" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c53">
+  <div class="head"><b>Tarjeta 53</b></div>
+  <p class="text">We took your hearts with us and your hearts lifted our hearts The golden age of exploration has begun and we are just getting started</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a53" value="1"> Sí</label>
+    <label><input type="radio" name="a53" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b53" value="1"> Sí</label>
+    <label><input type="radio" name="b53" value="0"> No</label></div>
+  <input class="note" name="n53" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c54">
+  <div class="head"><b>Tarjeta 54</b></div>
+  <p class="text">There&#x27;s no question about that. Good shoots coming down off the West Coast. And there go the first series of parachutes. And Houston were visual two drones out the window.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a54" value="1"> Sí</label>
+    <label><input type="radio" name="a54" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b54" value="1"> Sí</label>
+    <label><input type="radio" name="b54" value="0"> No</label></div>
+  <input class="note" name="n54" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c55">
+  <div class="head"><b>Tarjeta 55</b></div>
+  <p class="text">New chapter of the exploration of our celestial neighbor is complete Techities astronauts back on</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a55" value="1"> Sí</label>
+    <label><input type="radio" name="a55" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b55" value="1"> Sí</label>
+    <label><input type="radio" name="b55" value="0"> No</label></div>
+  <input class="note" name="n55" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c56">
+  <div class="head"><b>Tarjeta 56</b></div>
+  <p class="text">I think there is enough for all. The purpose of humanity is joy and lifting one another up, creating together.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a56" value="1"> Sí</label>
+    <label><input type="radio" name="a56" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b56" value="1"> Sí</label>
+    <label><input type="radio" name="b56" value="0"> No</label></div>
+  <input class="note" name="n56" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c57">
+  <div class="head"><b>Tarjeta 57</b></div>
+  <p class="text">And the northern and southern rotational variations also appear to change with its Saturnian seasons. The radio wave patterns are controlled by the rotation of the planet, so to Cassini, Saturn&#x27;s radio waves sound a bit like bursts of a spinning air raid siren.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a57" value="1"> Sí</label>
+    <label><input type="radio" name="a57" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b57" value="1"> Sí</label>
+    <label><input type="radio" name="b57" value="0"> No</label></div>
+  <input class="note" name="n57" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c58">
+  <div class="head"><b>Tarjeta 58</b></div>
+  <p class="text">Houston integrity, greet you. This is a test flight and so every single system aboard Orion is getting tested by humans for the first time. That is Earth in the center of your screen from the Orion spacecraft looking back at all of us. Houston is go for TLI. With this burn to the moon, we do not leave Earth.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a58" value="1"> Sí</label>
+    <label><input type="radio" name="a58" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b58" value="1"> Sí</label>
+    <label><input type="radio" name="b58" value="0"> No</label></div>
+  <input class="note" name="n58" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c59">
+  <div class="head"><b>Tarjeta 59</b></div>
+  <p class="text">Scientists don&#x27;t think the radio wave patterns indicate hemispheres actually rotating at different rates. It has more to do with variations in high altitude winds. A recent result from the Hubble Space Telescope also gives us clues. Scientists found that the northern and southern auroras wobbled back and forth in a pattern matching the radio wave variations. The Cassini magnetometer also found that Saturn&#x27;s magnetic field over the north and south poles wobbled in a similar pattern.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a59" value="1"> Sí</label>
+    <label><input type="radio" name="a59" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b59" value="1"> Sí</label>
+    <label><input type="radio" name="b59" value="0"> No</label></div>
+  <input class="note" name="n59" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c60">
+  <div class="head"><b>Tarjeta 60</b></div>
+  <p class="text">Oh, while we were in the station. So I think it&#x27;s a good experience to be able to go back to the space station in the station. So I felt the space station program is getting still, like, bigger and bigger</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a60" value="1"> Sí</label>
+    <label><input type="radio" name="a60" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b60" value="1"> Sí</label>
+    <label><input type="radio" name="b60" value="0"> No</label></div>
+  <input class="note" name="n60" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c61">
+  <div class="head"><b>Tarjeta 61</b></div>
+  <p class="text">Yes, since that was my second flight I had more kind of room in my mind to think about my surroundings So I was actually kind of really nervous compared to my first flight Just before the launch come down but as soon as the engine light up everybody just got excited Oh, we&#x27;re like a whoo, let&#x27;s go</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a61" value="1"> Sí</label>
+    <label><input type="radio" name="a61" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b61" value="1"> Sí</label>
+    <label><input type="radio" name="b61" value="0"> No</label></div>
+  <input class="note" name="n61" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c62">
+  <div class="head"><b>Tarjeta 62</b></div>
+  <p class="text">have made significant impacts even with the location of the event and the intensity of the forecast advisory warnings. The major problem I can see right now is still resources. Challenge communities and people are still at risk. NOAA National Weather Service has to find ways to reach out to these challenged person</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a62" value="1"> Sí</label>
+    <label><input type="radio" name="a62" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b62" value="1"> Sí</label>
+    <label><input type="radio" name="b62" value="0"> No</label></div>
+  <input class="note" name="n62" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c63">
+  <div class="head"><b>Tarjeta 63</b></div>
+  <p class="text">Another difference is that Earth&#x27;s Grand Canyon now hosts over 6 million visitors per year. Valles Marineris is still waiting to receive its first tourists. Perhaps you will be one of them.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a63" value="1"> Sí</label>
+    <label><input type="radio" name="a63" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b63" value="1"> Sí</label>
+    <label><input type="radio" name="b63" value="0"> No</label></div>
+  <input class="note" name="n63" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c64">
+  <div class="head"><b>Tarjeta 64</b></div>
+  <p class="text">Scientific objectives included efforts to improve health outcomes on Earth and inform basic physiological changes which may be applied to astronaut health during future exploration missions. All of this dedication and hard work has led to breakthroughs in fields as diverse as 3D bioprinting, laser communications, pharmaceuticals, fiber optics, and crew health, which all foster the commercial economy in low Earth&#x27;s orbit.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a64" value="1"> Sí</label>
+    <label><input type="radio" name="a64" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b64" value="1"> Sí</label>
+    <label><input type="radio" name="b64" value="0"> No</label></div>
+  <input class="note" name="n64" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c65">
+  <div class="head"><b>Tarjeta 65</b></div>
+  <p class="text">Recreation-wise, I would probably say whitewater rafting. That whole day was very, very fun.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a65" value="1"> Sí</label>
+    <label><input type="radio" name="a65" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b65" value="1"> Sí</label>
+    <label><input type="radio" name="b65" value="0"> No</label></div>
+  <input class="note" name="n65" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c66">
+  <div class="head"><b>Tarjeta 66</b></div>
+  <p class="text">in the station. So I felt the space station program is getting still, like, bigger and bigger</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a66" value="1"> Sí</label>
+    <label><input type="radio" name="a66" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b66" value="1"> Sí</label>
+    <label><input type="radio" name="b66" value="0"> No</label></div>
+  <input class="note" name="n66" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c67">
+  <div class="head"><b>Tarjeta 67</b></div>
+  <p class="text">Now, in view of this entire disfranchisement of one half the people of this country and because women do feel themselves aggrieved, oppressed, and fraudulently deprived of their most sacred rights, we insist that they have immediate mission to all the rights and privileges which belong to them as citizens of these United States. Are the great principles of political freedom and of natural justice embodied in that declaration</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a67" value="1"> Sí</label>
+    <label><input type="radio" name="a67" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b67" value="1"> Sí</label>
+    <label><input type="radio" name="b67" value="0"> No</label></div>
+  <input class="note" name="n67" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c68">
+  <div class="head"><b>Tarjeta 68</b></div>
+  <p class="text">Copy moonjoy, her little thumbs up. I think there is enough for all. The purpose of humanity is joy and lifting one another up, creating together. This is a whole bunch of nothing, this thing we call the universe. You have this oasis, this beautiful place that we get to exist together.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a68" value="1"> Sí</label>
+    <label><input type="radio" name="a68" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b68" value="1"> Sí</label>
+    <label><input type="radio" name="b68" value="0"> No</label></div>
+  <input class="note" name="n68" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c69">
+  <div class="head"><b>Tarjeta 69</b></div>
+  <p class="text">We try to place ourselves in a position of supporting the local communities, the local partners, and providing good technical support, good advice and funding support. We don&#x27;t have any ability or desire to control or dictate anything. At the end of the day there was zero government interference in the rivers being preserved and being used and it makes me actually feel good about our government. Especially this day and age.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a69" value="1"> Sí</label>
+    <label><input type="radio" name="a69" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b69" value="1"> Sí</label>
+    <label><input type="radio" name="b69" value="0"> No</label></div>
+  <input class="note" name="n69" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c70">
+  <div class="head"><b>Tarjeta 70</b></div>
+  <p class="text">NOAA is helping coastal communities weather a changing climate. We generate sea level rise forecasts and critical storm data to empower communities to plan and build a resilient future.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a70" value="1"> Sí</label>
+    <label><input type="radio" name="a70" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b70" value="1"> Sí</label>
+    <label><input type="radio" name="b70" value="0"> No</label></div>
+  <input class="note" name="n70" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c71">
+  <div class="head"><b>Tarjeta 71</b></div>
+  <p class="text">Now let&#x27;s discuss the third question.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a71" value="1"> Sí</label>
+    <label><input type="radio" name="a71" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b71" value="1"> Sí</label>
+    <label><input type="radio" name="b71" value="0"> No</label></div>
+  <input class="note" name="n71" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c72">
+  <div class="head"><b>Tarjeta 72</b></div>
+  <p class="text">atmosphere such as dust or different types of smoke from each other. The data from PACE will help inform wildfire models but also give us a general better sense of how aerosols from smoke impact things like air quality, human health, weather, cloud formation, and other aspects of how our planet Earth works.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a72" value="1"> Sí</label>
+    <label><input type="radio" name="a72" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b72" value="1"> Sí</label>
+    <label><input type="radio" name="b72" value="0"> No</label></div>
+  <input class="note" name="n72" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c73">
+  <div class="head"><b>Tarjeta 73</b></div>
+  <p class="text">I am so grateful to be here with all of you as we discuss the Artemis program and announce the four astronauts who will undertake this very exciting mission. Making his first space flight, mission specialist Andre Douglas, record-setting astronaut, mission specialist Colonel Frank Riviere. Now onto our pilot, East astronaut Luca Carmatano. Now to our Commander, Marine Corps Colonel Artemis III Commander, Randy Bresley. Artemis III backup crew member, Bob Hines.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a73" value="1"> Sí</label>
+    <label><input type="radio" name="a73" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b73" value="1"> Sí</label>
+    <label><input type="radio" name="b73" value="0"> No</label></div>
+  <input class="note" name="n73" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c74">
+  <div class="head"><b>Tarjeta 74</b></div>
+  <p class="text">For those of us watching Saturn, these findings all help explain the complicated dance between the Sun and Saturn&#x27;s magnetic bubble, something normally invisible to the human eye and imperceptible to the human ear.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a74" value="1"> Sí</label>
+    <label><input type="radio" name="a74" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b74" value="1"> Sí</label>
+    <label><input type="radio" name="b74" value="0"> No</label></div>
+  <input class="note" name="n74" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c75">
+  <div class="head"><b>Tarjeta 75</b></div>
+  <p class="text">This was the beginning of a partnership between the ground and the crew that has enabled more than 4,000 different scientific investigations over the course of 25 years. Those investigations have resulted in over 4,400 papers published in scientific journals. It has taken incredible coordination, both on Earth and in orbit, to make this possible, and now is the perfect time to highlight some key milestones along the way.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a75" value="1"> Sí</label>
+    <label><input type="radio" name="a75" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b75" value="1"> Sí</label>
+    <label><input type="radio" name="b75" value="0"> No</label></div>
+  <input class="note" name="n75" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c76">
+  <div class="head"><b>Tarjeta 76</b></div>
+  <p class="text">And the technologies that we are developing, the missions that we have, the dreams that we have, it means a lot to show the next generation my children, kids that I coach, all of those kids are inspired.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a76" value="1"> Sí</label>
+    <label><input type="radio" name="a76" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b76" value="1"> Sí</label>
+    <label><input type="radio" name="b76" value="0"> No</label></div>
+  <input class="note" name="n76" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c77">
+  <div class="head"><b>Tarjeta 77</b></div>
+  <p class="text">Space bucket list this one is uh, it&#x27;s a great question rent similar to talk You know, I think I feel a great sense of duty to bring our experience back to the ground and help the people on board Right now, you know, we have people on board the ISS working and living 24 hours a day And so it&#x27;s on us to bring our experience and help the ground team support them as best as we can</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a77" value="1"> Sí</label>
+    <label><input type="radio" name="a77" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b77" value="1"> Sí</label>
+    <label><input type="radio" name="b77" value="0"> No</label></div>
+  <input class="note" name="n77" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c78">
+  <div class="head"><b>Tarjeta 78</b></div>
+  <p class="text">phase combustion. You could do liquid phase or gas phase combustion. That&#x27;s all good stuff.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a78" value="1"> Sí</label>
+    <label><input type="radio" name="a78" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b78" value="1"> Sí</label>
+    <label><input type="radio" name="b78" value="0"> No</label></div>
+  <input class="note" name="n78" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c79">
+  <div class="head"><b>Tarjeta 79</b></div>
+  <p class="text">By protecting pristine coral reefs, hydrothermal vent communities, and rare marine archaeological resources, and integrating cutting-edge science into policy and decision-making to conserve and manage domestic and international marine resources and their habitats, while providing valuable forecasts and warnings in English and Samoan, and taking the pulse of the planet.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a79" value="1"> Sí</label>
+    <label><input type="radio" name="a79" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b79" value="1"> Sí</label>
+    <label><input type="radio" name="b79" value="0"> No</label></div>
+  <input class="note" name="n79" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+
+<section class="card" id="c80">
+  <div class="head"><b>Tarjeta 80</b></div>
+  <p class="text">A failing. And picking ourselves back up.</p>
+  <div class="q"><span>¿Empieza y termina en una oración completa?</span>
+    <label><input type="radio" name="a80" value="1"> Sí</label>
+    <label><input type="radio" name="a80" value="0"> No</label></div>
+  <div class="q"><span>¿Expresa una idea que se entiende sola?</span>
+    <label><input type="radio" name="b80" value="1"> Sí</label>
+    <label><input type="radio" name="b80" value="0"> No</label></div>
+  <input class="note" name="n80" placeholder="Comentario opcional (qué quedó cortado)">
+</section>
+<p><button id="dl">Descargar respuestas (CSV)</button> <small id="msg"></small></p>
+</main>
+<script>
+const TOTAL=80, KEY="revision_tarjetas_v1";
+let st={}; try{st=JSON.parse(localStorage.getItem(KEY)||"{}")}catch(e){}
+function save(){try{localStorage.setItem(KEY,JSON.stringify(st))}catch(e){}}
+function refresh(){let n=0;for(let i=1;i<=TOTAL;i++) if(st["a"+i]!==undefined&&st["b"+i]!==undefined) n++;
+ document.getElementById("cnt").textContent=n;document.getElementById("bar").style.width=(100*n/TOTAL)+"%"}
+document.querySelectorAll("input").forEach(el=>{
+ if(el.type==="radio"){ if(st[el.name]===el.value) el.checked=true;
+   el.addEventListener("change",()=>{st[el.name]=el.value;save();refresh()}) }
+ else { el.value=st[el.name]||""; el.addEventListener("input",()=>{st[el.name]=el.value;save()}) }});
+refresh();
+document.getElementById("dl").onclick=()=>{
+ const q=s=>'"'+String(s||"").replace(/"/g,'""')+'"';
+ let out="tarjeta,oracion_completa,idea_se_entiende_sola,comentario\n",miss=0;
+ for(let i=1;i<=TOTAL;i++){ if(st["a"+i]===undefined||st["b"+i]===undefined) miss++;
+  out+=[i,st["a"+i]??"",st["b"+i]??"",q(st["n"+i])].join(",")+"\n"}
+ const a=document.createElement("a");a.href=URL.createObjectURL(new Blob(["\ufeff"+out],{type:"text/csv"}));
+ a.download="respuestas_tarjetas.csv";a.click();
+ document.getElementById("msg").textContent=miss?("Faltan "+miss+" tarjetas por responder."):"Listo, envíame el archivo."};
+</script></body></html>

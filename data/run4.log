@@ -1,0 +1,13 @@
+provider deepseek | whisper small cpu int8
+==> jWA3_lz2uFw NOAA in the Pacific Islands
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at  926.65KiB/s (00:00:00)[download]   15.00KiB at    1.71MiB/s (00:00:00)[download]   31.00KiB at    3.53MiB/s (00:00:00)[download]   45.88KiB at    4.68MiB/s (00:00:00)[download] 100% of   45.88KiB in 00:00:00 at 194.56KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 21.2, 't_transcribe': 34.9, 'ok': True}
+==> 83DJv429PXE NASA’s SpaceX Crew-10 Astronauts Answer Our Questi
+[download]    1.00KiB at  Unknown B/s (00:00:00)[download]    3.00KiB at  Unknown B/s (00:00:00)[download]    7.00KiB at    6.32MiB/s (00:00:00)[download]   15.00KiB at   13.54MiB/s (00:00:00)[download]   31.00KiB at    9.12MiB/s (00:00:00)[download]   63.00KiB at    7.79MiB/s (00:00:00)[download]   79.85KiB at    8.76MiB/s (00:00:00)[download] 100% of   79.85KiB in 00:00:00 at 505.27KiB/s                                                        ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 21.0, 't_transcribe': 55.6, 'ok': True}
+==> 0e1Dy33fR_Q Build America, Buy America General Applicability W
+ERROR: unable to download video data: HTTP Error 403: Forbidden
+player_client 'android_vr' failed for this video (ERROR: unable to download video data: HTTP Error 403: Forbidden) -- trying the next client in the chain.
+    {'t_download': 15.1, 't_transcribe': 68.7, 'ok': True}

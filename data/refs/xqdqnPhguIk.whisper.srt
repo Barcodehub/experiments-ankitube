@@ -1,0 +1,184 @@
+1
+00:00:01,260 --> 00:00:06,540
+Today, we're celebrating a major milestone in the life of the International Space Station.
+
+2
+00:00:06,540 --> 00:00:12,140
+25 years ago, on March 19, 2001, the team at the Payload Operations Integration Center
+
+3
+00:00:12,140 --> 00:00:17,760
+at the Marshall Space Flight Center in Huntsville, Alabama began 24-7 payload operations.
+
+4
+00:00:17,760 --> 00:00:21,900
+This was the beginning of a partnership between the ground and the crew that has enabled
+
+5
+00:00:21,900 --> 00:00:27,480
+more than 4,000 different scientific investigations over the course of 25 years.
+
+6
+00:00:27,480 --> 00:00:33,940
+Those investigations have resulted in over 4,400 papers published in scientific journals.
+
+7
+00:00:33,940 --> 00:00:39,200
+It has taken incredible coordination, both on Earth and in orbit, to make this possible,
+
+8
+00:00:39,200 --> 00:00:44,840
+and now is the perfect time to highlight some key milestones along the way.
+
+9
+00:00:44,840 --> 00:00:50,760
+More than 27,000 shifts have been operated by over 400 certified flight controllers to
+
+10
+00:00:50,760 --> 00:00:54,060
+keep operations going continuously.
+
+11
+00:00:54,060 --> 00:00:59,120
+Hundreds of ops experts have authored thousands of procedures and planning products for an expansive
+
+12
+00:00:59,120 --> 00:01:05,100
+community of payload developers and scientists around the world.
+
+13
+00:01:05,100 --> 00:01:10,740
+Payload facilities on orbit have been powered on for a collective total of over 2.6 million
+
+14
+00:01:10,740 --> 00:01:16,180
+hours, providing essential resources for a wide variety of experiments.
+
+15
+00:01:16,180 --> 00:01:22,480
+In 2019, during Expedition 61, a time I personally remember very well, we set the
+
+16
+00:01:22,480 --> 00:01:32,420
+record for most science hours performed by the crew in a single week at 153 hours.
+
+17
+00:01:32,420 --> 00:01:41,100
+The crew has performed a total of over 43,000 hours of NASA, ESA, JAXA and CSA science arms.
+
+18
+00:01:41,100 --> 00:01:47,340
+The Alpha Magnetic Spectrometer has collected over 260 billion cosmic rays in the search
+
+19
+00:01:47,340 --> 00:01:48,980
+for dark matter.
+
+20
+00:01:48,980 --> 00:01:54,920
+Cold Atom Lab achieved temperatures colder than space, reaching hundreds of nanokalbin,
+
+21
+00:01:54,920 --> 00:01:59,760
+mere fractions of a degree above Absolent Zero.
+
+22
+00:01:59,760 --> 00:02:04,160
+Over a million students have participated in ham radio contacts, inspiring the next
+
+23
+00:02:04,160 --> 00:02:07,720
+generation of scientists and explorers.
+
+24
+00:02:07,720 --> 00:02:11,920
+Astronauts have grown more than 50 species of plants on station, including tomatoes,
+
+25
+00:02:11,920 --> 00:02:15,000
+bok choy, romaine lettuce, and chili peppers.
+
+26
+00:02:15,000 --> 00:02:16,000
+Delicious.
+
+27
+00:02:16,000 --> 00:02:21,500
+I'll never forget how fresh that mizuna lettuce tasted and how excited I was to have a fresh
+
+28
+00:02:21,500 --> 00:02:26,420
+space salad for the first time during Expedition 61.
+
+29
+00:02:26,420 --> 00:02:31,700
+The Space Acceleration Measurement System, SAMS-2, has been operating since Increment
+
+30
+00:02:31,700 --> 00:02:36,900
+2 and has collected nearly 1 million hours of acceleration data.
+
+31
+00:02:36,900 --> 00:02:43,340
+MSG has supported 72 different payloads with nearly 100,000 operational hours and
+
+32
+00:02:43,340 --> 00:02:46,560
+it was built in spec for only 10,000.
+
+33
+00:02:46,560 --> 00:02:52,000
+The NASA Road and Research Program, another one close to my heart, conducted 21 successful
+
+34
+00:02:52,000 --> 00:02:55,960
+science missions over a period of 11 years.
+
+35
+00:02:55,960 --> 00:03:00,240
+Scientific objectives included efforts to improve health outcomes on Earth and inform basic
+
+36
+00:03:00,240 --> 00:03:05,480
+physiological changes which may be applied to astronaut health during future exploration
+
+37
+00:03:05,480 --> 00:03:06,980
+missions.
+
+38
+00:03:06,980 --> 00:03:12,280
+All of this dedication and hard work has led to breakthroughs in fields as diverse
+
+39
+00:03:12,340 --> 00:03:19,940
+as 3D bioprinting, laser communications, pharmaceuticals, fiber optics, and crew health, which all
+
+40
+00:03:19,940 --> 00:03:24,660
+foster the commercial economy in low Earth's orbit.
+
+41
+00:03:24,660 --> 00:03:28,580
+We want to send our deepest thanks to the team at Huntsville, a spot we've passed overhead
+
+42
+00:03:28,580 --> 00:03:34,500
+over 40,000 times now for their incredible partnership in operating this orbit in laboratory.
+
+43
+00:03:34,500 --> 00:03:38,500
+We're looking forward to many more milestones as we prepare for missions to the moon
+
+44
+00:03:38,500 --> 00:03:40,500
+and then onward to Mars.
+
+45
+00:03:40,600 --> 00:03:46,980
+Fishing out the boundaries of human exploration and our understanding of the universe.
+
+46
+00:03:46,980 --> 00:03:48,980
+Thank you Huntsville!
+

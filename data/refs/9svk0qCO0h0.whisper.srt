@@ -1,0 +1,156 @@
+1
+00:00:00,000 --> 00:00:05,580
+Smoke is not a monolithic thing. Smoke is a mixture of gases, liquids, and primarily
+
+2
+00:00:05,580 --> 00:00:10,160
+particles, which are also known as aerosols. Paces gather data on these
+
+3
+00:00:10,160 --> 00:00:14,640
+aerosols so that we can get a better picture of how smoke interacts with the
+
+4
+00:00:14,640 --> 00:00:20,320
+atmosphere and all kinds of far-reaching effects. What a fire emits is highly
+
+5
+00:00:20,320 --> 00:00:25,640
+variable and it can depend on the number of factors such as fuel, moisture, and
+
+6
+00:00:25,680 --> 00:00:30,720
+the efficiency of the combustion. An efficiently burning fire can have dark
+
+7
+00:00:30,720 --> 00:00:37,230
+colored smoke, releasing a lot of carbon monoxide and carbon dioxide. A less
+
+8
+00:00:37,230 --> 00:00:41,630
+efficient burning fire can have different colored smoke, a lighter colored smoke,
+
+9
+00:00:41,630 --> 00:00:46,430
+and in addition to the carbon monoxide and carbon dioxide also releases a
+
+10
+00:00:46,430 --> 00:00:51,190
+number of other chemical compounds into the atmosphere. Soot, or black carbon,
+
+11
+00:00:51,190 --> 00:00:56,190
+is a result of efficient burning, and soot consists of chains of elemental
+
+12
+00:00:56,190 --> 00:01:00,190
+carbon sort of like graphite. Because they're dark, soot particles absorb
+
+13
+00:01:00,190 --> 00:01:05,630
+energy from the Sun and warm up the air surrounding the particle. Emitted
+
+14
+00:01:05,630 --> 00:01:10,710
+alongside black carbon are volatile organic compounds. These are gases which
+
+15
+00:01:10,710 --> 00:01:15,710
+can condense downwind from a fire onto the soot. These created particles are
+
+16
+00:01:15,710 --> 00:01:20,030
+called secondary organic aerosols, which means that they were not emitted
+
+17
+00:01:20,030 --> 00:01:24,310
+at the source. Secondary organic aerosols also form when smoke
+
+18
+00:01:24,430 --> 00:01:29,310
+interacts with the atmosphere. So one way in which secondary organic aerosols are
+
+19
+00:01:29,310 --> 00:01:34,590
+formed is through photochemical reactions. That means sunlight interacts with
+
+20
+00:01:34,590 --> 00:01:39,830
+gases emitted from smoke and those gases condense to form either particles in
+
+21
+00:01:39,830 --> 00:01:45,150
+their own right or form onto existing particles such as the soot which was
+
+22
+00:01:45,150 --> 00:01:50,110
+emitted originally. Another type of aerosol from fires is called brown
+
+23
+00:01:50,110 --> 00:01:55,270
+carbon, and in this case the smoke is, as one could expect, brownish in color,
+
+24
+00:01:55,270 --> 00:01:59,910
+meaning it's absorbing more light towards the blue and ultraviolet portion of the
+
+25
+00:01:59,910 --> 00:02:05,070
+electromagnetic spectrum. Brown carbon is formed when vegetation burns and
+
+26
+00:02:05,070 --> 00:02:10,910
+incorporated into the smoke are what are called humic substances and these
+
+27
+00:02:10,910 --> 00:02:15,470
+are the remnants of vegetation material. Imagine the pigments that are in
+
+28
+00:02:15,470 --> 00:02:22,550
+leaves as they decompose. All of these different smoke components have different
+
+29
+00:02:22,550 --> 00:02:26,870
+optical properties, and these optical properties describe how those particles
+
+30
+00:02:26,870 --> 00:02:33,460
+interact with light. The instruments on pace can measure some of those
+
+31
+00:02:33,460 --> 00:02:37,700
+properties, including at different wavelengths of light, at different
+
+32
+00:02:37,700 --> 00:02:42,460
+geometries and angles, and from that data we can figure out the quantity, the
+
+33
+00:02:42,460 --> 00:02:47,700
+color, the composition, the shape, and the size of aerosols in the
+
+34
+00:02:47,700 --> 00:02:52,660
+atmosphere, including smoke aerosols. We use all of that information together and
+
+35
+00:02:52,660 --> 00:02:57,420
+we use that to differentiate between smoke and other types of particles in the
+
+36
+00:02:57,420 --> 00:03:03,500
+atmosphere such as dust or different types of smoke from each other. The data
+
+37
+00:03:03,500 --> 00:03:08,740
+from PACE will help inform wildfire models but also give us a general better
+
+38
+00:03:08,740 --> 00:03:13,500
+sense of how aerosols from smoke impact things like air quality, human
+
+39
+00:03:13,500 --> 00:03:20,020
+health, weather, cloud formation, and other aspects of how our planet Earth works.
+
